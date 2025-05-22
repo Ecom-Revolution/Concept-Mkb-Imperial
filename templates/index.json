@@ -9,72 +9,17 @@
  */
 {
   "sections": {
-    "video_hero_gT6J8R": {
-      "type": "video-hero",
-      "blocks": {
-        "slide_Vw7UR7": {
-          "type": "slide",
-          "settings": {
-            "heading": "Heading",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_tAwNPA": {
-          "type": "slide",
-          "settings": {
-            "heading": "Heading",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_R8nnXR": {
-          "type": "slide",
-          "settings": {
-            "heading": "Heading",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Vw7UR7",
-        "slide_tAwNPA",
-        "slide_R8nnXR"
-      ],
-      "name": "t:sections.video-hero.presets.name",
-      "settings": {
-        "transparent_header": true,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "medium",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
+        "slide-3": {
+          "type": "video",
           "settings": {
-            "heading": "IMAGE SLIDE 1",
+            "video": "shopify://files/videos/8C55040D-77BA-483B-B9D0-030A52A63F61.mov",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "description": "",
+            "video_url_mobile": "",
+            "heading": "VIDEO SLIDE",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "button_label": "Shop Now",
@@ -96,35 +41,18 @@
             "button_external": false,
             "button_icon": false
           }
-        },
-        "slide-3": {
-          "type": "video",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "description": "",
-            "video_url_mobile": "",
-            "heading": "VIDEO SLIDE",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "button_label": "Shop Now",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2",
-        "slide-3"
+        "slide-3",
+        "slide-2"
       ],
       "settings": {
         "autoplay": false,
         "autoplay_speed": 7,
         "show_navigation": true,
         "image_height": "750px",
-        "content_width": "small",
+        "content_width": "large",
         "image_height_mobile": "500px",
         "color_text": "#ffffff",
         "color_background": "#ffffff",
@@ -141,6 +69,43 @@
         "rounded": false,
         "enable_parallax": false,
         "parallax_direction": "vertical"
+      }
+    },
+    "video_hero_gT6J8R": {
+      "type": "video-hero",
+      "blocks": {
+        "slide_Vw7UR7": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Vw7UR7"
+      ],
+      "name": "t:sections.video-hero.presets.name",
+      "settings": {
+        "transparent_header": true,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "medium",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
       }
     },
     "rich-text-1": {
@@ -1275,8 +1240,8 @@
     }
   },
   "order": [
-    "video_hero_gT6J8R",
     "slideshow",
+    "video_hero_gT6J8R",
     "rich-text-1",
     "collection-list",
     "video-with-text-overlay",
