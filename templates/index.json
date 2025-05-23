@@ -16,7 +16,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/8C55040D-77BA-483B-B9D0-030A52A63F61.mov",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_url": "",
             "description": "",
             "video_url_mobile": "",
             "heading": "VIDEO SLIDE",
@@ -96,6 +96,7 @@
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "content_width": "medium",
+        "video_url_mobile": "",
         "color_text": "#ffffff",
         "color_highlight": "",
         "gradient_highlight": "",
