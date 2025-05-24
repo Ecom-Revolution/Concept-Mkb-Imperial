@@ -91,6 +91,7 @@
       "name": "t:sections.video-hero.presets.name",
       "settings": {
         "transparent_header": true,
+        "video": "shopify://files/videos/copy_3F0726B1-3F7A-48FF-801E-69A899A9AF46.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "enable_video_autoplay": true,
