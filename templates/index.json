@@ -1075,11 +1075,11 @@
       ],
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
-        "heading": "Shop the <em>look</em>",
+        "heading": "Nouveau Arrivage",
         "heading_size": "title-sm",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
-        "subheading": "Add a tagline",
+        "subheading": "MKB IMPERIAL",
         "description": "",
         "button_label": "",
         "button_link": "",
@@ -1174,69 +1174,6 @@
         "parallax_direction": "vertical"
       }
     },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 1"
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 2"
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 3"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Best Sellers",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "divider": false,
-        "full_width": false,
-        "rounded": true
-      }
-    },
     "testimonials-banner": {
       "type": "testimonials-banner",
       "blocks": {
@@ -1244,21 +1181,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
+            "text": "<p>Un sillage peut en dire plus qu’un regard</p>",
+            "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
             "image_ratio": "rounded",
@@ -1270,8 +1194,21 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
+            "text": "<p>Les mots s’oublient, le parfum marque.</p>",
+            "author": "MKB IMPÉRIAL",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_qf7F7d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>\"Un parfum, c’est une présence qui reste quand tout s’estompe.</p>",
+            "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
             "image_ratio": "rounded",
@@ -1282,8 +1219,8 @@
       },
       "block_order": [
         "testimonial-1",
-        "testimonial-2",
-        "testimonial-3"
+        "testimonial-3",
+        "testimonial_qf7F7d"
       ],
       "settings": {
         "transparent_header": false,
@@ -1357,7 +1294,6 @@
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
-    "featured-collections",
     "testimonials-banner",
     "blog-posts-collage"
   ]
