@@ -219,7 +219,7 @@
         "slide-1": {
           "type": "slide",
           "settings": {
-            "heading": "Video slide 1",
+            "heading": "DÉTERMINATION",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -229,7 +229,7 @@
         "slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Video slide 2",
+            "heading": "SUCCÈS",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -239,7 +239,7 @@
         "slide-3": {
           "type": "slide",
           "settings": {
-            "heading": "Video slide 3",
+            "heading": "ROYAUTÉ",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -249,7 +249,7 @@
         "slide-4": {
           "type": "slide",
           "settings": {
-            "heading": "Video slide 4",
+            "heading": "IMPÉRIAL",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
