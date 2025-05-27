@@ -1007,6 +1007,7 @@
       ],
       "settings": {
         "transparent_header": false,
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
         "image_height": "750px",
         "content_width": "medium",
         "content_position": "md:items-center md:justify-center",
@@ -1174,6 +1175,102 @@
         "parallax_direction": "vertical"
       }
     },
+    "blog-posts-collage": {
+      "type": "blog-posts-collage",
+      "settings": {
+        "blog": "",
+        "post_limit": 3,
+        "show_view_all": true,
+        "image_ratio": "landscape",
+        "show_tags": true,
+        "show_date": true,
+        "show_comments": true,
+        "show_author": false,
+        "show_excerpt": true,
+        "heading": "Latest Stories",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "highlight_text_ahKX9h": {
+      "type": "highlight-text",
+      "blocks": {
+        "heading_yB4LAL": {
+          "type": "heading",
+          "settings": {
+            "heading": "MKB IMPÉRIAL VOUS REMERCIE",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "image_Er4w9c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "image_width": 150,
+            "image_height": 90,
+            "link": "",
+            "description": "",
+            "image_width_mobile": 90,
+            "image_height_mobile": 50
+          }
+        }
+      },
+      "block_order": [
+        "heading_yB4LAL",
+        "image_Er4w9c"
+      ],
+      "name": "t:sections.highlight-text.presets.name",
+      "settings": {
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 100,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
     "testimonials-banner": {
       "type": "testimonials-banner",
       "blocks": {
@@ -1224,6 +1321,7 @@
       ],
       "settings": {
         "transparent_header": false,
+        "image": "shopify://shop_images/696278-fond-noir-texture-gratuit-vectoriel.jpg",
         "image_height": "750px",
         "content_position": "md:items-center md:justify-center",
         "image_height_mobile": "500px",
@@ -1239,41 +1337,6 @@
         "rounded": true,
         "enable_parallax": true,
         "parallax_direction": "vertical"
-      }
-    },
-    "blog-posts-collage": {
-      "type": "blog-posts-collage",
-      "settings": {
-        "blog": "",
-        "post_limit": 3,
-        "show_view_all": true,
-        "image_ratio": "landscape",
-        "show_tags": true,
-        "show_date": true,
-        "show_comments": true,
-        "show_author": false,
-        "show_excerpt": true,
-        "heading": "Latest Stories",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
       }
     }
   },
@@ -1294,7 +1357,8 @@
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
-    "testimonials-banner",
-    "blog-posts-collage"
+    "blog-posts-collage",
+    "highlight_text_ahKX9h",
+    "testimonials-banner"
   ]
 }

@@ -30,6 +30,7 @@
       "block_order": [
         "announcement-1"
       ],
+      "disabled": true,
       "settings": {
         "show_social": true,
         "enable_language_selector": true,

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.footer-group.name",
@@ -9,8 +18,9 @@
           "type": "column",
           "settings": {
             "icon": "support",
-            "heading": "Customer service",
-            "text": "<p>It’s not actually free we just price it into the products.</p>",
+            "custom_icon": "",
+            "heading": "Service Client",
+            "text": "<p>Disponible 7/7J</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -19,8 +29,9 @@
           "type": "column",
           "settings": {
             "icon": "box",
-            "heading": "Fast Free Shipping",
-            "text": "<p>Get free shipping on orders of $150 or more</p>",
+            "custom_icon": "",
+            "heading": "Livraison",
+            "text": "<p>Obtenez la livraison gratuite sur les commandes de 150€ ou plus</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -29,8 +40,9 @@
           "type": "column",
           "settings": {
             "icon": "users",
-            "heading": "Refer a friend",
-            "text": "<p>Refer a friend and get 15% off each other.</p>",
+            "custom_icon": "",
+            "heading": "Parrainer un ami",
+            "text": "<p>Parrainez un ami et obtenez 15% de réductions les uns des autres.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -39,8 +51,9 @@
           "type": "column",
           "settings": {
             "icon": "shield",
-            "heading": "Secure payment",
-            "text": "<p>Your payment information is processed securely</p>",
+            "custom_icon": "",
+            "heading": "Payement Securisé",
+            "text": "<p>Vos informations de paiement sont traitées en toute sécurité</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -64,6 +77,8 @@
         "description": "",
         "button_label": "",
         "button_link": "",
+        "button_external": false,
+        "button_icon": true,
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -87,7 +102,6 @@
         "logo_social": {
           "type": "logo_social",
           "settings": {
-            "logo": "",
             "logo_height": 50,
             "show_social": false,
             "enable_follow_on_shop": false
@@ -98,7 +112,8 @@
           "settings": {
             "heading": "Quick links",
             "menu": "footer",
-            "container_width": 50
+            "container_width": 50,
+            "opened": false
           }
         },
         "link_list-2": {
@@ -106,7 +121,8 @@
           "settings": {
             "heading": "Information",
             "menu": "footer",
-            "container_width": 50
+            "container_width": 50,
+            "opened": false
           }
         },
         "brand_information": {
@@ -121,7 +137,8 @@
             "button_link_3": "",
             "button_label_4": "",
             "button_link_4": "",
-            "container_width": 95
+            "container_width": 95,
+            "opened": false
           }
         }
       },
@@ -137,7 +154,6 @@
         "newsletter_heading": "Stay in the loop with our weekly newsletter",
         "newsletter_heading_size": "md:title-lg",
         "newsletter_text": "",
-        "newsletter_logo": "",
         "newsletter_logo_height": 50,
         "show_social": true,
         "enable_follow_on_shop": false,
