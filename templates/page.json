@@ -107,10 +107,10 @@
         "content_zjWf4K": {
           "type": "content",
           "settings": {
-            "subheading": "Text",
-            "heading": "Heading",
+            "subheading": "",
+            "heading": "2. <strong>L’entrepreneuriat, c’est aussi tomber… et se relever</strong>",
             "heading_tag": "h2",
-            "text": "<p>Parce que derrière ce site, il y a <strong>une équipe qui croit profondément en ce qu’elle fait</strong>.<br/><br/>Des gens qui portent eux-mêmes les parfums qu’ils vous proposent.<br/><br/>Pas des vendeurs. Des passionnés. Des utilisateurs. Des rêveurs.</p>",
+            "text": "<p>Mais c’est aussi ça, l’entrepreneuriat. Ce n’est pas une ligne droite, c’est une route pleine d’obstacles et de leçons.<br/><br/>Et à chaque fois qu’on est tombé, on s’est relevé. Plus lucide. Plus solide. Plus déterminé.</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
