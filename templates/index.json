@@ -9,25 +9,78 @@
  */
 {
   "sections": {
-    "video_nm7y4K": {
-      "type": "video",
-      "name": "t:sections.video.presets.name",
+    "slideshow_FyDkPN": {
+      "type": "slideshow",
+      "blocks": {
+        "image_L7maDH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_eLX7jN": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_aempfr": {
+          "type": "image",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "image_L7maDH",
+        "image_eLX7jN",
+        "image_aempfr"
+      ],
+      "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "transparent_header": true,
-        "video": "shopify://files/videos/8C55040D-77BA-483B-B9D0-030A52A63F61.mov",
-        "video_url": "",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "image_height": "adapt",
-        "video_mobile": "shopify://files/videos/520381DE-8F32-48AE-8C14-B2EF56173766.MOV",
-        "video_url_mobile": "",
-        "image_height_mobile": "100vh",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "100vh",
+        "content_width": "large",
+        "image_height_mobile": "auto",
+        "color_text": "#ffffff",
+        "color_background": "rgba(0,0,0,0)",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 20,
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
         "full_width": true,
-        "rounded": false
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
       }
     },
     "rich-text-1": {
@@ -1333,7 +1386,7 @@
     }
   },
   "order": [
-    "video_nm7y4K",
+    "slideshow_FyDkPN",
     "rich-text-1",
     "scrolling-text-2",
     "collection-list",
