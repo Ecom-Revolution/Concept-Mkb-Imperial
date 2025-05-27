@@ -9,66 +9,24 @@
  */
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-3": {
-          "type": "video",
-          "settings": {
-            "video": "shopify://files/videos/8C55040D-77BA-483B-B9D0-030A52A63F61.mov",
-            "video_url": "",
-            "description": "",
-            "video_url_mobile": "",
-            "heading": "VIDEO SLIDE",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "button_label": "Shop Now",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "heading": "IMAGE SLIDE 2",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "button_label": "Shop Now",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "slide-3",
-        "slide-2"
-      ],
+    "video_nm7y4K": {
+      "type": "video",
+      "name": "t:sections.video.presets.name",
       "settings": {
-        "autoplay": false,
-        "autoplay_speed": 7,
-        "show_navigation": true,
-        "image_height": "750px",
-        "content_width": "large",
-        "image_height_mobile": "500px",
-        "color_text": "#ffffff",
-        "color_background": "#ffffff",
-        "gradient_background": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 20,
+        "transparent_header": true,
+        "video": "shopify://files/videos/8C55040D-77BA-483B-B9D0-030A52A63F61.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "image_height": "adapt",
+        "video_mobile": "shopify://files/videos/520381DE-8F32-48AE-8C14-B2EF56173766.MOV",
+        "image_height_mobile": "auto",
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
         "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
+        "rounded": false
       }
     },
     "video_hero_gT6J8R": {
@@ -1242,7 +1200,7 @@
     }
   },
   "order": [
-    "slideshow",
+    "video_nm7y4K",
     "video_hero_gT6J8R",
     "rich-text-1",
     "collection-list",
