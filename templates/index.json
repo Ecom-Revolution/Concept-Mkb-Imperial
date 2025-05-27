@@ -191,10 +191,10 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "collection-gourmande-sucree-🍭",
             "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
-            "title": "Collection 2",
-            "description": "Collection description",
+            "title": "Collection Gourmande & Sucrée 🍭",
+            "description": "Parfums crémeux, fruités, vanillés, confiserie.",
             "overlay_content": false,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
