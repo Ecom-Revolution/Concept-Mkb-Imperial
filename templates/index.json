@@ -30,27 +30,6 @@
         "rounded": false
       }
     },
-    "reveal_image_with_text_zNKntq": {
-      "type": "reveal-image-with-text",
-      "name": "t:sections.reveal-image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/logo_seulement.png",
-        "image_mobile": "shopify://shop_images/logo_seulement.png",
-        "content_width": "medium",
-        "heading": "Reveal image with text",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center",
-        "heading_tag": "h2",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "color_text": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": ""
-      }
-    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -627,63 +606,6 @@
         "enable_parallax": true
       }
     },
-    "image-comparison": {
-      "type": "image-comparison",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "heading": "Before image",
-            "content_position": "end",
-            "color_text": "#ffffff"
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "heading": "After image",
-            "content_position": "end",
-            "color_text": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2"
-      ],
-      "settings": {
-        "layout": "horizontal",
-        "image_height": "750px",
-        "image_height_mobile": "300px",
-        "heading": "<em>Image comparison</em>",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_tag": "h2",
-        "subheading": "Add a tagline",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "text",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "linear-gradient(90deg, rgba(249, 197, 141, 1), rgba(43, 43, 43, 1) 100%)",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 100,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
-    },
     "rich-text-2": {
       "type": "rich-text",
       "custom_css": [
@@ -719,6 +641,27 @@
         "divider": false,
         "narrow": false,
         "rounded": false
+      }
+    },
+    "reveal_image_with_text_zNKntq": {
+      "type": "reveal-image-with-text",
+      "name": "t:sections.reveal-image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/logo_seulement.png",
+        "image_mobile": "shopify://shop_images/logo_seulement.png",
+        "content_width": "medium",
+        "heading": "Reveal image with text",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center",
+        "heading_tag": "h2",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "color_text": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": ""
       }
     },
     "product-bundle": {
@@ -1161,6 +1104,74 @@
         "rounded": true
       }
     },
+    "floating_product_bundle_yxjpiE": {
+      "type": "floating-product-bundle",
+      "blocks": {
+        "heading_kihK3R": {
+          "type": "heading",
+          "settings": {
+            "heading": "Product bundle",
+            "heading_size": "title-md",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_YLKPqp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kihK3R",
+        "text_YLKPqp"
+      ],
+      "name": "t:sections.floating-product-bundle.presets.name",
+      "settings": {
+        "collection": "",
+        "products": [
+          "yara-orange-lattafa-eau-de-parfum-100ml",
+          "lattafa-yara-blanc-eau-de-parfum-100ml",
+          "yara-100-ml-par-lattafa-perfumes-eau-de-parfum"
+        ],
+        "product_limit": 3,
+        "image_height": "900px",
+        "layout": "image_first",
+        "content_position": "md:items-end",
+        "text_alignment": "left",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-center",
+        "text_alignment_mobile": "center",
+        "swipe_on_mobile": true,
+        "show_variant_labels": true,
+        "picker_type": "button",
+        "enable_color_swatches": true,
+        "color_swatch_type": "color",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true,
+        "parallax_direction": "vertical"
+      }
+    },
     "testimonials-banner": {
       "type": "testimonials-banner",
       "blocks": {
@@ -1329,7 +1340,6 @@
   },
   "order": [
     "video_nm7y4K",
-    "reveal_image_with_text_zNKntq",
     "rich-text-1",
     "scrolling-text-2",
     "collection-list",
@@ -1337,13 +1347,14 @@
     "featured-product",
     "reveal_image_with_text_overlay_jDWK4Q",
     "images_with_text_overlay_Ui9jC7",
-    "image-comparison",
     "rich-text-2",
+    "reveal_image_with_text_zNKntq",
     "product-bundle",
     "scrolling-text-1",
     "shop-the-feed",
     "countdown-timer",
     "shop-the-look",
+    "floating_product_bundle_yxjpiE",
     "testimonials-banner",
     "featured-collections",
     "blog-posts-collage"
