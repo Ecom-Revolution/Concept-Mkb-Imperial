@@ -438,6 +438,7 @@
       ],
       "name": "t:sections.reveal-image-with-text-overlay.presets.name",
       "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_25_05.png",
         "content_width": "small",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
