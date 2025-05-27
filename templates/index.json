@@ -377,7 +377,7 @@
         "@media screen and (min-width: 1920px) {.featured-product {gap: var(--grid-gap); padding-inline: calc(var(--grid-gap) * 2); }}"
       ],
       "settings": {
-        "product": "",
+        "product": "ajwad-60-ml-eau-de-parfum-mixte-lattafa",
         "enable_sticky_info": true,
         "media_size": 64,
         "gallery_layout": "thumbnail",
