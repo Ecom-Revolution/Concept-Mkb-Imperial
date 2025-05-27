@@ -91,6 +91,17 @@
             "help_page": ""
           }
         },
+        "product_bundle_idfcGh": {
+          "type": "product_bundle",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "heading": "Popular upgrades",
+            "products": [],
+            "metafield": "",
+            "opened": true
+          }
+        },
         "complementary": {
           "type": "complementary",
           "settings": {
@@ -115,6 +126,7 @@
         "buy_buttons",
         "pickup_availability",
         "share",
+        "product_bundle_idfcGh",
         "complementary",
         "sticky_buy_button"
       ],
