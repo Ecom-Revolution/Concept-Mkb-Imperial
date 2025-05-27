@@ -615,19 +615,19 @@
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
-        "heading": "Build your <em>Bundle</em>",
+        "heading": "Crée ton  <em>Offre</em>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "large",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>The choice is yours. With our bundle builder, you can select any combination from our range of products. The easiest way to keep everyone happy.</p>",
+        "description": "",
         "button_label": "",
         "button_link": "",
         "button_external": false,
         "button_icon": true,
         "highlighted_text": "scribble",
-        "highlighted_scribble": "squiggle-underline",
+        "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
@@ -647,10 +647,10 @@
       "type": "reveal-image-with-text",
       "name": "t:sections.reveal-image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/logo_seulement.png",
-        "image_mobile": "shopify://shop_images/logo_seulement.png",
-        "content_width": "medium",
-        "heading": "Reveal image with text",
+        "image": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
+        "image_mobile": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
+        "content_width": "small",
+        "heading": "Créez votre Offre . Chez MKB Impérial nous vous proposons votre propre Bundle 100% personnalisée",
         "heading_size": "title-md",
         "heading_alignment": "text-center",
         "heading_tag": "h2",
@@ -687,12 +687,12 @@
         "picker_type": "button",
         "enable_color_swatches": true,
         "color_swatch_type": "color",
-        "heading": "Your bundle",
+        "heading": "Crée Votre Offre",
         "heading_size": "lg:text-5xl text-2xl",
         "heading_alignment": "text-left",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Add at least 3 products to proceed and Save 30%</p>",
+        "description": "<p>Ajouter au moins 3 produits pour continuer et économiser 30%</p>",
         "highlighted_text": "none",
         "highlighted_scribble": "circle",
         "color_text": "",
@@ -1148,6 +1148,7 @@
         "layout": "image_first",
         "content_position": "md:items-end",
         "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
         "image_height_mobile": "adapt",
         "content_position_mobile": "items-center",
         "text_alignment_mobile": "center",
@@ -1171,6 +1172,69 @@
         "rounded": false,
         "enable_parallax": true,
         "parallax_direction": "vertical"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products": [],
+            "title": "Collection 1"
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products": [],
+            "title": "Collection 2"
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products": [],
+            "title": "Collection 3"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Best Sellers",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
       }
     },
     "testimonials-banner": {
@@ -1238,69 +1302,6 @@
         "rounded": true,
         "enable_parallax": true,
         "parallax_direction": "vertical"
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 1"
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 2"
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products": [],
-            "title": "Collection 3"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "product_limit": 6,
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "Best Sellers",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
-        "divider": false,
-        "full_width": false,
-        "rounded": true
       }
     },
     "blog-posts-collage": {
