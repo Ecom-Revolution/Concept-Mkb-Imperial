@@ -94,7 +94,7 @@
             "subheading": "Text",
             "heading": "Heading",
             "heading_tag": "h2",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>On ne va pas vous mentir : ce projet, on l’a lancé avec passion… mais aussi avec beaucoup d’erreurs, d’échecs, de doutes.</p><p>Le site ? Il a sauté plusieurs fois.<br/><br/>Les galères ? On les a toutes connues : bugs, imprévus, retards, désillusions... et bien d'autres encore.<br/><br/>On a même failli tout arrêter. Vraiment.</p><p>Mais c’est aussi ça, l’entrepreneuriat. Ce n’est pas une ligne droite, c’est une route pleine d’obstacles et de leçons.<br/><br/>Et à chaque fois qu’on est tombé, on s’est relevé. Plus lucide. Plus solide. Plus déterminé.</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
@@ -180,7 +180,7 @@
       "settings": {
         "image_ratio": "portrait",
         "image_ratio_mobile": "wide",
-        "heading": "Timeline",
+        "heading": "<strong>Notre histoire, c’est celle de la persévérance.</strong>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
