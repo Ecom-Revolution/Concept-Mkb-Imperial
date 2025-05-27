@@ -1309,7 +1309,7 @@
       "type": "reveal-image-with-text",
       "name": "t:sections.reveal-image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/pixelcut-export_59.png",
+        "image": "shopify://shop_images/logo_seulement.png",
         "image_mobile": "shopify://shop_images/logo_seulement.png",
         "content_width": "medium",
         "heading": "Reveal image with text",
