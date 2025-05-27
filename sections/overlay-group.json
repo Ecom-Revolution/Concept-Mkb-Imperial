@@ -32,7 +32,7 @@
           "frontpage"
         ],
         "recent_products_enabled": true,
-        "recent_products_heading": "Recently viewed",
+        "recent_products_heading": "récemment consultés",
         "recent_products_limit": 5,
         "show_recent_products_vendor": false,
         "show_recent_products_price": true
@@ -264,7 +264,7 @@
           "type": "home",
           "settings": {
             "custom_icon": "",
-            "title": "Home"
+            "title": "Accueil"
           }
         },
         "mobile-dock-2": {
@@ -278,7 +278,7 @@
           "type": "search",
           "settings": {
             "custom_icon": "",
-            "title": "Search"
+            "title": "Rechercher"
           }
         },
         "mobile-dock-4": {
@@ -294,14 +294,14 @@
           "type": "cart",
           "settings": {
             "custom_icon": "",
-            "title": "Cart"
+            "title": "Panier"
           }
         },
         "mobile-dock-6": {
           "type": "account",
           "settings": {
             "custom_icon": "",
-            "title": "Account"
+            "title": "Compte"
           }
         }
       },
