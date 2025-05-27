@@ -172,7 +172,7 @@
             "overlay_content": true,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 15
           }
         },
         "collection-2": {
