@@ -159,6 +159,7 @@
         "content_BmtMRX": {
           "type": "content",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_21_32.png",
             "subheading": "",
             "heading": "5. <strong>Croire en ses rêves, toujours</strong>",
             "heading_tag": "h2",
