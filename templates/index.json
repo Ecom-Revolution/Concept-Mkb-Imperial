@@ -958,7 +958,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Countdown timer</p>",
+            "text": "<p>Nouveau Arrivage </p>",
             "text_size": "subtext-custom",
             "text_max_size": 32,
             "text_font": "body",
@@ -977,9 +977,9 @@
         "timer": {
           "type": "timer",
           "settings": {
-            "year": "2026",
-            "month": "01",
-            "day": "1",
+            "year": "2025",
+            "month": "06",
+            "day": "10",
             "hour": "03",
             "minute": "00",
             "text_font": "heading",
@@ -990,7 +990,7 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
+            "button_label": "Découvrir",
             "button_link": "",
             "button_style": "secondary",
             "button_size": "md",
@@ -1143,6 +1143,7 @@
           "yara-100-ml-par-lattafa-perfumes-eau-de-parfum"
         ],
         "product_limit": 3,
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
         "image_height": "900px",
         "layout": "image_first",
         "content_position": "md:items-end",
@@ -1355,8 +1356,8 @@
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
-    "testimonials-banner",
     "featured-collections",
+    "testimonials-banner",
     "blog-posts-collage"
   ]
 }
