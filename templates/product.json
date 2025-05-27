@@ -439,7 +439,7 @@
         "text_DPGTBT": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.<br/></p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -479,7 +479,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<em><strong>Free shipping and returns</strong></em>",
+            "text": "<em><strong>MKB IMPÉRIAL</strong></em>",
             "text_size": 160,
             "text_font": "body",
             "highlighted_text": "stencil",
@@ -504,87 +504,6 @@
         "padding_top": 28,
         "padding_bottom": 28,
         "divider": false,
-        "rounded": false
-      }
-    },
-    "product-details": {
-      "type": "product-details",
-      "blocks": {
-        "collapsible_tab-1": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "icon_width": 24,
-            "heading": "Collapsible row 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "metafields": ""
-          }
-        },
-        "collapsible_tab-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "icon_width": 24,
-            "heading": "Collapsible row 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "metafields": ""
-          }
-        },
-        "collapsible_tab-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "icon_width": 24,
-            "heading": "Collapsible row 3",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "metafields": ""
-          }
-        },
-        "collapsible_tab-4": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "icon_width": 24,
-            "heading": "Collapsible row 4",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "metafields": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_tab-1",
-        "collapsible_tab-2",
-        "collapsible_tab-3",
-        "collapsible_tab-4"
-      ],
-      "settings": {
-        "style": "with-border",
-        "open_first_row": true,
-        "specifications_heading": "",
-        "heading": "Product details",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "#000000",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "divider": false,
-        "full_width": false,
         "rounded": false
       }
     },
@@ -758,7 +677,6 @@
     "collage",
     "reveal_image_with_text_overlay_x4wkV8",
     "scrolling-text",
-    "product-details",
     "faq",
     "product-recommendations",
     "recently-viewed"
