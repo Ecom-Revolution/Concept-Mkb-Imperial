@@ -22,46 +22,7 @@
         "image_height": "adapt",
         "video_mobile": "shopify://files/videos/520381DE-8F32-48AE-8C14-B2EF56173766.MOV",
         "video_url_mobile": "",
-        "image_height_mobile": "auto",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
-      }
-    },
-    "video_hero_gT6J8R": {
-      "type": "video-hero",
-      "blocks": {
-        "slide_Vw7UR7": {
-          "type": "slide",
-          "settings": {
-            "heading": "Heading",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide_Vw7UR7"
-      ],
-      "name": "t:sections.video-hero.presets.name",
-      "settings": {
-        "transparent_header": true,
-        "video": "shopify://files/videos/copy_3F0726B1-3F7A-48FF-801E-69A899A9AF46.mov",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "medium",
-        "video_url_mobile": "",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
+        "image_height_mobile": "100vh",
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
@@ -235,75 +196,76 @@
         "rounded": false
       }
     },
-    "video-with-text-overlay": {
-      "type": "video-with-text-overlay",
+    "video_hero_gT6J8R": {
+      "type": "video-hero",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "slide_WN3PDp": {
+          "type": "slide",
           "settings": {
-            "heading": "Video with text overlay",
-            "heading_size": "title-md",
+            "heading": "Détermination",
+            "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text": {
-          "type": "text",
+        "slide_gAqqWK": {
+          "type": "slide",
           "settings": {
-            "text": "<p>Give customers details about the banner image(s) or content on the template.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": true,
+            "heading": "succès",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "button": {
-          "type": "button",
+        "slide_Vw7UR7": {
+          "type": "slide",
           "settings": {
-            "button_label": "Shop Now",
-            "button_link": "",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
+            "heading": "royauté",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_FmTxRY": {
+          "type": "slide",
+          "settings": {
+            "heading": "impérial",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "slide_WN3PDp",
+        "slide_gAqqWK",
+        "slide_Vw7UR7",
+        "slide_FmTxRY"
       ],
+      "name": "t:sections.video-hero.presets.name",
       "settings": {
-        "transparent_header": false,
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "transparent_header": true,
+        "video": "shopify://files/videos/copy_3F0726B1-3F7A-48FF-801E-69A899A9AF46.mov",
+        "video_url": "",
         "description": "",
         "enable_video_autoplay": true,
         "enable_video_looping": true,
-        "image_height": "750px",
         "content_width": "medium",
-        "content_position": "md:items-center md:justify-center",
-        "text_alignment": "center",
         "video_url_mobile": "",
-        "image_height_mobile": "auto",
-        "content_position_mobile": "items-center justify-center",
-        "text_alignment_mobile": "center",
         "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
+        "color_highlight": "",
         "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
         "color_overlay": "#000000",
-        "overlay_opacity": 50,
+        "overlay_opacity": 40,
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
         "full_width": true,
-        "rounded": true
+        "rounded": false
       }
     },
     "featured-product": {
@@ -1202,10 +1164,9 @@
   },
   "order": [
     "video_nm7y4K",
-    "video_hero_gT6J8R",
     "rich-text-1",
     "collection-list",
-    "video-with-text-overlay",
+    "video_hero_gT6J8R",
     "featured-product",
     "image-comparison",
     "rich-text-2",
