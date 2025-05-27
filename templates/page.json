@@ -1,9 +1,19 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-page": {
       "type": "main-page",
       "settings": {
         "heading_size": "title-xl tracking-heading",
+        "heading_alignment": "text-left",
         "heading_tag": "h1",
         "text_size": "text-base",
         "padding_top": 72,
@@ -12,9 +22,286 @@
         "narrow": true,
         "rounded": false
       }
+    },
+    "timeline_PkY9MK": {
+      "type": "timeline",
+      "blocks": {
+        "content_9UG9W6": {
+          "type": "content",
+          "settings": {
+            "subheading": "Text",
+            "heading": "Heading",
+            "heading_tag": "h2",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_zjWf4K": {
+          "type": "content",
+          "settings": {
+            "subheading": "Text",
+            "heading": "Heading",
+            "heading_tag": "h2",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_9Qw3cy": {
+          "type": "content",
+          "settings": {
+            "subheading": "Text",
+            "heading": "Heading",
+            "heading_tag": "h2",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_4RYiLg": {
+          "type": "content",
+          "settings": {
+            "subheading": "Text",
+            "heading": "Heading",
+            "heading_tag": "h2",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_BmtMRX": {
+          "type": "content",
+          "settings": {
+            "subheading": "Text",
+            "heading": "Heading",
+            "heading_tag": "h2",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "content_9UG9W6",
+        "content_zjWf4K",
+        "content_9Qw3cy",
+        "content_4RYiLg",
+        "content_BmtMRX"
+      ],
+      "name": "t:sections.timeline.presets.name",
+      "settings": {
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "wide",
+        "heading": "Timeline",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "reveal_testimonials_aqejcK": {
+      "type": "reveal-testimonials",
+      "blocks": {
+        "testimonial_9rUYKj": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_taf7Vd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_gmew8d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_Fwehza": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_DqqUDq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
+            "author": "Author's name",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9rUYKj",
+        "testimonial_taf7Vd",
+        "testimonial_gmew8d",
+        "testimonial_Fwehza",
+        "testimonial_DqqUDq"
+      ],
+      "name": "t:sections.reveal-testimonials.presets.name",
+      "settings": {
+        "heading": "Merci pour vos retours",
+        "heading_size": "title-md",
+        "heading_tag": "h2",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "video_hero_YEA39C": {
+      "type": "video-hero",
+      "blocks": {
+        "slide_GJVpUy": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_LidxLk": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_U8A7ii": {
+          "type": "slide",
+          "settings": {
+            "heading": "Heading",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GJVpUy",
+        "slide_LidxLk",
+        "slide_U8A7ii"
+      ],
+      "name": "t:sections.video-hero.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "medium",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
     }
   },
   "order": [
-    "main-page"
+    "main-page",
+    "video_hero_YEA39C",
+    "timeline_PkY9MK",
+    "reveal_testimonials_aqejcK"
   ]
 }
