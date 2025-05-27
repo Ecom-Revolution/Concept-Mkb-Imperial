@@ -996,8 +996,8 @@
           "settings": {
             "product": "yara-orange-lattafa-eau-de-parfum-100ml",
             "color_text": "#ffffff",
-            "vertical": 35,
-            "horizontal": 15,
+            "vertical": 50,
+            "horizontal": 20,
             "vertical_mobile": 25,
             "horizontal_mobile": 25
           }
@@ -1007,8 +1007,8 @@
           "settings": {
             "product": "lattafa-yara-blanc-eau-de-parfum-100ml",
             "color_text": "#ffffff",
-            "vertical": 65,
-            "horizontal": 38,
+            "vertical": 50,
+            "horizontal": 45,
             "vertical_mobile": 75,
             "horizontal_mobile": 65
           }
@@ -1019,8 +1019,8 @@
             "product": "yara-candy-eau-de-parfum-100-ml",
             "color_text": "#ffffff",
             "vertical": 50,
-            "horizontal": 62,
-            "vertical_mobile": 55,
+            "horizontal": 72,
+            "vertical_mobile": 50,
             "horizontal_mobile": 50
           }
         }
