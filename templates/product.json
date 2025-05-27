@@ -290,10 +290,11 @@
         "image-1": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline</em>",
-            "heading": "Example heading",
+            "subheading": "",
+            "heading": "",
             "link": "",
             "invert_subheading_heading": false,
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
             "image_ratio": "landscape",
             "content_position": "md:items-end md:justify-center",
             "text_alignment": "center",
@@ -312,10 +313,11 @@
         "image-2": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline</em>",
-            "heading": "Example heading",
+            "subheading": "",
+            "heading": "",
             "link": "",
             "invert_subheading_heading": false,
+            "image": "shopify://shop_images/A_photograph_showcases_a_Yara-branded_perfume_bott.png",
             "image_ratio": "portrait",
             "content_position": "md:items-end md:justify-start",
             "text_alignment": "left",
@@ -334,10 +336,11 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline</em>",
-            "heading": "Example heading",
+            "subheading": "",
+            "heading": "",
             "link": "",
             "invert_subheading_heading": false,
+            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
             "image_ratio": "portrait",
             "content_position": "md:items-start md:justify-end",
             "text_alignment": "right",
@@ -356,10 +359,11 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "subheading": "<em>Tagline</em>",
-            "heading": "Example heading",
+            "subheading": "",
+            "heading": "",
             "link": "",
             "invert_subheading_heading": true,
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
             "image_ratio": "landscape",
             "content_position": "md:items-end md:justify-end",
             "text_alignment": "right",
@@ -383,13 +387,13 @@
         "image-4"
       ],
       "settings": {
-        "heading": "Collage",
+        "heading": "<strong>À propos de </strong><em><strong>MKB IMPÉRIAL</strong></em>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-        "button_label": "View more",
+        "description": "<p>Chez <strong>MKB IMPÉRIAL</strong>, nous ne fabriquons pas les parfums — nous les sélectionnons. Avec soin, avec goût, comme si chaque flacon était destiné à notre propre usage.</p><p>Notre mission est simple : <strong>vous proposer des fragrances que nous aimons réellement porter nous-mêmes</strong>. Des senteurs venues des Émirats et du Golfe, choisies pour leur qualité, leur tenue, et leur capacité à marquer les esprits. Nous collaborons avec des marques reconnues comme <strong>Lattafa, Paris Corner, Gulf Orchid ou Loui Martin</strong>, en ne retenant que ce qui nous semble juste et digne d’être partagé.</p><p>Chaque parfum que vous trouverez ici a été testé, apprécié, et approuvé. Rien n’est choisi au hasard. Parce que pour nous, <strong>offrir un parfum, c’est offrir une émotion, un souvenir, une identité.</strong></p><p><strong>MKB IMPÉRIAL</strong>, c’est plus qu’une boutique : c’est un lien entre vous et une culture olfactive riche, chaleureuse et envoûtante.</p>",
+        "button_label": "Notre Histoire",
         "button_link": "",
         "button_external": false,
         "button_icon": true,
@@ -411,31 +415,31 @@
         "enable_parallax": true
       }
     },
-    "image-with-text-1": {
-      "type": "image-with-text",
+    "reveal_image_with_text_overlay_x4wkV8": {
+      "type": "reveal-image-with-text-overlay",
       "blocks": {
-        "image": {
-          "type": "image",
+        "subheading_4aANiR": {
+          "type": "subheading",
           "settings": {
-            "image_width": "custom",
-            "image_max_width": 50,
-            "image_max_width_mobile": 50
+            "subheading": "Ce que nous portons, nous vous l’offrons.",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
           }
         },
-        "heading": {
+        "heading_bFa4X8": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "title-md",
+            "heading": "Image with text overlay",
+            "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text": {
+        "text_DPGTBT": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -446,35 +450,27 @@
         }
       },
       "block_order": [
-        "image",
-        "heading",
-        "text"
+        "subheading_4aANiR",
+        "heading_bFa4X8",
+        "text_DPGTBT"
       ],
+      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
       "settings": {
-        "image_height": "600px",
-        "image_width": "medium",
-        "layout": "image_first",
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_32_32.png",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "400px",
+        "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
-        "color_text": "#171717",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "#fafafa",
-        "gradient_background_2": "",
+        "color_text": "#ffffff",
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
+        "color_overlay": "#171717",
+        "overlay_opacity": 70,
+        "enable_parallax": true
       }
     },
     "scrolling-text": {
@@ -509,72 +505,6 @@
         "padding_bottom": 28,
         "divider": false,
         "rounded": false
-      }
-    },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image_width": "custom",
-            "image_max_width": 50,
-            "image_max_width_mobile": 50
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "title-md",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "image",
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "image_height": "600px",
-        "image_width": "medium",
-        "layout": "text_first",
-        "text_alignment": "left",
-        "content_position": "align-self-center",
-        "image_height_mobile": "400px",
-        "text_alignment_mobile": "left",
-        "color_text": "#171717",
-        "color_background": "",
-        "gradient_background": "",
-        "color_background_2": "#fafafa",
-        "gradient_background_2": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "full_width": false,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
       }
     },
     "product-details": {
@@ -826,9 +756,8 @@
     "help-drawer",
     "video-hero",
     "collage",
-    "image-with-text-1",
+    "reveal_image_with_text_overlay_x4wkV8",
     "scrolling-text",
-    "image-with-text-2",
     "product-details",
     "faq",
     "product-recommendations",
