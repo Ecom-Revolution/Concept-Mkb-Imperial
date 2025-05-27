@@ -165,9 +165,10 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "All products",
-            "description": "Check out all our products",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
+            "title": "Nos Collections",
+            "description": "",
             "overlay_content": true,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
@@ -177,7 +178,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
             "title": "Collection 1",
             "description": "Collection description",
             "overlay_content": false,
@@ -189,7 +191,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
             "title": "Collection 2",
             "description": "Collection description",
             "overlay_content": false,
@@ -201,7 +204,8 @@
         "collection-4": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/IMG_1280.jpg",
             "title": "Collection 3",
             "description": "Collection description",
             "overlay_content": false,
@@ -213,20 +217,9 @@
         "collection-5": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/1IMG_1281.jpg",
             "title": "Collection 4",
-            "description": "Collection description",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "Collection 5",
             "description": "Collection description",
             "overlay_content": false,
             "color_text": "#ffffff",
@@ -240,8 +233,7 @@
         "collection-2",
         "collection-3",
         "collection-4",
-        "collection-5",
-        "collection-6"
+        "collection-5"
       ],
       "settings": {
         "columns": 4,
