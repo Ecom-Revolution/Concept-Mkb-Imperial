@@ -91,6 +91,7 @@
         "content_9UG9W6": {
           "type": "content",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_00_24_44.png",
             "subheading": "",
             "heading": "1. <strong>Un début semé d’embûches</strong>",
             "heading_tag": "h2",
@@ -155,7 +156,6 @@
         "content_BmtMRX": {
           "type": "content",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_00_24_44.png",
             "subheading": "",
             "heading": "5. <strong>Croire en ses rêves, toujours</strong>",
             "heading_tag": "h2",
