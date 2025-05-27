@@ -706,6 +706,7 @@
         "feed-1": {
           "type": "feed",
           "settings": {
+            "image": "shopify://shop_images/A_photograph_showcases_a_Yara-branded_perfume_bott.png",
             "video_on_hover": true,
             "account_name": "@Concept",
             "account_description": "We cultivate sonic excellence",
@@ -737,6 +738,7 @@
         "feed-2": {
           "type": "feed",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_21_36_29.png",
             "video_on_hover": true,
             "account_name": "@Concept",
             "account_description": "We cultivate sonic excellence",
@@ -768,6 +770,7 @@
         "feed-3": {
           "type": "feed",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_21_31_16.png",
             "video_on_hover": true,
             "account_name": "@Concept",
             "account_description": "We cultivate sonic excellence",
@@ -799,6 +802,7 @@
         "feed-4": {
           "type": "feed",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_19_25_37.png",
             "video_on_hover": true,
             "account_name": "@Concept",
             "account_description": "We cultivate sonic excellence",
@@ -830,6 +834,7 @@
         "feed-5": {
           "type": "feed",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_12_39_10.png",
             "video_on_hover": true,
             "account_name": "@Concept",
             "account_description": "We cultivate sonic excellence",
