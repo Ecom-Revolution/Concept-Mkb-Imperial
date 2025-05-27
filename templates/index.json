@@ -1197,42 +1197,49 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-4": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-5": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-6": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         },
         "image-7": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
             "height": 60
           }
         }
@@ -1253,7 +1260,7 @@
         "enable_twin": true,
         "enable_parallax": true,
         "color_text": "",
-        "color_background": "#fde68a",
+        "color_background": "#171717",
         "gradient_background": "",
         "color_highlight": "",
         "gradient_highlight": "",
@@ -1302,6 +1309,7 @@
   "order": [
     "video_nm7y4K",
     "rich-text-1",
+    "scrolling-text-2",
     "collection-list",
     "video_hero_gT6J8R",
     "featured-product",
@@ -1316,7 +1324,6 @@
     "shop-the-look",
     "testimonials-banner",
     "featured-collections",
-    "scrolling-text-2",
     "blog-posts-collage"
   ]
 }
