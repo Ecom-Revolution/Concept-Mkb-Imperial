@@ -217,10 +217,10 @@
         "collection-5": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "collection-fraiche-aquatique-🌊",
             "image": "shopify://shop_images/1IMG_1281.jpg",
-            "title": "Collection 4",
-            "description": "Collection description",
+            "title": "Collection Fraîche & Aquatique 🌊",
+            "description": "Parfums frais, marins, hespéridés ou très légers.",
             "overlay_content": false,
             "color_text": "#ffffff",
             "color_overlay": "#000000",
