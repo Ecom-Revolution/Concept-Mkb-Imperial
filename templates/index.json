@@ -36,7 +36,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<br/><br/>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Chez <strong>MKB IMPÉRIAL</strong>, nous ne fabriquons pas les parfums — nous les sélectionnons. Avec soin, avec goût, comme si chaque flacon était destiné à notre propre usage.</p><p>Notre mission est simple : <strong>vous proposer des fragrances que nous aimons réellement porter nous-mêmes</strong>. Des senteurs venues des Émirats et du Golfe, choisies pour leur qualité, leur tenue, et leur capacité à marquer les esprits. Nous collaborons avec des marques reconnues comme <strong>Lattafa, Paris Corner, Gulf Orchid ou Loui Martin</strong>, en ne retenant que ce qui nous semble juste et digne d’être partagé.</p><p>Chaque parfum que vous trouverez ici a été testé, apprécié, et approuvé. Rien n’est choisi au hasard. Parce que pour nous, <strong>offrir un parfum, c’est offrir une émotion, un souvenir, une identité.</strong></p><p><strong>MKB IMPÉRIAL</strong>, c’est plus qu’une boutique : c’est un lien entre vous et une culture olfactive riche, chaleureuse et envoûtante.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -52,14 +52,14 @@
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
-        "heading": "Talk about your <em>brand</em>",
+        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
         "heading_size": "title-md",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "small",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
-        "button_label": "Our Story",
+        "button_label": "Notre Histoire",
         "button_link": "",
         "button_external": false,
         "button_icon": true,
