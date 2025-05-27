@@ -123,10 +123,10 @@
         "content_9Qw3cy": {
           "type": "content",
           "settings": {
-            "subheading": "Text",
-            "heading": "Heading",
+            "subheading": "",
+            "heading": "3. <strong>Une équipe de passionnés, pas de vendeurs</strong>",
             "heading_tag": "h2",
-            "text": "<p>Et il y a aussi une histoire personnelle. Le nom du site, <strong>MKB</strong>, ce ne sont pas que des lettres.<br/><br/>Ce sont les initiales de mon père.<br/><br/>Un hommage sincère à l’homme qui m’a inspiré, qui continue de m’inspirer, et à qui je dois une grande partie de ma force.</p>",
+            "text": "<p>Parce que derrière ce site, il y a <strong>une équipe qui croit profondément en ce qu’elle fait</strong>.<br/><br/>Des gens qui portent eux-mêmes les parfums qu’ils vous proposent.<br/><br/>Pas des vendeurs. Des passionnés. Des utilisateurs. Des rêveurs.</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
