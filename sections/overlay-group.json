@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.overlay-group.name",
   "type": "custom.overlay",
@@ -17,11 +26,9 @@
         "cart_recommendations_limit": 5,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
-        "cart_recommendations_products": [
-        ],
-        "empty_cart_message": "<p>Not sure where to start?<br\/>Try these collections:</p>",
-        "empty_cart_collections": [
-        ],
+        "cart_recommendations_products": [],
+        "empty_cart_message": "<p>Not sure where to start?<br/>Try these collections:</p>",
+        "empty_cart_collections": [],
         "recent_products_enabled": true,
         "recent_products_heading": "Recently viewed",
         "recent_products_limit": 5,
@@ -31,8 +38,7 @@
     },
     "search-drawer": {
       "type": "search-drawer",
-      "settings": {
-      }
+      "settings": {}
     },
     "newsletter-popup": {
       "type": "newsletter-popup",
@@ -40,7 +46,7 @@
         "text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>FIRST TIMER?</p>",
+            "text": "<p>PREMIÈRE FOIS?</p>",
             "text_size": "subtext-custom",
             "text_max_size": 12,
             "text_font": "body",
@@ -52,7 +58,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Sign up and get <em>20% off</em> your first order",
+            "heading": "Inscrivez-vous et obtenez <em>20 % de réduction</em> sur votre première commande",
             "heading_size": "text-2xl lg:text-3xl",
             "heading_tag": "h2",
             "highlighted_text": "scribble",
@@ -68,13 +74,12 @@
         },
         "form": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         },
         "text-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
+            "text": "<p>Abonnez-vous à notre newsletter et soyez les premiers informés de nos nouveautés, promotions spéciales et exclusivités en ligne.</p>",
             "text_size": "text-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -85,8 +90,7 @@
         },
         "media": {
           "type": "media",
-          "settings": {
-          }
+          "settings": {}
         },
         "floating": {
           "type": "floating",
@@ -119,7 +123,6 @@
         "expiry": 30,
         "text_alignment": "left",
         "content_position": "right-0",
-        "image": "",
         "color_drawer_text": "#171717",
         "color_drawer_background": "#ffffff",
         "color_drawer_highlight": "#ffddbf",
@@ -166,7 +169,8 @@
           "settings": {
             "button_label_1": "Yes, I am",
             "button_label_2": "No, I’m not",
-            "button_link_2": ""
+            "button_link_2": "",
+            "button_external_2": false
           }
         }
       },
@@ -182,8 +186,6 @@
         "expiry": 30,
         "text_alignment": "center",
         "content_position": "center-0",
-        "image": "",
-        "background_image": "",
         "blur_background_image": false,
         "color_drawer_text": "#171717",
         "color_drawer_background": "#ffffff",
@@ -282,7 +284,8 @@
           "settings": {
             "custom_icon": "",
             "title": "Shop",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all",
+            "external": false
           }
         },
         "mobile-dock-5": {
