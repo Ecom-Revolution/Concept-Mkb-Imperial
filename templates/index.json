@@ -54,7 +54,7 @@
         "text_alignment_mobile": "left",
         "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
         "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_alignment": "text-center md:items-center",
         "heading_width": "small",
         "heading_tag": "h2",
         "subheading": "",
