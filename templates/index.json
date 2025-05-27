@@ -18,7 +18,7 @@
         "video_url": "",
         "description": "",
         "enable_video_autoplay": true,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "image_height": "adapt",
         "video_mobile": "shopify://files/videos/520381DE-8F32-48AE-8C14-B2EF56173766.MOV",
         "video_url_mobile": "",
