@@ -30,6 +30,27 @@
         "rounded": false
       }
     },
+    "reveal_image_with_text_zNKntq": {
+      "type": "reveal-image-with-text",
+      "name": "t:sections.reveal-image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/logo_seulement.png",
+        "image_mobile": "shopify://shop_images/logo_seulement.png",
+        "content_width": "medium",
+        "heading": "Reveal image with text",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center",
+        "heading_tag": "h2",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "color_text": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": ""
+      }
+    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -1304,31 +1325,11 @@
         "full_width": false,
         "rounded": false
       }
-    },
-    "reveal_image_with_text_zNKntq": {
-      "type": "reveal-image-with-text",
-      "name": "t:sections.reveal-image-with-text.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/logo_seulement.png",
-        "image_mobile": "shopify://shop_images/logo_seulement.png",
-        "content_width": "medium",
-        "heading": "Reveal image with text",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center",
-        "heading_tag": "h2",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "color_text": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": ""
-      }
     }
   },
   "order": [
     "video_nm7y4K",
+    "reveal_image_with_text_zNKntq",
     "rich-text-1",
     "scrolling-text-2",
     "collection-list",
@@ -1345,7 +1346,6 @@
     "shop-the-look",
     "testimonials-banner",
     "featured-collections",
-    "blog-posts-collage",
-    "reveal_image_with_text_zNKntq"
+    "blog-posts-collage"
   ]
 }
