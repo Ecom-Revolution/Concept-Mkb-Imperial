@@ -483,7 +483,7 @@
         "subheading_xYjRnU": {
           "type": "subheading",
           "settings": {
-            "subheading": "Add a tagline",
+            "subheading": "Ce que nous portons, nous vous l’offrons.",
             "subheading_size": "subtitle-md",
             "secondary_color": true
           }
@@ -491,7 +491,7 @@
         "heading_xtWmDw": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text overlay",
+            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -501,7 +501,7 @@
         "text_ArycwJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.<br/></p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -542,7 +542,7 @@
         "subheading_ENB6pG": {
           "type": "subheading",
           "settings": {
-            "subheading": "Add a tagline",
+            "subheading": "MKB IMPÉRIAL",
             "subheading_size": "subtitle-md",
             "secondary_color": true
           }
@@ -550,7 +550,7 @@
         "heading_fxMmCC": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text overlay",
+            "heading": "Le parfum, symbole de présence.",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -560,7 +560,7 @@
         "text_zVJ9zf": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez<strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -752,9 +752,9 @@
           "settings": {
             "image": "shopify://shop_images/A_photograph_showcases_a_Yara-branded_perfume_bott.png",
             "video_on_hover": true,
-            "account_name": "@Concept",
-            "account_description": "We cultivate sonic excellence",
-            "account_button": "Follow",
+            "account_name": "@mkbimperial",
+            "account_description": "Nous cultivons l’excellence de la parfumerie",
+            "account_button": "S'abonner",
             "account_link": "",
             "button_external": false,
             "color_text": "#ffffff",
@@ -784,9 +784,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_21_36_29.png",
             "video_on_hover": true,
-            "account_name": "@Concept",
-            "account_description": "We cultivate sonic excellence",
-            "account_button": "Follow",
+            "account_name": "@mkbimperial",
+            "account_description": "Nous cultivons l’excellence de la parfumerie",
+            "account_button": "S'abonner",
             "account_link": "",
             "button_external": false,
             "color_text": "#ffffff",
@@ -816,9 +816,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_21_31_16.png",
             "video_on_hover": true,
-            "account_name": "@Concept",
-            "account_description": "We cultivate sonic excellence",
-            "account_button": "Follow",
+            "account_name": "@mkbimperial",
+            "account_description": "Nous cultivons l’excellence de la parfumerie",
+            "account_button": "S\"abonner",
             "account_link": "",
             "button_external": false,
             "color_text": "#ffffff",
@@ -848,9 +848,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_19_25_37.png",
             "video_on_hover": true,
-            "account_name": "@Concept",
-            "account_description": "We cultivate sonic excellence",
-            "account_button": "Follow",
+            "account_name": "@mkbimperial",
+            "account_description": "Nous cultivons l’excellence de la parfumerie",
+            "account_button": "S\"abonner",
             "account_link": "",
             "button_external": false,
             "color_text": "#ffffff",
@@ -880,9 +880,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_12_39_10.png",
             "video_on_hover": true,
-            "account_name": "@Concept",
-            "account_description": "We cultivate sonic excellence",
-            "account_button": "Follow",
+            "account_name": "@mkbimperial",
+            "account_description": "Nous cultivons l’excellence de la parfumerie",
+            "account_button": "S\"abonner",
             "account_link": "",
             "button_external": false,
             "color_text": "#ffffff",
