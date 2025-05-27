@@ -92,6 +92,7 @@
           "type": "content",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_06_06.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_06_06.png",
             "subheading": "",
             "heading": "1. <strong>Un début semé d’embûches</strong>",
             "heading_tag": "h2",
@@ -109,6 +110,7 @@
           "type": "content",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_09_07.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_09_07.png",
             "subheading": "",
             "heading": "2. <strong>L’entrepreneuriat, c’est aussi tomber… et se relever</strong>",
             "heading_tag": "h2",
@@ -126,6 +128,7 @@
           "type": "content",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_14_39.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_14_39.png",
             "subheading": "",
             "heading": "3. <strong>Une équipe de passionnés, pas de vendeurs</strong>",
             "heading_tag": "h2",
@@ -143,6 +146,7 @@
           "type": "content",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_18_37.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_18_37.png",
             "subheading": "",
             "heading": "4. <strong>Un hommage personnel, une énergie éternelle</strong>",
             "heading_tag": "h2",
@@ -160,6 +164,7 @@
           "type": "content",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_21_32.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_21_32.png",
             "subheading": "",
             "heading": "5. <strong>Croire en ses rêves, toujours</strong>",
             "heading_tag": "h2",
