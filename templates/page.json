@@ -139,10 +139,10 @@
         "content_4RYiLg": {
           "type": "content",
           "settings": {
-            "subheading": "Text",
-            "heading": "Heading",
+            "subheading": "",
+            "heading": "4. <strong>Un hommage personnel, une énergie éternelle</strong>",
             "heading_tag": "h2",
-            "text": "<p>Aujourd’hui, on est fiers. Pas parce que tout est parfait. Mais parce qu’on est toujours là. Et qu’on a tenu bon.<br/><br/>Parce qu’on a transformé chaque difficulté en force. Chaque chute en relance.</p><p>Et si on partage tout ça avec vous, c’est pour vous dire une chose simple :</p><p><strong>Croyez en vos rêves. Même quand ça tremble. Même quand tout semble vous dire d’abandonner.<br/><br/>N’abandonnez pas. Relevez-vous. Tombez, mais relevez-vous. Toujours.</strong></p>",
+            "text": "<p>Et il y a aussi une histoire personnelle. Le nom du site, <strong>MKB</strong>, ce ne sont pas que des lettres.<br/><br/>Ce sont les initiales de mon père.<br/><br/>Un hommage sincère à l’homme qui m’a inspiré, qui continue de m’inspirer, et à qui je dois une grande partie de ma force.</p>",
             "button_label": "",
             "button_link": "",
             "button_style": "primary",
