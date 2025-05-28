@@ -15,7 +15,7 @@
         "image_3aHm9G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_a_21_42_29.png",
             "mobile_image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
             "subheading": "",
             "title": "",
@@ -57,7 +57,6 @@
     },
     "featured_collection_gy7Wec": {
       "type": "featured-collection",
-      "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "collection": "",
         "products": [
