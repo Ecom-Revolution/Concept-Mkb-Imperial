@@ -9,13 +9,13 @@
  */
 {
   "sections": {
-    "slider_nEkNCg": {
+    "slider_PXBqTx": {
       "type": "slider",
       "blocks": {
-        "image_iVRCmx": {
+        "image_3aHm9G": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_a_21_42_29.png",
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
             "mobile_image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
             "subheading": "",
             "title": "",
@@ -41,9 +41,8 @@
         }
       },
       "block_order": [
-        "image_iVRCmx"
+        "image_3aHm9G"
       ],
-      "name": "t:sections.slideshow.presets.slideshow.name",
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": false,
@@ -56,41 +55,40 @@
         "controls_color": "#ffffff"
       }
     },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
+    "featured_collection_gy7Wec": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
+        "collection": "",
+        "products": [
+          "yara-candy-eau-de-parfum-100-ml",
+          "khair-pistachio-eau-de-parfum-100-ml-paris-corner",
+          "blanc-imperial-extrait-de-parfum-75-ml-gris-montaigne",
+          "eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+          "ajwad-60-ml-eau-de-parfum-mixte-lattafa",
+          "khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
+          "musc-tahara-coco-vanille-12-ml-dubai-flower",
+          "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
+          "rifaaqat-eau-de-parfum-85-ml-paris-corner",
+          "sweet-heaven-extreme-eau-de-parfum-100-ml-gulf-orchid",
+          "lattafa-yara-blanc-eau-de-parfum-100ml",
+          "khamrah-eau-de-parfum-mixte-100-ml",
+          "bab-al-wardi-eau-de-parfum-100-ml-ard-al-zaafaran"
+        ],
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "heading": "Nos Best Seller",
         "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_width": "small",
+        "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
-        "button_label": "Notre Histoire",
-        "button_link": "shopify://pages/a-propos-de-nous",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "scribble",
-        "highlighted_scribble": "basic-underline",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
@@ -100,9 +98,9 @@
         "color_button_background": "",
         "color_button_gradient": "",
         "padding_top": 72,
-        "padding_bottom": 0,
+        "padding_bottom": 72,
         "divider": false,
-        "narrow": false,
+        "full_width": false,
         "rounded": false
       }
     },
@@ -1039,6 +1037,56 @@
         "parallax_direction": "vertical"
       }
     },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "Notre Histoire",
+        "button_link": "shopify://pages/a-propos-de-nous",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
     "shop-the-look": {
       "type": "shop-the-look",
       "blocks": {
@@ -1346,8 +1394,8 @@
     }
   },
   "order": [
-    "slider_nEkNCg",
-    "rich-text-1",
+    "slider_PXBqTx",
+    "featured_collection_gy7Wec",
     "scrolling-text-2",
     "collection-list",
     "video_hero_gT6J8R",
@@ -1360,6 +1408,7 @@
     "scrolling-text-1",
     "shop-the-feed",
     "countdown-timer",
+    "rich-text-1",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
     "blog-posts-collage",
