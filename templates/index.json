@@ -1329,7 +1329,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>Les mots s’oublient, le parfum marque.</p>",
+            "text": "<p>\"Les mots s’oublient, le parfum marque.\"</p>",
             "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
