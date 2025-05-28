@@ -58,6 +58,7 @@
         "image_eLX7jN",
         "image_aempfr"
       ],
+      "name": "t:sections.slideshow.presets.name",
       "settings": {
         "autoplay": false,
         "autoplay_speed": 5,
@@ -369,6 +370,7 @@
         "slide_Vw7UR7",
         "slide_FmTxRY"
       ],
+      "name": "t:sections.video-hero.presets.name",
       "settings": {
         "transparent_header": true,
         "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
@@ -410,12 +412,6 @@
             "title_size_mobile": "product-title-md",
             "show_price": true,
             "show_rating": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "text_size": "text-base"
           }
         },
         "countdown": {
@@ -486,7 +482,6 @@
       "block_order": [
         "text",
         "title",
-        "description",
         "countdown",
         "variant_picker",
         "inventory",
@@ -559,6 +554,7 @@
         "heading_xtWmDw",
         "text_ArycwJ"
       ],
+      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_25_05.png",
         "content_width": "small",
@@ -602,7 +598,7 @@
         "text_zVJ9zf": {
           "type": "text",
           "settings": {
-            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez <strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
+            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez<strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -617,6 +613,7 @@
         "heading_fxMmCC",
         "text_zVJ9zf"
       ],
+      "name": "t:sections.images-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
         "image_height": "650px",
@@ -686,6 +683,7 @@
     },
     "reveal_image_with_text_zNKntq": {
       "type": "reveal-image-with-text",
+      "name": "t:sections.reveal-image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
         "image_mobile": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
@@ -756,7 +754,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<em><strong>mkb impérial</strong></em>",
+            "text": "<em><strong>Il parle de nous </strong></em>",
             "text_size": 160,
             "text_font": "body",
             "highlighted_text": "stencil",
@@ -1175,6 +1173,7 @@
         "heading_kihK3R",
         "text_YLKPqp"
       ],
+      "name": "t:sections.floating-product-bundle.presets.name",
       "settings": {
         "collection": "",
         "products": [
@@ -1279,6 +1278,7 @@
         "heading_yB4LAL",
         "image_Er4w9c"
       ],
+      "name": "t:sections.highlight-text.presets.name",
       "settings": {
         "text_alignment": "center",
         "text_alignment_mobile": "center",
@@ -1316,7 +1316,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>\"Ils t’ont peut-être sous-estimé, mais ils se souviendront de ton passage.\"</p>",
+            "text": "<p>Un sillage peut en dire plus qu’un regard</p>",
             "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
@@ -1329,7 +1329,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>\"Les mots s’oublient, le parfum marque.\"</p>",
+            "text": "<p>Les mots s’oublient, le parfum marque.</p>",
             "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
@@ -1342,7 +1342,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>\"<strong>Croyez en vos rêves. Même quand ça tremble. Même quand tout semble vous dire d’abandonner.</strong>\"</p>",
+            "text": "<p>\"Un parfum, c’est une présence qui reste quand tout s’estompe.</p>",
             "author": "MKB IMPÉRIAL",
             "author_info": "",
             "author_url": "",
