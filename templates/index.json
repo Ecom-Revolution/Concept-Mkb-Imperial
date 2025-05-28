@@ -9,80 +9,6 @@
  */
 {
   "sections": {
-    "slideshow_FyDkPN": {
-      "type": "slideshow",
-      "blocks": {
-        "image_L7maDH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
-            "heading": "Image slide",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "image_eLX7jN": {
-          "type": "image",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "image_aempfr": {
-          "type": "image",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "primary",
-            "button_external": false,
-            "button_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "image_L7maDH",
-        "image_eLX7jN",
-        "image_aempfr"
-      ],
-      "name": "t:sections.slideshow.presets.name",
-      "settings": {
-        "autoplay": false,
-        "autoplay_speed": 5,
-        "show_navigation": true,
-        "image_height": "100vh",
-        "content_width": "large",
-        "image_height_mobile": "auto",
-        "color_text": "#ffffff",
-        "color_background": "rgba(0,0,0,0)",
-        "gradient_background": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 20,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -370,7 +296,6 @@
         "slide_Vw7UR7",
         "slide_FmTxRY"
       ],
-      "name": "t:sections.video-hero.presets.name",
       "settings": {
         "transparent_header": true,
         "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
@@ -554,7 +479,6 @@
         "heading_xtWmDw",
         "text_ArycwJ"
       ],
-      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_25_05.png",
         "content_width": "small",
@@ -613,7 +537,6 @@
         "heading_fxMmCC",
         "text_zVJ9zf"
       ],
-      "name": "t:sections.images-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
         "image_height": "650px",
@@ -683,7 +606,6 @@
     },
     "reveal_image_with_text_zNKntq": {
       "type": "reveal-image-with-text",
-      "name": "t:sections.reveal-image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
         "image_mobile": "shopify://shop_images/logo_sans_fond_89f07688-40ae-4f5a-8876-79a474f49676.png",
@@ -1173,7 +1095,6 @@
         "heading_kihK3R",
         "text_YLKPqp"
       ],
-      "name": "t:sections.floating-product-bundle.presets.name",
       "settings": {
         "collection": "",
         "products": [
@@ -1278,7 +1199,6 @@
         "heading_yB4LAL",
         "image_Er4w9c"
       ],
-      "name": "t:sections.highlight-text.presets.name",
       "settings": {
         "text_alignment": "center",
         "text_alignment_mobile": "center",
@@ -1379,7 +1299,6 @@
     }
   },
   "order": [
-    "slideshow_FyDkPN",
     "rich-text-1",
     "scrolling-text-2",
     "collection-list",
