@@ -1009,6 +1009,7 @@
         "timer",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "transparent_header": false,
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
@@ -1128,6 +1129,7 @@
         "product-2",
         "product-3"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
         "heading": "Nouveau Arrivage",
@@ -1189,6 +1191,7 @@
         "heading_kihK3R",
         "text_YLKPqp"
       ],
+      "disabled": true,
       "settings": {
         "collection": "",
         "products": [
