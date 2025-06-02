@@ -714,6 +714,56 @@
         "rounded": false
       }
     },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "Notre Histoire",
+        "button_link": "shopify://pages/a-propos-de-nous",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
     "scrolling-text-1": {
       "type": "scrolling-text",
       "blocks": {
@@ -733,7 +783,7 @@
       ],
       "settings": {
         "direction": "left",
-        "speed": 20,
+        "speed": 30,
         "grid_horizontal": 70,
         "enable_twin": false,
         "enable_parallax": true,
@@ -1130,56 +1180,6 @@
         "rounded": true,
         "enable_parallax": true,
         "parallax_direction": "vertical"
-      }
-    },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "Notre Histoire",
-        "button_link": "shopify://pages/a-propos-de-nous",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "scribble",
-        "highlighted_scribble": "basic-underline",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 0,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
       }
     },
     "shop-the-look": {
