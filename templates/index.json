@@ -623,13 +623,13 @@
         "image_height_mobile": "auto",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
+        "color_text": "#171717",
         "color_highlight": "#e0a580",
         "gradient_highlight": "",
         "color_button_text": "#171717",
         "color_button_background": "#e9bb79",
         "color_button_gradient": "",
-        "color_overlay": "#171717",
+        "color_overlay": "#fafafa",
         "overlay_opacity": 100,
         "padding_top": 0,
         "padding_bottom": 0,
@@ -637,78 +637,6 @@
         "full_width": true,
         "rounded": false,
         "enable_parallax": true
-      }
-    },
-    "video_hero_gT6J8R": {
-      "type": "video-hero",
-      "blocks": {
-        "slide_WN3PDp": {
-          "type": "slide",
-          "settings": {
-            "heading": "DÉTERMINATION",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_gAqqWK": {
-          "type": "slide",
-          "settings": {
-            "heading": "SUCCÈS",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_Vw7UR7": {
-          "type": "slide",
-          "settings": {
-            "heading": "ROYAUTÉ",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_FmTxRY": {
-          "type": "slide",
-          "settings": {
-            "heading": "IMPÉRIAL",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide_WN3PDp",
-        "slide_gAqqWK",
-        "slide_Vw7UR7",
-        "slide_FmTxRY"
-      ],
-      "settings": {
-        "transparent_header": true,
-        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
-        "video_url": "",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "large",
-        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
-        "video_url_mobile": "",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
       }
     },
     "scrolling-text-1": {
@@ -899,6 +827,78 @@
         "enable_parallax": true
       }
     },
+    "video_hero_gT6J8R": {
+      "type": "video-hero",
+      "blocks": {
+        "slide_WN3PDp": {
+          "type": "slide",
+          "settings": {
+            "heading": "DÉTERMINATION",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_gAqqWK": {
+          "type": "slide",
+          "settings": {
+            "heading": "SUCCÈS",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_Vw7UR7": {
+          "type": "slide",
+          "settings": {
+            "heading": "ROYAUTÉ",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_FmTxRY": {
+          "type": "slide",
+          "settings": {
+            "heading": "IMPÉRIAL",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "slide_WN3PDp",
+        "slide_gAqqWK",
+        "slide_Vw7UR7",
+        "slide_FmTxRY"
+      ],
+      "settings": {
+        "transparent_header": true,
+        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "large",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
+        "video_url_mobile": "",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
     "slideshow_F6BqHJ": {
       "type": "slideshow",
       "blocks": {
@@ -909,7 +909,7 @@
             "heading": "",
             "heading_size": "title-sm",
             "heading_tag": "h2",
-            "button_label": "DÉCOURIR",
+            "button_label": "DÉCOUVRIR",
             "button_link": "shopify://products/khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
             "button_style": "link",
             "button_external": false,
@@ -981,8 +981,8 @@
         "color_button_gradient": "",
         "color_overlay": "#171717",
         "overlay_opacity": 11,
-        "padding_top": 0,
-        "padding_bottom": 0,
+        "padding_top": 16,
+        "padding_bottom": 16,
         "divider": false,
         "full_width": true,
         "rounded": false,
