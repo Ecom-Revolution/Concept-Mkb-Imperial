@@ -55,34 +55,41 @@
         "controls_color": "#ffffff"
       }
     },
-    "featured_collection_gy7Wec": {
-      "type": "featured-collection",
+    "featured_collections_BfjTGW": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_TqLYDq": {
+          "type": "collection",
+          "settings": {
+            "collection": "coups-de-coeur",
+            "products": [],
+            "title": ""
+          }
+        },
+        "collection_8qwmte": {
+          "type": "collection",
+          "settings": {
+            "collection": "nos-best-seller",
+            "products": [],
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_TqLYDq",
+        "collection_8qwmte"
+      ],
+      "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "collection": "",
-        "products": [
-          "yara-candy-eau-de-parfum-100-ml",
-          "khair-pistachio-eau-de-parfum-100-ml-paris-corner",
-          "blanc-imperial-extrait-de-parfum-75-ml-gris-montaigne",
-          "eau-de-parfum-cherry-buzz-80ml-fragrance-world",
-          "ajwad-60-ml-eau-de-parfum-mixte-lattafa",
-          "khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
-          "musc-tahara-coco-vanille-12-ml-dubai-flower",
-          "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
-          "rifaaqat-eau-de-parfum-85-ml-paris-corner",
-          "sweet-heaven-extreme-eau-de-parfum-100-ml-gulf-orchid",
-          "lattafa-yara-blanc-eau-de-parfum-100ml",
-          "khamrah-eau-de-parfum-mixte-100-ml",
-          "bab-al-wardi-eau-de-parfum-100-ml-ard-al-zaafaran"
-        ],
         "product_limit": 6,
         "columns": 4,
         "carousel_on_desktop": true,
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "heading": "Nos Best Seller",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "VOS FRAGRANCES PREFERÉES",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
@@ -96,10 +103,10 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "divider": false,
-        "full_width": false,
+        "full_width": true,
         "rounded": false
       }
     },
@@ -188,7 +195,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "frontpage",
+            "collection": "nos-best-seller",
             "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
             "title": "Trouvez votre parfum à travers nos 4 mondes olfactifs.",
             "description": "",
@@ -303,7 +310,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "heading": "Collection Florale & Fraîche 🌸",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
@@ -338,7 +345,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "heading": "Collection Gourmande & Sucrée <strong>🍭</strong>",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
@@ -373,7 +380,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "heading": "Collection Ambrée & Orientale 🔥",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
@@ -408,7 +415,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "heading": "<strong>Collection Fraîche & Aquatique 🌊</strong>",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
@@ -1491,7 +1498,7 @@
   },
   "order": [
     "slider_PXBqTx",
-    "featured_collection_gy7Wec",
+    "featured_collections_BfjTGW",
     "scrolling-text-2",
     "collection-list",
     "featured_collection_GbaQ84",
