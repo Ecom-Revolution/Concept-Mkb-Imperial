@@ -1,0 +1,329 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "heading_size": "title-md",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 72,
+        "padding_bottom": 120,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "video_hero_YEA39C": {
+      "type": "video-hero",
+      "blocks": {
+        "slide_GJVpUy": {
+          "type": "slide",
+          "settings": {
+            "heading": "DÉTERMINATION",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_LidxLk": {
+          "type": "slide",
+          "settings": {
+            "heading": "SUCCÈS",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_U8A7ii": {
+          "type": "slide",
+          "settings": {
+            "heading": "ROYAUTÉ",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_DfVyX4": {
+          "type": "slide",
+          "settings": {
+            "heading": "IMPÉRIAL",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GJVpUy",
+        "slide_LidxLk",
+        "slide_U8A7ii",
+        "slide_DfVyX4"
+      ],
+      "name": "t:sections.video-hero.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "medium",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
+        "video_url_mobile": "",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
+    "timeline_PkY9MK": {
+      "type": "timeline",
+      "blocks": {
+        "content_9UG9W6": {
+          "type": "content",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_06_06.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_06_06.png",
+            "subheading": "",
+            "heading": "1. <strong>Un début semé d’embûches</strong>",
+            "heading_tag": "h1",
+            "text": "<p>On ne va pas vous mentir : ce projet, on l’a lancé avec passion… mais aussi avec beaucoup d’erreurs, d’échecs, de doutes.<br/><br/>Le site ? Il a sauté plusieurs fois.<br/><br/>Les galères ? On les a toutes traversées : bugs, imprévus, retards, désillusions… la liste est longue.<br/><br/>On a même failli tout arrêter. Vraiment.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_zjWf4K": {
+          "type": "content",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_09_07.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_09_07.png",
+            "subheading": "",
+            "heading": "2. <strong>L’entrepreneuriat, c’est aussi tomber… et se relever</strong>",
+            "heading_tag": "h2",
+            "text": "<p>Mais c’est aussi ça, l’entrepreneuriat. Ce n’est pas une ligne droite, c’est une route pleine d’obstacles et de leçons.<br/><br/>Et à chaque fois qu’on est tombé, on s’est relevé. Plus lucide. Plus solide. Plus déterminé.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_9Qw3cy": {
+          "type": "content",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_14_39.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_14_39.png",
+            "subheading": "",
+            "heading": "3. <strong>Une équipe de passionnés, pas de vendeurs</strong>",
+            "heading_tag": "h2",
+            "text": "<p>Parce que derrière ce site, il y a <strong>une équipe qui croit profondément en ce qu’elle fait</strong>.<br/><br/>Des gens qui portent eux-mêmes les parfums qu’ils vous proposent.<br/><br/>Pas des vendeurs. Des passionnés. Des utilisateurs. Des rêveurs.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_4RYiLg": {
+          "type": "content",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_18_37.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_18_37.png",
+            "subheading": "",
+            "heading": "4. <strong>Un hommage personnel, une énergie éternelle</strong>",
+            "heading_tag": "h2",
+            "text": "<p>Et il y a aussi une histoire personnelle. Le nom du site, <strong>MKB</strong>, ce ne sont pas que des lettres.<br/><br/>Ce sont les initiales de mon père.<br/><br/>Un hommage sincère à l’homme qui m’a inspiré, qui continue de m’inspirer, et à qui je dois une grande partie de ma force.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "content_BmtMRX": {
+          "type": "content",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_21_32.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_28_mai_2025_01_21_32.png",
+            "subheading": "",
+            "heading": "5. <strong>Croire en ses rêves, toujours</strong>",
+            "heading_tag": "h2",
+            "text": "<p>Aujourd’hui, on est fiers. Pas parce que tout est parfait. Mais parce qu’on est toujours là. Et qu’on a tenu bon.<br/><br/>Parce qu’on a transformé chaque difficulté en force. Chaque chute en relance.</p><p>Et si on partage tout ça avec vous, c’est pour vous dire une chose simple :</p><p><strong>Croyez en vos rêves. Même quand ça tremble. Même quand tout semble vous dire d’abandonner.<br/><br/>N’abandonnez pas. Relevez-vous. Tombez, mais relevez-vous. Toujours.</strong></p><p>Parce que le succès, ce n’est pas l’absence d’échec.<br/><br/>C’est le choix de <strong>ne jamais lâcher.</strong><br/><br/>Et c’est exactement ce qu’on a fait.<br/><br/>Et ce qu’on fera, encore et encore.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_external": false,
+            "button_icon": true,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "content_9UG9W6",
+        "content_zjWf4K",
+        "content_9Qw3cy",
+        "content_4RYiLg",
+        "content_BmtMRX"
+      ],
+      "name": "t:sections.timeline.presets.name",
+      "settings": {
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "wide",
+        "heading": "<strong>Notre histoire, c’est celle de la persévérance.</strong>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "reveal_testimonials_aqejcK": {
+      "type": "reveal-testimonials",
+      "blocks": {
+        "testimonial_9rUYKj": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Ce parfum est une pure merveille. Dès la première pulvérisation, j’ai su que c’était<strong>LE</strong>parfum que j’attendais depuis des années. Merci infiniment pour cette création exceptionnelle. Vous avez gagné une cliente à vie !</p>",
+            "author": "Un immense merci, vous avez changé ma vie !",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_taf7Vd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Je n’ai jamais reçu autant de compliments de ma vie. À chaque fois qu’on me demande ce que je porte, je suis fière de citer votre marque. Merci pour ce bijou olfactif, je suis littéralement accro</p>",
+            "author": "Merci du fond du cœur pour cette pépite !",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_gmew8d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Merci mille fois pour cette expérience sensorielle incroyable. Ce parfum me transporte, me booste, me rassure. Vous avez créé une œuvre d’art. Respect et gratitude.</p>",
+            "author": "C’est au-delà d’un parfum, c’est une émotion !",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_Fwehza": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Je ne m’attendais pas à un tel niveau. Tout est parfait : le flacon, la senteur, la tenue. Merci à l’équipe derrière cette perfection. Vous m’avez totalement conquis(e) !</p>",
+            "author": "Une claque olfactive… merci infiniment !",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_DqqUDq": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Ce parfum, c’est une révélation. Il me représente, il m’enveloppe, il m’élève. Merci d’avoir mis autant de passion et de savoir-faire dans ce chef-d’œuvre. Bravo et encore merci !</p>",
+            "author": "Vous méritez une standing ovation !",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9rUYKj",
+        "testimonial_taf7Vd",
+        "testimonial_gmew8d",
+        "testimonial_Fwehza",
+        "testimonial_DqqUDq"
+      ],
+      "name": "t:sections.reveal-testimonials.presets.name",
+      "settings": {
+        "heading": "Merci pour vos retours",
+        "heading_size": "title-md",
+        "heading_tag": "h2",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-page",
+    "video_hero_YEA39C",
+    "timeline_PkY9MK",
+    "reveal_testimonials_aqejcK"
+  ]
+}
