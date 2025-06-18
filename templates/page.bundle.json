@@ -269,6 +269,7 @@
         "collection": "",
         "products": [],
         "product_limit": 3,
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
         "layout": "text_first",
         "content_position": "md:items-end",
         "text_alignment": "right",
