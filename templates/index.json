@@ -9,6 +9,78 @@
  */
 {
   "sections": {
+    "video_hero_gT6J8R": {
+      "type": "video-hero",
+      "blocks": {
+        "slide_WN3PDp": {
+          "type": "slide",
+          "settings": {
+            "heading": "DÉTERMINATION",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_gAqqWK": {
+          "type": "slide",
+          "settings": {
+            "heading": "SUCCÈS",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_Vw7UR7": {
+          "type": "slide",
+          "settings": {
+            "heading": "ROYAUTÉ",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_FmTxRY": {
+          "type": "slide",
+          "settings": {
+            "heading": "IMPÉRIAL",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "slide_WN3PDp",
+        "slide_gAqqWK",
+        "slide_Vw7UR7",
+        "slide_FmTxRY"
+      ],
+      "settings": {
+        "transparent_header": true,
+        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "large",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
+        "video_url_mobile": "",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
     "slider_PXBqTx": {
       "type": "slider",
       "blocks": {
@@ -43,6 +115,7 @@
       "block_order": [
         "image_3aHm9G"
       ],
+      "disabled": true,
       "settings": {
         "allow_transparent_header": true,
         "show_next_section_button": false,
@@ -827,78 +900,6 @@
         "enable_parallax": true
       }
     },
-    "video_hero_gT6J8R": {
-      "type": "video-hero",
-      "blocks": {
-        "slide_WN3PDp": {
-          "type": "slide",
-          "settings": {
-            "heading": "DÉTERMINATION",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_gAqqWK": {
-          "type": "slide",
-          "settings": {
-            "heading": "SUCCÈS",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_Vw7UR7": {
-          "type": "slide",
-          "settings": {
-            "heading": "ROYAUTÉ",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_FmTxRY": {
-          "type": "slide",
-          "settings": {
-            "heading": "IMPÉRIAL",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide_WN3PDp",
-        "slide_gAqqWK",
-        "slide_Vw7UR7",
-        "slide_FmTxRY"
-      ],
-      "settings": {
-        "transparent_header": true,
-        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
-        "video_url": "",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "large",
-        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
-        "video_url_mobile": "",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
-      }
-    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -1543,6 +1544,7 @@
     }
   },
   "order": [
+    "video_hero_gT6J8R",
     "slider_PXBqTx",
     "featured_collections_BfjTGW",
     "scrolling-text-2",
@@ -1556,7 +1558,6 @@
     "scrolling-text-1",
     "reveal_testimonials_Gg4ApB",
     "reveal_image_with_text_overlay_jDWK4Q",
-    "video_hero_gT6J8R",
     "rich-text-1",
     "shop-the-feed",
     "countdown-timer",
