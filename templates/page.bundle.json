@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-page": {
@@ -25,7 +34,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Build Your Bundle",
+            "heading": "Crée votre offre",
             "heading_size": "title-xl tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -39,12 +48,13 @@
       ],
       "settings": {
         "transparent_header": true,
-        "image": "",
-        "image_height": "750px",
+        "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_a_21_42_29.png",
+        "image_height": "adapt",
         "content_width": "large",
         "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
-        "image_height_mobile": "auto",
+        "image_mobile": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
+        "image_height_mobile": "adapt",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
         "color_text": "#ffffff",
@@ -152,7 +162,6 @@
           "type": "icon",
           "settings": {
             "icon": "none",
-            "icon_image": "",
             "icon_width": 48
           }
         },
@@ -188,7 +197,7 @@
         "collection": "",
         "products": [],
         "product_limit": 3,
-        "image": "",
+        "image": "shopify://shop_images/yaraorange.webp",
         "image_height": "900px",
         "layout": "image_first",
         "content_position": "md:items-end",
@@ -225,7 +234,6 @@
           "type": "icon",
           "settings": {
             "icon": "none",
-            "icon_image": "",
             "icon_width": 48
           }
         },
@@ -261,7 +269,6 @@
         "collection": "",
         "products": [],
         "product_limit": 3,
-        "image": "",
         "layout": "text_first",
         "content_position": "md:items-end",
         "text_alignment": "right",
