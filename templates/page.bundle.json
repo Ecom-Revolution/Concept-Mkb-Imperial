@@ -82,13 +82,13 @@
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
-        "heading": "Buy 3 and <em>save 30%</em>",
+        "heading": "Achetez 3 et gagne 30% de réduction",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "large",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<p>The choice is yours. With our bundle builder, you can select any combination from our range of products. The easiest way to keep everyone happy.</p>",
+        "description": "<p>Le choix vous appartient. Grâce à notre créateur de lots, vous pouvez sélectionner n’importe quelle combinaison parmi notre gamme de produits. La façon la plus simple de faire plaisir à tout le monde.</p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
@@ -132,7 +132,7 @@
         "picker_type": "button",
         "enable_color_swatches": true,
         "color_swatch_type": "color",
-        "heading": "Your bundle",
+        "heading": "Votre Offre",
         "heading_size": "lg:text-5xl text-2xl",
         "heading_alignment": "text-left",
         "heading_tag": "h2",
@@ -168,7 +168,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Create Your Bundle",
+            "heading": "Crée votre offre",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -178,7 +178,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Save $30 when buying all 3 items</p>",
+            "text": "<p>Économisez 30 € en achetant les 3 articles</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -240,7 +240,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Create Your Bundle",
+            "heading": "Crée votre Offre",
             "heading_size": "title-md",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -250,7 +250,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Save $30 when buying all 3 items</p>",
+            "text": "<p>Économisez 30 $ en achetant les 3 articles</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
