@@ -11,6 +11,7 @@
   "sections": {
     "slideshow_VgkAh8": {
       "type": "slideshow",
+      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "autoplay": false,
@@ -31,7 +32,7 @@
         "padding_bottom": 0,
         "divider": false,
         "full_width": true,
-        "rounded": true,
+        "rounded": false,
         "enable_parallax": false,
         "parallax_direction": "vertical"
       }
