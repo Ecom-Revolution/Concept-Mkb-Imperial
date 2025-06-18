@@ -9,13 +9,40 @@
  */
 {
   "sections": {
+    "slideshow_VgkAh8": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "100vh",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 20,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": true,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
     "video_with_text_overlay_Gti4MX": {
       "type": "video-with-text-overlay",
       "blocks": {
         "subheading_J6ifAJ": {
           "type": "subheading",
           "settings": {
-            "subheading": "Add a tagline",
+            "subheading": "Ce que nous portons, nous vous l’offrons.",
             "subheading_size": "subtitle-md",
             "secondary_color": true
           }
@@ -23,8 +50,8 @@
         "heading_4a6Hw9": {
           "type": "heading",
           "settings": {
-            "heading": "Video with text overlay",
-            "heading_size": "title-lg tracking-heading",
+            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
+            "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -33,7 +60,7 @@
         "text_4xCDrB": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -61,7 +88,7 @@
         "content_position": "md:items-center md:justify-center",
         "text_alignment": "center",
         "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
-        "image_height_mobile": "auto",
+        "image_height_mobile": "600px",
         "content_position_mobile": "items-center justify-center",
         "text_alignment_mobile": "center",
         "color_text": "#ffffff",
@@ -138,7 +165,7 @@
         "enable_video_autoplay": true,
         "enable_video_looping": true,
         "content_width": "large",
-        "video_mobile": "shopify://files/videos/520381DE-8F32-48AE-8C14-B2EF56173766.MOV",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
         "video_url_mobile": "",
         "color_text": "#ffffff",
         "color_highlight": "",
@@ -1615,6 +1642,7 @@
     }
   },
   "order": [
+    "slideshow_VgkAh8",
     "video_with_text_overlay_Gti4MX",
     "video_hero_gT6J8R",
     "slider_PXBqTx",
