@@ -29,7 +29,7 @@
         "slide_GJVpUy": {
           "type": "slide",
           "settings": {
-            "heading": "Heading",
+            "heading": "DÉTERMINATION",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -39,7 +39,7 @@
         "slide_LidxLk": {
           "type": "slide",
           "settings": {
-            "heading": "Heading",
+            "heading": "SUCCÈS",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -49,7 +49,17 @@
         "slide_U8A7ii": {
           "type": "slide",
           "settings": {
-            "heading": "Heading",
+            "heading": "ROYAUTÉ",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_DfVyX4": {
+          "type": "slide",
+          "settings": {
+            "heading": "IMPÉRIAL",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
@@ -60,7 +70,8 @@
       "block_order": [
         "slide_GJVpUy",
         "slide_LidxLk",
-        "slide_U8A7ii"
+        "slide_U8A7ii",
+        "slide_DfVyX4"
       ],
       "name": "t:sections.video-hero.presets.name",
       "settings": {
