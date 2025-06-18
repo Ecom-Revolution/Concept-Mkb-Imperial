@@ -899,97 +899,6 @@
         "rounded": false
       }
     },
-    "slideshow_F6BqHJ": {
-      "type": "slideshow",
-      "blocks": {
-        "image_46PkDa": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_42_32.png",
-            "heading": "",
-            "heading_size": "title-sm",
-            "heading_tag": "h2",
-            "button_label": "DÉCOUVRIR",
-            "button_link": "shopify://products/khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
-            "button_style": "link",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "image_C7BYhd": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
-            "heading": "",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "DÉCOUVRIR",
-            "button_link": "shopify://products/mango-musk-ithra-eau-de-parfum-100-ml",
-            "button_style": "link",
-            "button_external": true,
-            "button_icon": false
-          }
-        },
-        "image_QqQHqT": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_12_23_52.png",
-            "heading": "",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "DÉCOUVRIR",
-            "button_link": "shopify://products/eau-de-parfum-cherry-buzz-80ml-fragrance-world",
-            "button_style": "link",
-            "button_external": false,
-            "button_icon": false
-          }
-        },
-        "image_qTYAUM": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_35_52.png",
-            "heading": "",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "button_label": "DÉCOUVRIR",
-            "button_link": "shopify://products/ajwad-60-ml-eau-de-parfum-mixte-lattafa",
-            "button_style": "link",
-            "button_external": false,
-            "button_icon": false
-          }
-        }
-      },
-      "block_order": [
-        "image_46PkDa",
-        "image_C7BYhd",
-        "image_QqQHqT",
-        "image_qTYAUM"
-      ],
-      "name": "t:sections.slideshow.presets.name",
-      "settings": {
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "show_navigation": true,
-        "image_height": "650px",
-        "content_width": "small",
-        "image_height_mobile": "auto",
-        "color_text": "#ffffff",
-        "color_background": "#ffffff",
-        "gradient_background": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 11,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": false,
-        "parallax_direction": "vertical"
-      }
-    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -1013,7 +922,7 @@
         "text_alignment": "left",
         "text_alignment_mobile": "left",
         "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-center md:items-center",
         "heading_width": "small",
         "heading_tag": "h2",
@@ -1023,7 +932,7 @@
         "button_link": "shopify://pages/a-propos-de-nous",
         "button_external": false,
         "button_icon": true,
-        "highlighted_text": "scribble",
+        "highlighted_text": "text",
         "highlighted_scribble": "basic-underline",
         "color_text": "",
         "color_background": "",
@@ -1033,7 +942,7 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
+        "padding_top": 28,
         "padding_bottom": 0,
         "divider": false,
         "narrow": false,
@@ -1241,8 +1150,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 80,
-        "padding_bottom": 100,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "divider": false,
         "full_width": false,
         "rounded": true
@@ -1473,6 +1382,97 @@
         "parallax_direction": "vertical"
       }
     },
+    "slideshow_F6BqHJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_46PkDa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_42_32.png",
+            "heading": "",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_C7BYhd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/mango-musk-ithra-eau-de-parfum-100-ml",
+            "button_style": "link",
+            "button_external": true,
+            "button_icon": false
+          }
+        },
+        "image_QqQHqT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_12_23_52.png",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_qTYAUM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_35_52.png",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/ajwad-60-ml-eau-de-parfum-mixte-lattafa",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "image_46PkDa",
+        "image_C7BYhd",
+        "image_QqQHqT",
+        "image_qTYAUM"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "auto",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 11,
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
     "testimonials-banner": {
       "type": "testimonials-banner",
       "blocks": {
@@ -1557,12 +1557,12 @@
     "reveal_testimonials_Gg4ApB",
     "reveal_image_with_text_overlay_jDWK4Q",
     "video_hero_gT6J8R",
-    "slideshow_F6BqHJ",
     "rich-text-1",
     "shop-the-feed",
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
+    "slideshow_F6BqHJ",
     "testimonials-banner"
   ]
 }
