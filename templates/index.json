@@ -87,18 +87,18 @@
         "show_view_all": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "VOS FRAGRANCES PREFERÉES",
+        "heading": "VOS FRAGRANCES <em>PREFERÉES</em>",
         "heading_size": "title-sm",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
+        "highlighted_text": "text",
+        "highlighted_scribble": "squiggle-underline",
         "color_text": "",
         "color_background": "",
         "gradient_background": "",
-        "color_highlight": "",
+        "color_highlight": "#e9bb79",
         "gradient_highlight": "",
         "color_button_text": "",
         "color_button_background": "",
@@ -172,6 +172,7 @@
         "image-6",
         "image-7"
       ],
+      "disabled": true,
       "settings": {
         "direction": "right",
         "speed": 5,
@@ -189,87 +190,6 @@
         "rounded": false
       }
     },
-    "images_with_text_overlay_Ui9jC7": {
-      "type": "images-with-text-overlay",
-      "blocks": {
-        "subheading_ENB6pG": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "MKB IMPÉRIAL",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_fxMmCC": {
-          "type": "heading",
-          "settings": {
-            "heading": "Le parfum, symbole de présence.",
-            "heading_size": "title-sm",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_zVJ9zf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez <strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "button_8qXA3F": {
-          "type": "button",
-          "settings": {
-            "button_label": "COMPOSER MON PACKS",
-            "button_link": "shopify://pages/cree-votre-offrd",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "subheading_ENB6pG",
-        "heading_fxMmCC",
-        "text_zVJ9zf",
-        "button_8qXA3F"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "image_height": "650px",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_1": "shopify://shop_images/pixelcut-export_51_351fbfd9-ca39-4f51-88b4-c279081c3bc4.png",
-        "image_2": "shopify://shop_images/pixelcut-export_49_5863814b-b218-4c86-af10-001c8b8d3913.png",
-        "image_3": "shopify://shop_images/pixelcut-export_57.png",
-        "image_4": "shopify://shop_images/pixelcut-export_56.png",
-        "image_5": "shopify://shop_images/pixelcut-export_50.png",
-        "image_height_mobile": "auto",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 100,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -278,7 +198,7 @@
           "settings": {
             "collection": "nos-best-seller",
             "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
-            "title": "Trouvez votre parfum à travers nos 4 mondes olfactifs.",
+            "title": "Trouvez votre parfum à travers nos 4 univers olfactifs.",
             "description": "",
             "overlay_content": true,
             "color_text": "#ffffff",
@@ -371,8 +291,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 100,
-        "padding_bottom": 100,
+        "padding_top": 32,
+        "padding_bottom": 32,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -388,7 +308,7 @@
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "heading": "Collection Florale & Fraîche 🌸",
         "heading_size": "title-sm",
@@ -406,8 +326,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -423,7 +343,7 @@
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "heading": "Collection Gourmande & Sucrée <strong>🍭</strong>",
         "heading_size": "title-sm",
@@ -441,8 +361,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -458,7 +378,7 @@
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "heading": "Collection Ambrée & Orientale 🔥",
         "heading_size": "title-sm",
@@ -476,8 +396,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -493,7 +413,7 @@
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "heading": "<strong>Collection Fraîche & Aquatique 🌊</strong>",
         "heading_size": "title-sm",
@@ -511,8 +431,8 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 28,
+        "padding_bottom": 28,
         "divider": false,
         "full_width": false,
         "rounded": false
@@ -688,6 +608,7 @@
         "read_more",
         "spinning_text"
       ],
+      "disabled": true,
       "settings": {
         "product": "yara-100-ml-par-lattafa-perfumes-eau-de-parfum",
         "enable_sticky_info": true,
@@ -707,6 +628,87 @@
         "divider": false,
         "full_width": false,
         "rounded": true
+      }
+    },
+    "images_with_text_overlay_Ui9jC7": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "subheading_ENB6pG": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "MKB IMPÉRIAL",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_fxMmCC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Le parfum, symbole de présence.",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_zVJ9zf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez <strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_8qXA3F": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPOSER MON PACKS",
+            "button_link": "shopify://pages/cree-votre-offrd",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_ENB6pG",
+        "heading_fxMmCC",
+        "text_zVJ9zf",
+        "button_8qXA3F"
+      ],
+      "settings": {
+        "transparent_header": false,
+        "image_height": "650px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/pixelcut-export_51_351fbfd9-ca39-4f51-88b4-c279081c3bc4.png",
+        "image_2": "shopify://shop_images/pixelcut-export_49_5863814b-b218-4c86-af10-001c8b8d3913.png",
+        "image_3": "shopify://shop_images/pixelcut-export_57.png",
+        "image_4": "shopify://shop_images/pixelcut-export_56.png",
+        "image_5": "shopify://shop_images/pixelcut-export_50.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#171717",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#fafafa",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
       }
     },
     "reveal_image_with_text_overlay_jDWK4Q": {
@@ -1127,8 +1129,8 @@
         "account_name": "@mkbimperial",
         "show_vendor": false,
         "show_price": true,
-        "heading": "Découvrez nous sur instagram",
-        "heading_size": "title-md",
+        "heading": "Suivez nous sur instagram",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
@@ -1379,66 +1381,6 @@
         "parallax_direction": "vertical"
       }
     },
-    "highlight_text_ahKX9h": {
-      "type": "highlight-text",
-      "blocks": {
-        "heading_yB4LAL": {
-          "type": "heading",
-          "settings": {
-            "heading": "MKB IMPÉRIAL VOUS REMERCIE",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "image_Er4w9c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "image_width": 150,
-            "image_height": 90,
-            "link": "",
-            "description": "",
-            "image_width_mobile": 90,
-            "image_height_mobile": 50
-          }
-        }
-      },
-      "block_order": [
-        "heading_yB4LAL",
-        "image_Er4w9c"
-      ],
-      "settings": {
-        "text_alignment": "center",
-        "text_alignment_mobile": "center",
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 100,
-        "divider": false,
-        "narrow": true,
-        "rounded": false
-      }
-    },
     "testimonials-banner": {
       "type": "testimonials-banner",
       "blocks": {
@@ -1512,7 +1454,6 @@
     "slider_PXBqTx",
     "featured_collections_BfjTGW",
     "scrolling-text-2",
-    "images_with_text_overlay_Ui9jC7",
     "collection-list",
     "featured_collection_GbaQ84",
     "featured_collection_FBfnCH",
@@ -1520,6 +1461,7 @@
     "featured_collection_3cKneH",
     "video_hero_gT6J8R",
     "featured-product",
+    "images_with_text_overlay_Ui9jC7",
     "reveal_image_with_text_overlay_jDWK4Q",
     "rich-text-1",
     "scrolling-text-1",
@@ -1528,7 +1470,6 @@
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
-    "highlight_text_ahKX9h",
     "testimonials-banner"
   ]
 }
