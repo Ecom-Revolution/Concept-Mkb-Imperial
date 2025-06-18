@@ -202,7 +202,7 @@
         "image_ratio": "portrait",
         "image_ratio_mobile": "wide",
         "heading": "<strong>Notre histoire, c’est celle de la persévérance.</strong>",
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
         "subheading": "",
