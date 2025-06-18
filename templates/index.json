@@ -312,7 +312,7 @@
         "swipe_on_mobile": true,
         "heading": "Collection Florale & Fraîche 🌸",
         "heading_size": "title-sm",
-        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
@@ -435,78 +435,6 @@
         "padding_bottom": 28,
         "divider": false,
         "full_width": false,
-        "rounded": false
-      }
-    },
-    "video_hero_gT6J8R": {
-      "type": "video-hero",
-      "blocks": {
-        "slide_WN3PDp": {
-          "type": "slide",
-          "settings": {
-            "heading": "DÉTERMINATION",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_gAqqWK": {
-          "type": "slide",
-          "settings": {
-            "heading": "SUCCÈS",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_Vw7UR7": {
-          "type": "slide",
-          "settings": {
-            "heading": "ROYAUTÉ",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide_FmTxRY": {
-          "type": "slide",
-          "settings": {
-            "heading": "IMPÉRIAL",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide_WN3PDp",
-        "slide_gAqqWK",
-        "slide_Vw7UR7",
-        "slide_FmTxRY"
-      ],
-      "settings": {
-        "transparent_header": true,
-        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
-        "video_url": "",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "large",
-        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
-        "video_url_mobile": "",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
         "rounded": false
       }
     },
@@ -695,13 +623,13 @@
         "image_height_mobile": "auto",
         "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
-        "color_text": "#171717",
+        "color_text": "#ffffff",
         "color_highlight": "#e0a580",
         "gradient_highlight": "",
         "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
+        "color_button_background": "#e9bb79",
         "color_button_gradient": "",
-        "color_overlay": "#fafafa",
+        "color_overlay": "#171717",
         "overlay_opacity": 100,
         "padding_top": 0,
         "padding_bottom": 0,
@@ -711,111 +639,75 @@
         "enable_parallax": true
       }
     },
-    "reveal_image_with_text_overlay_jDWK4Q": {
-      "type": "reveal-image-with-text-overlay",
+    "video_hero_gT6J8R": {
+      "type": "video-hero",
       "blocks": {
-        "subheading_xYjRnU": {
-          "type": "subheading",
+        "slide_WN3PDp": {
+          "type": "slide",
           "settings": {
-            "subheading": "Ce que nous portons, nous vous l’offrons.",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_xtWmDw": {
-          "type": "heading",
-          "settings": {
-            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
+            "heading": "DÉTERMINATION",
             "heading_size": "title-lg tracking-heading",
             "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         },
-        "text_ArycwJ": {
-          "type": "text",
+        "slide_gAqqWK": {
+          "type": "slide",
           "settings": {
-            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.<br/></p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
+            "heading": "SUCCÈS",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_Vw7UR7": {
+          "type": "slide",
+          "settings": {
+            "heading": "ROYAUTÉ",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "slide_FmTxRY": {
+          "type": "slide",
+          "settings": {
+            "heading": "IMPÉRIAL",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
         }
       },
       "block_order": [
-        "subheading_xYjRnU",
-        "heading_xtWmDw",
-        "text_ArycwJ"
+        "slide_WN3PDp",
+        "slide_gAqqWK",
+        "slide_Vw7UR7",
+        "slide_FmTxRY"
       ],
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_25_05.png",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_mobile": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_32_32.png",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
+        "transparent_header": true,
+        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
+        "video_url": "",
+        "description": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "content_width": "large",
+        "video_mobile": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
+        "video_url_mobile": "",
         "color_text": "#ffffff",
         "color_highlight": "",
         "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "color_overlay": "#171717",
-        "overlay_opacity": 70,
-        "enable_parallax": true
-      }
-    },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
-        "heading_size": "title-md",
-        "heading_alignment": "text-center md:items-center",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "Notre Histoire",
-        "button_link": "shopify://pages/a-propos-de-nous",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "scribble",
-        "highlighted_scribble": "basic-underline",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
+        "color_overlay": "#000000",
+        "overlay_opacity": 40,
+        "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
-        "narrow": false,
+        "full_width": true,
         "rounded": false
       }
     },
@@ -825,8 +717,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<em><strong>Il parle de nous </strong></em>",
-            "text_size": 160,
+            "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
+            "text_size": 58,
             "text_font": "body",
             "highlighted_text": "stencil",
             "highlighted_scribble": "circle"
@@ -847,8 +739,8 @@
         "gradient_background": "",
         "color_highlight": "",
         "gradient_highlight": "",
-        "padding_top": 120,
-        "padding_bottom": 120,
+        "padding_top": 12,
+        "padding_bottom": 0,
         "divider": false,
         "rounded": false
       }
@@ -886,7 +778,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p><em>C’est un coup de cœur. Il est à la fois doux et puissant, sans être entêtant. Je l’ai adopté directement.</em></p>",
+            "text": "<p>C’est un coup de cœur. Il est à la fois doux et puissant, sans être entêtant. Je l’ai adopté directement.</p>",
             "author": "Lamia A.",
             "author_info": "",
             "author_url": "",
@@ -942,9 +834,209 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 24,
+        "padding_bottom": 24,
         "divider": false,
+        "rounded": false
+      }
+    },
+    "reveal_image_with_text_overlay_jDWK4Q": {
+      "type": "reveal-image-with-text-overlay",
+      "blocks": {
+        "subheading_xYjRnU": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Ce que nous portons, nous vous l’offrons.",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_xtWmDw": {
+          "type": "heading",
+          "settings": {
+            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_ArycwJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.<br/></p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xYjRnU",
+        "heading_xtWmDw",
+        "text_ArycwJ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_25_05.png",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "image_mobile": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_32_32.png",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 70,
+        "enable_parallax": true
+      }
+    },
+    "slideshow_F6BqHJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_46PkDa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_42_32.png",
+            "heading": "",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "button_label": "DÉCOURIR",
+            "button_link": "shopify://products/khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_C7BYhd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/mango-musk-ithra-eau-de-parfum-100-ml",
+            "button_style": "link",
+            "button_external": true,
+            "button_icon": false
+          }
+        },
+        "image_QqQHqT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_26_mai_2025_12_23_52.png",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        },
+        "image_qTYAUM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_28_mai_2025_21_35_52.png",
+            "heading": "",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "button_label": "DÉCOUVRIR",
+            "button_link": "shopify://products/ajwad-60-ml-eau-de-parfum-mixte-lattafa",
+            "button_style": "link",
+            "button_external": false,
+            "button_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "image_46PkDa",
+        "image_C7BYhd",
+        "image_QqQHqT",
+        "image_qTYAUM"
+      ],
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "show_navigation": true,
+        "image_height": "650px",
+        "content_width": "small",
+        "image_height_mobile": "auto",
+        "color_text": "#ffffff",
+        "color_background": "#ffffff",
+        "gradient_background": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 11,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "Notre Histoire",
+        "button_link": "shopify://pages/a-propos-de-nous",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "#e9bb79",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": false,
         "rounded": false
       }
     },
@@ -1459,13 +1551,14 @@
     "featured_collection_FBfnCH",
     "featured_collection_hJz8Wb",
     "featured_collection_3cKneH",
-    "video_hero_gT6J8R",
     "featured-product",
     "images_with_text_overlay_Ui9jC7",
-    "reveal_image_with_text_overlay_jDWK4Q",
-    "rich-text-1",
+    "video_hero_gT6J8R",
     "scrolling-text-1",
     "reveal_testimonials_Gg4ApB",
+    "reveal_image_with_text_overlay_jDWK4Q",
+    "slideshow_F6BqHJ",
+    "rich-text-1",
     "shop-the-feed",
     "countdown-timer",
     "shop-the-look",
