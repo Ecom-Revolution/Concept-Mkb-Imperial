@@ -28,7 +28,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "title_size": "title-md"
+            "title_size": "title-sm"
           }
         }
       },
