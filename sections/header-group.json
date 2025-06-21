@@ -18,10 +18,10 @@
           "type": "announcement",
           "settings": {
             "icon": "truck",
-            "text": "Livraison Offerte à Partir de 70€",
+            "text": "Livraison rapide • Satisfait ou remboursé • Paiement & 100 % sécurisé",
             "link": "",
             "hide_icon_mobile": false,
-            "text_mobile": "",
+            "text_mobile": "Livraison rapide • Satisfait ou remboursé • Paiement & 100 % sécurisé",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
