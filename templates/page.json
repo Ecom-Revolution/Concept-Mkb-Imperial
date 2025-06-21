@@ -12,7 +12,7 @@
     "main-page": {
       "type": "main-page",
       "settings": {
-        "heading_size": "title-md",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left",
         "heading_tag": "h1",
         "text_size": "text-base",
