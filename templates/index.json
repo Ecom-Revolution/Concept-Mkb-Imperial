@@ -231,14 +231,6 @@
     "featured_collections_BfjTGW": {
       "type": "featured-collections",
       "blocks": {
-        "collection_TqLYDq": {
-          "type": "collection",
-          "settings": {
-            "collection": "coups-de-coeur",
-            "products": [],
-            "title": ""
-          }
-        },
         "collection_8qwmte": {
           "type": "collection",
           "settings": {
@@ -249,7 +241,6 @@
         }
       },
       "block_order": [
-        "collection_TqLYDq",
         "collection_8qwmte"
       ],
       "name": "t:sections.featured-collections.presets.name",
@@ -265,7 +256,7 @@
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "",
+        "description": "<p>Découvrir les Best Sellers</p>",
         "highlighted_text": "text",
         "highlighted_scribble": "squiggle-underline",
         "color_text": "",
