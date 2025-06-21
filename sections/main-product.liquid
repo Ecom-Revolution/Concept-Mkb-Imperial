@@ -341,6 +341,7 @@
                       <price-per-item
                         id="PricePerItem-{{ section.id }}-{{ product.id }}"
                         class="price flex flex-wrap items-center gap-2 lg:gap-1d5"
+                        
                         data-section-id="{{ section.id }}"
                         data-product-id="{{ product.id }}"
                         data-variant-id="{{ product.selected_or_first_available_variant.id }}"
@@ -357,6 +358,9 @@
                             -%}
                           </span>
                           <span class="sr-only">{{ 'products.price.sale_price' | t }}</span>
+                          <p class="trusted-note" style="font-size:0.9rem;color:#555; margin-top:10px;">
+  + de 800 clientes conquises
+</p>
                         {%- endif -%}
                         
                         {%- if product.selected_or_first_available_variant.quantity_price_breaks.size > 0 -%}
