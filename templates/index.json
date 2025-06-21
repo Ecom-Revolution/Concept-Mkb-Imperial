@@ -82,7 +82,7 @@
         "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814 2.mov",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
-        "enable_video_autoplay": true,
+        "enable_video_autoplay": false,
         "enable_video_looping": true,
         "image_height": "650px",
         "content_width": "small",
