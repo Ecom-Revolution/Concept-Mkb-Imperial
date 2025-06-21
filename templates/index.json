@@ -273,6 +273,135 @@
         "rounded": false
       }
     },
+    "scrolling-text-1": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
+            "text_size": 58,
+            "text_font": "body",
+            "highlighted_text": "stencil",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 30,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 12,
+        "padding_bottom": 0,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "reveal_testimonials_Gg4ApB": {
+      "type": "reveal-testimonials",
+      "blocks": {
+        "testimonial_UnVYAd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "text": "<p><strong>“C’est ma 4e commande chez MKB IMPÉRIAL. La qualité est toujours au rendez-vous, les parfums tiennent toute la journée. Je ne porte plus rien d’autre !”</strong><br/><br/>— <em>Sarah M., Paris</em></p>",
+            "author": "",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_F6zNjW": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Une fragrance élégante, à la fois fraîche et envoûtante. Je reçois des compliments à chaque fois que je le porte. Une vraie signature olfactive.</p>",
+            "author": "Issa B.",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_n3tRYx": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>C’est un coup de cœur. Il est à la fois doux et puissant, sans être entêtant. Je l’ai adopté directement.</p>",
+            "author": "Lamia A.",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_gxkrGf": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Le packaging est magnifique, et le parfum sent vraiment comme une grande marque. Rapport qualité/prix imbattable.</p>",
+            "author": "Ayoub E.",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_za6aci": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>Ce parfum a une odeur vraiment originale, rien à voir avec ce qu’on trouve en parfumerie classique. Il se distingue, c’est ce que je recherchais.</p>",
+            "author": "Sofiane L.",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UnVYAd",
+        "testimonial_F6zNjW",
+        "testimonial_n3tRYx",
+        "testimonial_gxkrGf",
+        "testimonial_za6aci"
+      ],
+      "name": "t:sections.reveal-testimonials.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "title-sm",
+        "heading_tag": "h2",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "divider": false,
+        "rounded": false
+      }
+    },
     "scrolling-text-2": {
       "type": "scrolling-text",
       "blocks": {
@@ -800,135 +929,6 @@
         "full_width": true,
         "rounded": false,
         "enable_parallax": true
-      }
-    },
-    "scrolling-text-1": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
-            "text_size": 58,
-            "text_font": "body",
-            "highlighted_text": "stencil",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 30,
-        "grid_horizontal": 70,
-        "enable_twin": false,
-        "enable_parallax": true,
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "padding_top": 12,
-        "padding_bottom": 0,
-        "divider": false,
-        "rounded": false
-      }
-    },
-    "reveal_testimonials_Gg4ApB": {
-      "type": "reveal-testimonials",
-      "blocks": {
-        "testimonial_F6zNjW": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>Une fragrance élégante, à la fois fraîche et envoûtante. Je reçois des compliments à chaque fois que je le porte. Une vraie signature olfactive.</p>",
-            "author": "Issa B.",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_UnVYAd": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>Je l’ai mis le matin et le soir il sentait encore sur ma peau ! Une excellente tenue, et l’odeur est juste divine. Je recommande les yeux fermés.</p>",
-            "author": "Maya Z.",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_n3tRYx": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>C’est un coup de cœur. Il est à la fois doux et puissant, sans être entêtant. Je l’ai adopté directement.</p>",
-            "author": "Lamia A.",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_gxkrGf": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>Le packaging est magnifique, et le parfum sent vraiment comme une grande marque. Rapport qualité/prix imbattable.</p>",
-            "author": "Ayoub E.",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_za6aci": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<p>Ce parfum a une odeur vraiment originale, rien à voir avec ce qu’on trouve en parfumerie classique. Il se distingue, c’est ce que je recherchais.</p>",
-            "author": "Sofiane L.",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_F6zNjW",
-        "testimonial_UnVYAd",
-        "testimonial_n3tRYx",
-        "testimonial_gxkrGf",
-        "testimonial_za6aci"
-      ],
-      "name": "t:sections.reveal-testimonials.presets.name",
-      "settings": {
-        "heading": "",
-        "heading_size": "title-sm",
-        "heading_tag": "h2",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 24,
-        "padding_bottom": 24,
-        "divider": false,
-        "rounded": false
       }
     },
     "reveal_image_with_text_overlay_jDWK4Q": {
@@ -1639,6 +1639,8 @@
     "video_hero_gT6J8R",
     "slider_PXBqTx",
     "featured_collections_BfjTGW",
+    "scrolling-text-1",
+    "reveal_testimonials_Gg4ApB",
     "scrolling-text-2",
     "collection-list",
     "featured_collection_GbaQ84",
@@ -1647,8 +1649,6 @@
     "featured_collection_3cKneH",
     "featured-product",
     "images_with_text_overlay_Ui9jC7",
-    "scrolling-text-1",
-    "reveal_testimonials_Gg4ApB",
     "reveal_image_with_text_overlay_jDWK4Q",
     "rich-text-1",
     "shop-the-feed",
