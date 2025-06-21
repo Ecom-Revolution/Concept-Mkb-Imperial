@@ -43,7 +43,7 @@
         "subheading_J6ifAJ": {
           "type": "subheading",
           "settings": {
-            "subheading": "Ce que nous portons, nous vous l’offrons.",
+            "subheading": "MKB IMPERIAL",
             "subheading_size": "subtitle-md",
             "secondary_color": true
           }
@@ -51,21 +51,9 @@
         "heading_4a6Hw9": {
           "type": "heading",
           "settings": {
-            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
+            "heading": "L’ESSENCE DU GOLFE, SÉLECTIONNÉE POUR VOUS.",
             "heading_size": "title-sm",
             "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_4xCDrB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
@@ -73,8 +61,7 @@
       },
       "block_order": [
         "subheading_J6ifAJ",
-        "heading_4a6Hw9",
-        "text_4xCDrB"
+        "heading_4a6Hw9"
       ],
       "name": "t:sections.video-with-text-overlay.presets.name",
       "settings": {
