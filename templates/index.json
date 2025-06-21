@@ -57,11 +57,23 @@
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
+        },
+        "button_J8FbWE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Découvrir nos Best Sellers",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "sm",
+            "button_external": false,
+            "button_icon": false
+          }
         }
       },
       "block_order": [
         "subheading_J6ifAJ",
-        "heading_4a6Hw9"
+        "heading_4a6Hw9",
+        "button_J8FbWE"
       ],
       "name": "t:sections.video-with-text-overlay.presets.name",
       "settings": {
