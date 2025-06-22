@@ -30,6 +30,19 @@
             "show_rating": true
           }
         },
+        "text_UmLPwQ": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "text": "Contenance : 75ml",
+            "text_size": "text-base"
+          }
+        },
+        "quantity_selector_kkNLPx": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -119,6 +132,8 @@
       "block_order": [
         "vendor",
         "title",
+        "text_UmLPwQ",
+        "quantity_selector_kkNLPx",
         "description",
         "countdown",
         "variant_picker",
