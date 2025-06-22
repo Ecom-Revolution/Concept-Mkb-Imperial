@@ -86,19 +86,31 @@
             "show_back_in_stock_phone": false
           }
         },
+        "collapsible_tab_QUjEXE": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Notes du parfum",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_xNTP7j": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
         "pickup_availability": {
           "type": "pickup_availability",
           "settings": {}
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share",
-            "show_help_desk": true,
-            "help_label": "Need help?",
-            "help_type": "drawer",
-            "help_page": ""
-          }
         },
         "product_bundle_idfcGh": {
           "type": "product_bundle",
@@ -134,8 +146,9 @@
         "countdown",
         "variant_picker",
         "buy_buttons",
+        "collapsible_tab_QUjEXE",
+        "collapsible_tab_xNTP7j",
         "pickup_availability",
-        "share",
         "product_bundle_idfcGh",
         "complementary",
         "sticky_buy_button"
