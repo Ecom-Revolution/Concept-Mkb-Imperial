@@ -388,7 +388,7 @@
         "heading_6EcEpc": {
           "type": "heading",
           "settings": {
-            "heading": "Des marques sélectionnées pour leur excellence et leur authenticité.",
+            "heading": "<strong>Des marques sélectionnées pour leur excellence et leur authenticité.</strong>",
             "heading_size": "title-sm",
             "heading_tag": "h1",
             "highlighted_text": "none",
@@ -939,7 +939,7 @@
         "heading_fxMmCC": {
           "type": "heading",
           "settings": {
-            "heading": "Le parfum, symbole de présence.",
+            "heading": "<strong>Le parfum, symbole de présence.</strong>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "highlighted_text": "none",
