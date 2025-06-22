@@ -431,6 +431,42 @@
         "enable_parallax": true
       }
     },
+    "number_counter_QAh8Tg": {
+      "type": "number-counter",
+      "blocks": {
+        "counter_AYJ7jr": {
+          "type": "counter",
+          "settings": {
+            "title": "AUTHENTIQUES",
+            "number": "100",
+            "unit": "%",
+            "duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "counter_AYJ7jr"
+      ],
+      "name": "t:sections.number-counter.presets.name",
+      "settings": {
+        "gap": "small",
+        "columns": 2,
+        "text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "text_alignment_mobile": "center",
+        "color_text": "#849493",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 0,
+        "padding_bottom": 12,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "scrolling-text-2": {
       "type": "scrolling-text",
       "blocks": {
@@ -1671,6 +1707,7 @@
     "scrolling-text-1",
     "reveal_testimonials_Gg4ApB",
     "images_with_text_overlay_jEkfTF",
+    "number_counter_QAh8Tg",
     "scrolling-text-2",
     "collection-list",
     "featured_collection_GbaQ84",
