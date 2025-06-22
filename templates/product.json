@@ -30,6 +30,15 @@
             "show_rating": true
           }
         },
+        "text_EJgNFj": {
+          "type": "text",
+          "settings": {
+            "icon": "users",
+            "icon_width": 10,
+            "text": "Déjà adopté par +800 clientes‎ㅤㅤㅤㅤㅤ   ㅤ‎Note moyenne : 4,3/5",
+            "text_size": "text-sm"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -119,6 +128,7 @@
       "block_order": [
         "vendor",
         "title",
+        "text_EJgNFj",
         "description",
         "countdown",
         "variant_picker",
