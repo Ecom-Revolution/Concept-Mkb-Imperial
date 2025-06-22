@@ -442,10 +442,20 @@
             "unit": "%",
             "duration": 2
           }
+        },
+        "counter_aGUtTC": {
+          "type": "counter",
+          "settings": {
+            "title": "Nous garantissons l'origine et la qualité de chaque parfum que nous proposons.",
+            "number": "",
+            "unit": "",
+            "duration": 2
+          }
         }
       },
       "block_order": [
-        "counter_AYJ7jr"
+        "counter_AYJ7jr",
+        "counter_aGUtTC"
       ],
       "name": "t:sections.number-counter.presets.name",
       "settings": {
@@ -456,12 +466,12 @@
         "swipe_on_mobile": false,
         "text_alignment_mobile": "center",
         "color_text": "#849493",
-        "color_background": "",
+        "color_background": "#fafafa",
         "gradient_background": "",
         "color_highlight": "",
         "gradient_highlight": "",
         "padding_top": 0,
-        "padding_bottom": 12,
+        "padding_bottom": 32,
         "divider": false,
         "full_width": false,
         "rounded": false
