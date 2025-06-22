@@ -39,7 +39,7 @@
           "settings": {
             "icon": "none",
             "icon_image": "shopify://shop_images/icons8-gift-50.png",
-            "icon_width": 70,
+            "icon_width": 80,
             "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤUn parfum acheté = un échantillon offert",
             "text_size": "text-base"
           }
@@ -51,12 +51,6 @@
             "icon_image": "shopify://shop_images/icons8-giveaway-100_1.png",
             "icon_width": 120,
             "text": "<strong>Cadeau OFFERT </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPour toute commande à partir de 150€ d'achats",
-            "text_size": "text-base"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
             "text_size": "text-base"
           }
         },
@@ -146,7 +140,6 @@
         "quantity_selector_kkNLPx",
         "text_pNEyKT",
         "text_EpbGTj",
-        "description",
         "countdown",
         "variant_picker",
         "inventory",
