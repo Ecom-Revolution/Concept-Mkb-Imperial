@@ -30,7 +30,7 @@
           "settings": {
             "icon": "box",
             "custom_icon": "",
-            "heading": "Livraison",
+            "heading": "<strong>Livraison</strong>",
             "text": "<p>Obtenez la livraison gratuite sur les commandes de 150€ ou plus</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -41,7 +41,7 @@
           "settings": {
             "icon": "users",
             "custom_icon": "",
-            "heading": "Parrainer un ami",
+            "heading": "<strong>Parrainer un ami</strong>",
             "text": "<p>Parrainez un ami et obtenez 15% de réductions les uns des autres.</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
@@ -52,7 +52,7 @@
           "settings": {
             "icon": "shield",
             "custom_icon": "",
-            "heading": "Payement Securisé",
+            "heading": "<strong>Payement Securisé</strong>",
             "text": "<p>Vos informations de paiement sont traitées en toute sécurité</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
