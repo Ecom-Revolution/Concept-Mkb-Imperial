@@ -48,8 +48,9 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "icon_width": 20,
-            "text": "<strong>Cadeau OFFERT </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPour toute commande à partir de 150€ d'achats",
+            "icon_image": "shopify://shop_images/icons8-giveaway-100_1.png",
+            "icon_width": 120,
+            "text": "<strong>Cadeau OFFERT </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPour toute commande à partir de 150€ d'achats",
             "text_size": "text-base"
           }
         },
