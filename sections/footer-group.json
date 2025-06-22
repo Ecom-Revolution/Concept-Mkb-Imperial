@@ -19,7 +19,7 @@
           "settings": {
             "icon": "support",
             "custom_icon": "",
-            "heading": "Service Client",
+            "heading": "<strong>Service Client</strong>",
             "text": "<p>Disponible 7/7J & 24/24H</p>",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
