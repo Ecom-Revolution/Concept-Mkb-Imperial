@@ -34,6 +34,24 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "text_pNEyKT": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤUn parfum acheté = un échantillon offert",
+            "text_size": "text-base"
+          }
+        },
+        "text_EpbGTj": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "text": "<strong>Cadeau OFFERT </strong>Pour toute commande à partir de 150€ d'achats",
+            "text_size": "text-base"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -124,6 +142,8 @@
         "vendor",
         "title",
         "quantity_selector_kkNLPx",
+        "text_pNEyKT",
+        "text_EpbGTj",
         "description",
         "countdown",
         "variant_picker",
