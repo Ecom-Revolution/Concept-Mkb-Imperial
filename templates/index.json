@@ -677,7 +677,7 @@
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "heading": "Collection Florale & Fraîche 🌸",
+        "heading": "<strong>Collection Florale & Fraîche 🌸</strong>",
         "heading_size": "title-sm",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
