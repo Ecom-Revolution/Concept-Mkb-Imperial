@@ -30,13 +30,16 @@
             "show_rating": true
           }
         },
-        "text_UmLPwQ": {
-          "type": "text",
+        "line_item_property_bbGpVJ": {
+          "type": "line_item_property",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "text": "Contenance : 75ml",
-            "text_size": "text-base"
+            "type": "radio",
+            "title": "Contenance : 75ml",
+            "required": false,
+            "checked_value": "Yes",
+            "unchecked_value": "No",
+            "radio_options": "",
+            "select_options": ""
           }
         },
         "quantity_selector_kkNLPx": {
@@ -132,7 +135,7 @@
       "block_order": [
         "vendor",
         "title",
-        "text_UmLPwQ",
+        "line_item_property_bbGpVJ",
         "quantity_selector_kkNLPx",
         "description",
         "countdown",
