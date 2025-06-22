@@ -1296,7 +1296,7 @@
         "account_name": "@mkbimperial",
         "show_vendor": false,
         "show_price": true,
-        "heading": "Suivez nous sur instagram",
+        "heading": "<strong>Suivez nous sur instagram</strong>",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_tag": "h2",
