@@ -250,7 +250,7 @@
         "show_view_all": true,
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "VOS FRAGRANCES <em>PREFERÉES</em>",
+        "heading": "<strong>VOS FRAGRANCES </strong><em><strong>PREFERÉES</strong></em>",
         "heading_size": "title-sm",
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
