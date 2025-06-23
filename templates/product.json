@@ -173,6 +173,24 @@
         "rounded": false
       }
     },
+    "custom_liquid_fH83G7": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "liquid": "<div id=\"shopify-block-AbDVjaVp0dGNrcWVNU__estimated_delivery_date_plus_delivery_coder_theme_NTxWed\" class=\"shopify-block shopify-app-block\">\n<div class=\"delivery-widget__theme\">…</div>\n</div>",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
     "help-drawer": {
       "type": "help-drawer",
       "blocks": {
@@ -707,6 +725,7 @@
   },
   "order": [
     "main-product",
+    "custom_liquid_fH83G7",
     "help-drawer",
     "video-hero",
     "collage",
