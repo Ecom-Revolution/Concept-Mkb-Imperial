@@ -11,6 +11,32 @@
   "name": "t:sections.overlay-group.name",
   "type": "custom.overlay",
   "sections": {
+    "wathsapp_8wFnkY": {
+      "type": "wathsapp",
+      "custom_css": [
+        "#ss-whatsapp-button svg {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}"
+      ],
+      "name": "SS - WhatsApp Chat Button",
+      "settings": {
+        "enable_section": true,
+        "whatsapp_number": "",
+        "primary_color": "#5df878",
+        "primary_color2": "#0abb29",
+        "secondary_color": "#095e54",
+        "icon_size": 60,
+        "button_text_size": 14,
+        "btn_position": "ss-whatsapp-button-right",
+        "btn_text": "Besoin d'aide ?",
+        "show_btn_text": true,
+        "show_dialog": true,
+        "dialog_header_img": "shopify://shop_images/logo_seulement.png",
+        "dialog_name": "MKB IMPÉRIAL",
+        "dialog_subtitle": "Répond généralement sous 10 minutes.",
+        "dialog_bg_color": "#ece5dd",
+        "dialog_msg": "Salut 👋 Que puis-je faire pour vous ?",
+        "placeholder_text": "Type a message..."
+      }
+    },
     "cart-drawer": {
       "type": "cart-drawer",
       "settings": {
@@ -333,41 +359,15 @@
         "divider": true,
         "rounded": true
       }
-    },
-    "wathsapp_8wFnkY": {
-      "type": "wathsapp",
-      "custom_css": [
-        "#ss-whatsapp-button svg {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}"
-      ],
-      "name": "SS - WhatsApp Chat Button",
-      "settings": {
-        "enable_section": true,
-        "whatsapp_number": "",
-        "primary_color": "#5df878",
-        "primary_color2": "#0abb29",
-        "secondary_color": "#095e54",
-        "icon_size": 60,
-        "button_text_size": 14,
-        "btn_position": "ss-whatsapp-button-right",
-        "btn_text": "Besoin d'aide ?",
-        "show_btn_text": true,
-        "show_dialog": true,
-        "dialog_header_img": "shopify://shop_images/logo_seulement.png",
-        "dialog_name": "MKB IMPÉRIAL",
-        "dialog_subtitle": "Répond généralement sous 10 minutes.",
-        "dialog_bg_color": "#ece5dd",
-        "dialog_msg": "Salut 👋 Que puis-je faire pour vous ?",
-        "placeholder_text": "Type a message..."
-      }
     }
   },
   "order": [
+    "wathsapp_8wFnkY",
     "cart-drawer",
     "search-drawer",
     "newsletter-popup",
     "age-verifier",
     "cookie-banner",
-    "mobile-dock",
-    "wathsapp_8wFnkY"
+    "mobile-dock"
   ]
 }
