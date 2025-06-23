@@ -70,7 +70,7 @@
         "liquid_LDLVHz": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background: rgba(94, 23, 235, 0.05); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> 1 parfum acheté = 1 échantillon offert</strong>\n      </span>\n    </div>\n  </div>\n</div>"
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(246, 248, 252, 1); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> 1 parfum acheté = 1 échantillon offert</strong>\n      </span>\n    </div>\n  </div>\n</div>"
           }
         },
         "text_pNEyKT": {
