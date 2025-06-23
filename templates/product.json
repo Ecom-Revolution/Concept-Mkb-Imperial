@@ -167,7 +167,7 @@
         "image_ratio_mobile": "adapt_first",
         "mobile_thumbnail": false,
         "padding_top": 0,
-        "padding_bottom": 84,
+        "padding_bottom": 60,
         "divider": false,
         "full_width": true,
         "rounded": false
@@ -175,6 +175,7 @@
     },
     "custom_liquid_g88xiz": {
       "type": "custom-liquid",
+      "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {}
     },
