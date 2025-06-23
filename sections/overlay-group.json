@@ -26,10 +26,13 @@
         "cart_recommendations_limit": 5,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
-        "cart_recommendations_products": [],
+        "cart_recommendations_products": [
+          "ajwad-60-ml-eau-de-parfum-mixte-lattafa",
+          "bellissima-gris-montaigne-eau-de-parfum-75-ml"
+        ],
         "empty_cart_message": "<p>Vous ne savez pas par où commencer? Essayez ces collections :</p>",
         "empty_cart_collections": [
-          "frontpage"
+          "collection-ambree-orientale🔥"
         ],
         "recent_products_enabled": true,
         "recent_products_heading": "récemment consultés",
