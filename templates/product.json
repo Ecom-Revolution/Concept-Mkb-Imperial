@@ -179,6 +179,58 @@
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {}
     },
+    "featured_collections_BXQTfd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_Xj6nUJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products": [
+              "picky-rose",
+              "yara-candy-eau-de-parfum-100-ml",
+              "philos-rosso-eau-de-parfum-100-ml-maison-alhambra",
+              "eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+              "narissa-ruby-eau-de-parfum-100-ml-maison-alhambra"
+            ],
+            "title": "VOUS AIMEREZ AUSSI"
+          }
+        }
+      },
+      "block_order": [
+        "collection_Xj6nUJ"
+      ],
+      "name": "t:sections.featured-collections.presets.name",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "help-drawer": {
       "type": "help-drawer",
       "blocks": {
@@ -252,77 +304,6 @@
       "settings": {
         "heading": "Need help?",
         "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
-      }
-    },
-    "video-hero": {
-      "type": "video-hero",
-      "blocks": {
-        "slide-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "DÉTERMINATION",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide-2": {
-          "type": "slide",
-          "settings": {
-            "heading": "SUCCÈS",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide-3": {
-          "type": "slide",
-          "settings": {
-            "heading": "ROYAUTÉ",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "slide-4": {
-          "type": "slide",
-          "settings": {
-            "heading": "IMPÉRIAL",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "slide-1",
-        "slide-2",
-        "slide-3",
-        "slide-4"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "video": "shopify://files/videos/copy_0D9B5417-8548-4AFA-BD6C-EB1842687814.mov",
-        "video_url": "",
-        "description": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "content_width": "medium",
-        "video_url_mobile": "",
-        "color_text": "#ffffff",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_overlay": "#000000",
-        "overlay_opacity": 40,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false
       }
     },
     "collage": {
@@ -714,8 +695,8 @@
   "order": [
     "main-product",
     "custom_liquid_g88xiz",
+    "featured_collections_BXQTfd",
     "help-drawer",
-    "video-hero",
     "collage",
     "reveal_image_with_text_overlay_x4wkV8",
     "scrolling-text",
