@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "Notes du parfum",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "content": "<p>Note de tête : framboise, cerise, fraise, mandarine  </p><p>Note de cœur : cassis, pamplemousse  </p><p>Note de fond : musc, patchouli  <br/> <br/></p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingrédients",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "content": "<p>Alcool dénaturé (Alcohol Denat), eau, parfum (fragrance), alpha‑isomethylionone, limonène, linalool, géraniol, hydroxycitronellal, citronellol, eugénol, iso-eugénol  <br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
