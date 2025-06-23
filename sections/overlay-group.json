@@ -23,15 +23,23 @@
         "free_shipping_minimum_amount": "150",
         "cart_recommendations_enabled": true,
         "cart_recommendations_heading": "Vous aimerez peut-être aussi",
-        "cart_recommendations_limit": 5,
+        "cart_recommendations_limit": 4,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
         "cart_recommendations_products": [
-          "ajwad-60-ml-eau-de-parfum-mixte-lattafa",
-          "bellissima-gris-montaigne-eau-de-parfum-75-ml"
+          "musc-tahara-yara-12-ml-dubai-flower",
+          "musc-tahara-ameerat-al-arab-12-ml-dubai-flower",
+          "musc-tahara-coco-vanille-12-ml-dubai-flower",
+          "musc-tahara-khamrah-12-ml-dubai-flower",
+          "musc-tahara-vanilla-12-ml-dubai-flower",
+          "eau-de-parfum-yara-50-ml-lattafa"
         ],
         "empty_cart_message": "<p>Vous ne savez pas par où commencer? Essayez ces collections :</p>",
         "empty_cart_collections": [
+          "nos-best-seller",
+          "collection-gourmande-sucree-🍭",
+          "collection-fraiche-aquatique-🌊",
+          "collection-florale-fraiche-🌸",
           "collection-ambree-orientale🔥"
         ],
         "recent_products_enabled": true,
