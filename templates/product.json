@@ -173,25 +173,6 @@
         "rounded": false
       }
     },
-    "custom_liquid_fH83G7": {
-      "type": "custom-liquid",
-      "custom_css": [],
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "liquid": "",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
-      }
-    },
     "help-drawer": {
       "type": "help-drawer",
       "blocks": {
@@ -726,7 +707,6 @@
   },
   "order": [
     "main-product",
-    "custom_liquid_fH83G7",
     "help-drawer",
     "video-hero",
     "collage",
