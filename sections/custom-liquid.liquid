@@ -1,5 +1,48 @@
-<div id="shopify-block-AbDVjaVp0dGNrcWVNU__estimated_delivery_date_plus_delivery_coder_theme_NTxWed" class="shopify-block shopify-app-block">
-<div class="delivery-widget__theme">…</div>
+<!-- Bloc Livraison estimée avec dates dynamiques -->
+<div style="border:1px solid #ddd; padding:15px; margin-top:20px; border-radius:10px; background:#fafafa;">
+  <p style="font-weight:bold; font-size:16px; margin-bottom:10px;">
+    📦 Commandez aujourd’hui et recevez votre colis entre <span id="delivery-range"></span>
+  </p>
+  <div style="display:flex; justify-content:space-around; text-align:center;">
+    <div>
+      <img src="https://img.icons8.com/ios-filled/50/000000/shopping-bag.png" width="30" alt="Commande reçue"><br>
+      <strong>Commande reçue</strong><br><span id="order-date"></span>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/50/000000/delivery.png" width="30" alt="Préparation"><br>
+      <strong>Préparation</strong><br><span id="prep-date"></span>
+    </div>
+    <div>
+      <img src="https://img.icons8.com/ios-filled/50/000000/marker.png" width="30" alt="Livraison"><br>
+      <strong>Livraison</strong><br><span id="delivery-date"></span>
+    </div>
+  </div>
 </div>
-<div id="shopify-block-AVHhXTnhHbzQzRWlTS__trust_badges_bear_widget_xaA8NB" class="shopify-block shopify-app-block">…</div>
-<hr class="product-info__separator">
+
+<!-- Bloc Paiement sécurisé stylisé -->
+<div style="margin-top:25px; padding:15px; border:1px solid #ddd; border-radius:10px; background:#fafafa;">
+  <p style="font-weight:bold; font-size:16px; margin-bottom:10px;">🔐 Paiement sécurisé avec :</p>
+  <img src="https://i.imgur.com/jUqqJ4R.png" alt="Modes de paiement" style="max-width:100%; height:auto;">
+</div>
+
+<script>
+  const mois = ["Jan", "Fév", "Mar", "Avr", "Mai", "Juin", "Juil", "Août", "Sep", "Oct", "Nov", "Déc"];
+  const today = new Date();
+
+  const formatDate = (d) => d.getDate() + " " + mois[d.getMonth()];
+
+  const orderDate = new Date(today);
+  const prepDate = new Date(today);
+  prepDate.setDate(today.getDate() + 1);
+
+  const deliveryStart = new Date(today);
+  deliveryStart.setDate(today.getDate() + 2);
+
+  const deliveryEnd = new Date(today);
+  deliveryEnd.setDate(today.getDate() + 4);
+
+  document.getElementById("order-date").textContent = formatDate(orderDate);
+  document.getElementById("prep-date").textContent = formatDate(prepDate);
+  document.getElementById("delivery-date").textContent = formatDate(deliveryEnd);
+  document.getElementById("delivery-range").textContent = formatDate(deliveryStart) + " et " + formatDate(deliveryEnd);
+</script>
