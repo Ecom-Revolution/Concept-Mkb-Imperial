@@ -217,7 +217,6 @@
     },
     "custom_liquid_g88xiz": {
       "type": "custom-liquid",
-      "disabled": true,
       "custom_css": [],
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {}
