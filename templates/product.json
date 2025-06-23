@@ -173,6 +173,11 @@
         "rounded": false
       }
     },
+    "custom_liquid_g88xiz": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {}
+    },
     "help-drawer": {
       "type": "help-drawer",
       "blocks": {
@@ -707,6 +712,7 @@
   },
   "order": [
     "main-product",
+    "custom_liquid_g88xiz",
     "help-drawer",
     "video-hero",
     "collage",
