@@ -54,7 +54,7 @@
       "type": "header",
       "settings": {
         "menu": "main-menu",
-        "menu_mobile": "",
+        "menu_mobile": "main-menu-copie",
         "menu_active": "block",
         "hover_menu": true,
         "header_layout": "left-center",
