@@ -69,16 +69,18 @@
         },
         "text_pNEyKT": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_image": "shopify://shop_images/icons8-gift-50.png",
             "icon_width": 80,
-            "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤUn parfum acheté = un échantillon offert",
+            "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤUn parfum acheté = un échantillon offert",
             "text_size": "text-base"
           }
         },
         "text_EpbGTj": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_image": "shopify://shop_images/icons8-giveaway-100_1.png",
