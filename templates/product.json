@@ -94,28 +94,6 @@
             "show_back_in_stock_phone": false
           }
         },
-        "collapsible_tab_QUjEXE": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Notes du parfum",
-            "content": "<p>Note de tête : framboise, cerise, fraise, mandarine  </p><p>Note de cœur : cassis, pamplemousse  </p><p>Note de fond : musc, patchouli  <br/> <br/></p>",
-            "page": "",
-            "liquid": "",
-            "opened": true
-          }
-        },
-        "collapsible_tab_xNTP7j": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Ingrédients",
-            "content": "<p>Alcool dénaturé (Alcohol Denat), eau, parfum (fragrance), alpha‑isomethylionone, limonène, linalool, géraniol, hydroxycitronellal, citronellol, eugénol, iso-eugénol  <br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
-            "page": "",
-            "liquid": "",
-            "opened": false
-          }
-        },
         "pickup_availability": {
           "type": "pickup_availability",
           "settings": {}
@@ -162,8 +140,6 @@
         "countdown",
         "variant_picker",
         "buy_buttons",
-        "collapsible_tab_QUjEXE",
-        "collapsible_tab_xNTP7j",
         "pickup_availability",
         "product_bundle_idfcGh",
         "complementary",
@@ -188,6 +164,54 @@
         "divider": false,
         "full_width": true,
         "rounded": false
+      }
+    },
+    "payement_Hz7PGD": {
+      "type": "payement",
+      "blocks": {
+        "image_V6GpyU": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        },
+        "image_BjEkVw": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        },
+        "image_rkEdqc": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_V6GpyU",
+        "image_BjEkVw",
+        "image_rkEdqc"
+      ],
+      "custom_css": [],
+      "name": "🚀SP - Payment Icons",
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "max_width": 1000,
+        "icon_height": 50,
+        "icon_gap": 5,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10,
+        "show_visa": true,
+        "show_mastercard": true,
+        "show_american_express": true,
+        "show_discover": true,
+        "show_paypal": true,
+        "show_apple_pay": true,
+        "show_google_pay": true,
+        "show_shop_pay": true
       }
     },
     "custom_liquid_g88xiz": {
@@ -612,6 +636,7 @@
   },
   "order": [
     "main-product",
+    "payement_Hz7PGD",
     "custom_liquid_g88xiz",
     "featured_collections_BXQTfd",
     "help-drawer",
