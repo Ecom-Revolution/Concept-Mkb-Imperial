@@ -529,105 +529,6 @@
         "rounded": false
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "question-1": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-2": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-4": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "question-5": {
-          "type": "question",
-          "settings": {
-            "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "contact": {
-          "type": "contact",
-          "settings": {
-            "heading": "Didn’t find your answer?",
-            "text": "<p>Don't hestitate to contact us</p>",
-            "show_phone": false,
-            "avatar_height": 60,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "question-1",
-        "question-2",
-        "question-3",
-        "question-4",
-        "question-5",
-        "contact"
-      ],
-      "settings": {
-        "style": "with-background",
-        "heading": "FAQs",
-        "heading_size": "title-lg tracking-heading",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "<p>Please read our <a href=\"#\" title=\"FAQ's\">FAQs</a> page to find out more.</p>",
-        "button_label": "",
-        "button_link": "",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "#ffffff",
-        "color_background": "#171717",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
-        "color_button_gradient": "",
-        "color_overlay": "#ffffff",
-        "overlay_opacity": 4,
-        "padding_top": 84,
-        "padding_bottom": 84,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -700,7 +601,6 @@
     "collage",
     "reveal_image_with_text_overlay_x4wkV8",
     "scrolling-text",
-    "faq",
     "product-recommendations",
     "recently-viewed"
   ]
