@@ -97,33 +97,6 @@
     "contact-form": {
       "type": "contact-form",
       "blocks": {
-        "contact-1": {
-          "type": "contact",
-          "settings": {
-            "heading": "Address",
-            "text": "<p><a href=\"#\" title=\"mailto:shop@yourstore.com\">shop@yourstore.com</a></p>"
-          }
-        },
-        "contact-2": {
-          "type": "contact",
-          "settings": {
-            "heading": "Email",
-            "text": "<p><a href=\"#\" title=\"mailto:contact@yourstore.com\">contact@yourstore.com</a><br/><a href=\"#\" title=\"mailto:sales@yourstore.com\">sales@yourstore.com</a></p>"
-          }
-        },
-        "contact-3": {
-          "type": "contact",
-          "settings": {
-            "heading": "Phone",
-            "text": "<p><a href=\"#\" title=\"tel:+33 (0) 31-305-210\">+33 (0) 31-305-210<br/></a>mo – fri: 09:00 – 17:00</p>"
-          }
-        },
-        "media": {
-          "type": "media",
-          "settings": {
-            "heading": "Follow us"
-          }
-        },
         "custom_field-1": {
           "type": "custom_field",
           "settings": {
@@ -152,10 +125,6 @@
         }
       },
       "block_order": [
-        "contact-1",
-        "contact-2",
-        "contact-3",
-        "media",
         "custom_field-1",
         "custom_field-2"
       ],
