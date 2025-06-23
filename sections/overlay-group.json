@@ -346,13 +346,14 @@
         "icon_size": 60,
         "button_text_size": 14,
         "btn_position": "ss-whatsapp-button-right",
-        "btn_text": "Need help?",
+        "btn_text": "Besoin d'aide ?",
         "show_btn_text": true,
         "show_dialog": true,
-        "dialog_name": "Kathrine",
-        "dialog_subtitle": "Usually replies within 10 minutes.",
+        "dialog_header_img": "shopify://shop_images/logo_seulement.png",
+        "dialog_name": "MKB IMPÉRIAL",
+        "dialog_subtitle": "Répond généralement sous 10 minutes.",
         "dialog_bg_color": "#ece5dd",
-        "dialog_msg": "Hi 👋 What can I help you with?",
+        "dialog_msg": "Salut 👋 Que puis-je faire pour vous ?",
         "placeholder_text": "Type a message..."
       }
     }
