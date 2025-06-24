@@ -257,7 +257,16 @@
           "type": "collection",
           "settings": {
             "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "products": [
+              "bellissima-gris-montaigne-eau-de-parfum-75-ml",
+              "eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+              "cotton-candy-musk-eau-de-parfum-60-ml-gulf-orchid",
+              "fakhar-rose-eau-de-parfum-100-ml",
+              "eau-de-parfum-kenzie-vanilla-70-volare-100-ml",
+              "mysterious-tahara-eau-de-parfum-60-ml-gulf-orchid",
+              "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
+              "picky-rose"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
