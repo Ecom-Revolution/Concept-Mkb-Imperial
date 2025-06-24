@@ -126,8 +126,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : fruits rouges lumineux, mandarine douce<br/>Note de cœur : rose veloutée, jasmin sambac, musc blanc<br/>Note de fond : ambre chaud, vanille délicate, bois de cachemire</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_YxepHN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat (75 % vol), Parfum (Fragrance), Linalool, Limonene, Citronellol, Geraniol, Benzyl Alcohol, Coumarin, Alpha-Isomethyl Ionone, Citral…<br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Description",
+            "content": "<p>Minya Paris Corner est une fragrance élégante et féminine, alliant la fraîcheur fruitée à un cœur floral doux, sur un fond ambré et musqué. Un parfum doux, chic et réconfortant, idéal pour sublimer votre quotidien avec une touche de tendresse.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,6 +184,7 @@
         "product_bundle_idfcGh",
         "complementary",
         "collapsible_tab_y8PbfF",
+        "collapsible_tab_YxepHN",
         "collapsible_tab_3YEXVL",
         "liquid_tVajib",
         "liquid_ReTUhR"
