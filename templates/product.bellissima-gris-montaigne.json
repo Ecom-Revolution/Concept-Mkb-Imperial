@@ -127,7 +127,7 @@
           "settings": {
             "icon": "none",
             "heading": "Notes du parfum",
-            "content": "<p>Notes de Tête : cassis, poire, fruits rouges  <br/>Notes de Cœur : iris, jasmin, fleur d’oranger, rose Bellissima  <br/>Notes de Fond : praliné, vanille, fève tonka, patchouli, musc, ambre</p>",
+            "content": "<p>Note de Tête : cassis, poire, fruits rouges  <br/>Note de Cœur : iris, jasmin, fleur d’oranger, rose Bellissima  <br/>Note de Fond : praliné, vanille, fève tonka, patchouli, musc, ambre</p>",
             "page": "",
             "liquid": "",
             "opened": false
