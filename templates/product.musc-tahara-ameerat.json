@@ -126,8 +126,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : musc blanc pur, fleur de coton<br/>Note de cœur : rose délicate, jasmin léger<br/>Note de fond : vanille douce, ambre léger</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_y6AdeG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Parfum (Fragrance), Aqua (Water), Benzyl Alcohol, Linalool, Limonene, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Citral…<br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Description",
+            "content": "<p>Musc Tahara Ameerat Al Arab est une fragrance intime, douce et propre, parfaite pour une utilisation quotidienne ou en soin corporel. Son sillage musqué, floral et légèrement sucré laisse une sensation de fraîcheur et de pureté longue durée. Idéal après la douche ou pour les moments de bien-être.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,6 +184,7 @@
         "product_bundle_idfcGh",
         "complementary",
         "collapsible_tab_y8PbfF",
+        "collapsible_tab_y6AdeG",
         "collapsible_tab_3YEXVL",
         "liquid_tVajib",
         "liquid_ReTUhR"
