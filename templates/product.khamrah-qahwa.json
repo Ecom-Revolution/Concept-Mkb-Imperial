@@ -126,8 +126,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : café corsé, cannelle chaude<br/>Note de cœur : praline fondante, essence de rose, fève tonka<br/>Note de fond : vanille noire, oud fumé, ambre résineux</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +137,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat (75 % vol), Parfum (Fragrance), Coumarin, Linalool, Limonene, Cinnamal, Benzyl Alcohol, Eugenol, Citral, Isoeugenol…<br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -148,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Description",
+            "content": "<p>Khamrah Qahwa est une explosion sensuelle de café et d’épices, adoucie par des notes gourmandes et enveloppée dans un sillage oriental profond. Un parfum intense et réconfortant, parfait pour les amateurs de café et de chaleur orientale.</p>",
             "page": "",
             "liquid": "",
             "opened": false
