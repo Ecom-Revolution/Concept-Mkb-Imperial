@@ -126,8 +126,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : cerise juteuse, gingembre épicé  <br/>Note de cœur : jasmin sambac élégant  <br/>Note de fond : poivre rose, ambrettolide chaleureux, musc sensuel  </p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +137,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat, Parfum (Fragrance), Aqua, Limonene, Linalool, Citral, Geraniol, Citronellol, Coumarin, etc.</p><p><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_zCyf3F": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "content": "<p>Cherry Buzz est une explosion fruitée et épicée inspirée d’Electric Cherry, mêlant cerise vibrante, gingembre captivant et un sillage chaleureux grâce au poivre rose, ambrettolide et musc. Un parfum unisexe, audacieux, moderne et ultra-rafraîchissant — idéal pour se distinguer avec élégance.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -174,6 +185,7 @@
         "complementary",
         "collapsible_tab_y8PbfF",
         "collapsible_tab_3YEXVL",
+        "collapsible_tab_zCyf3F",
         "liquid_tVajib",
         "liquid_ReTUhR"
       ],
