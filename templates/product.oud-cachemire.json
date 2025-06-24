@@ -127,7 +127,18 @@
           "settings": {
             "icon": "none",
             "heading": "Notes du parfum",
-            "content": "<p>Note de tête : bergamote fraîche, noix de muscade chaleureuse, touche de cannelle épicée </p><p>Note de cœur : dattes voluptueuses, praliné gourmand, tubéreuse crémeuse </p><p>Note de fond : myrrhe balsamique, fève tonka toastée, vanille douce, benjoin riche, ambre chaleureux, bois d’Akigala boisé et légèrement poivré <br/></p>",
+            "content": "<p>Note de tête : bergamote fraîche, poivre rose<br/>Note de cœur : oud profond, jasmin précieux, encens fumé<br/>Note de fond : cachemire doux, ambre gris, bois de cèdre</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_a7Bemn": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat (75 % vol), Parfum (Fragrance), Limonene, Linalool, Coumarin, Citronellol, Alpha-Isomethyl Ionone, Benzyl Salicylate, Eugenol…<br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Ingrédients",
-            "content": "<p>Ingrédients (selon flacon/extrait type) :<br/><br/>Alcool, eau, parfum, limonène, citronellol, linalol, coumarine, citral, géraniol, iso-eugénol, eugénol.  <br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
+            "heading": "Description",
+            "content": "<p>Oud Cachemire Gris de Montaigne Paris est un parfum luxueux et enveloppant, mariant la richesse boisée de l’oud à la douceur veloutée du cachemire et à la fraîcheur d’agrumes épicés. Une fragrance sophistiquée et élégante, parfaite pour les amateurs de senteurs orientales raffinées.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,6 +184,7 @@
         "complementary",
         "sticky_buy_button",
         "collapsible_tab_TDYaDP",
+        "collapsible_tab_a7Bemn",
         "collapsible_tab_YpLhke",
         "liquid_tVajib",
         "liquid_ReTUhR"
