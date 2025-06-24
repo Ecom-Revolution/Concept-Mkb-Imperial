@@ -126,8 +126,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Notes de Tête : cèdre, agrumes (bergamote), rose fraîche  <br/>Notes de Cœur : bouquet floral intense (rose, jasmin, fleurs blanches), oud, poivre rose, pamplemousse  <br/>Notes de Fond : oud profond, ambre, patchouli, bois de cèdre </p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +137,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat., Aqua (Water), Parfum (Fragrance); alcools parfumés : citronellol, benzyl salicylate, alpha-isomethyl ionone, hexyl cinnamal, géraniol, linalool, eugénol, citral, coumarine…</p><p><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_6zteTC": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "content": "<p>Bab Al Wardi signifie “Porte des Roses” : une symphonie florale orientale où la fraîcheur du cèdre et des agrumes rencontre un cœur enivrant de rose et jasmin, fusionné à un fond riche d’oud et de bois précieux. Résultat : un parfum féminin, sophistiqué, à la tenue et au sillage remarquables.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -174,6 +185,7 @@
         "complementary",
         "collapsible_tab_y8PbfF",
         "collapsible_tab_3YEXVL",
+        "collapsible_tab_6zteTC",
         "liquid_tVajib",
         "liquid_ReTUhR"
       ],
