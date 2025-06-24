@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "eau-de-parfum-yara-50-ml-lattafa",
+              "fakhar-rose-eau-de-parfum-100-ml",
+              "mysterious-tahara-eau-de-parfum-60-ml-gulf-orchid",
+              "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
+              "picky-rose",
+              "rifaaqat-eau-de-parfum-85-ml-paris-corner",
+              "toffee-musk-eau-de-parfum-60-ml-gulf-orchid",
+              "khair-fusion-eau-de-parfum-mixte-100-ml-paris-corner"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
