@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "black-white-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "sweet-heaven-extreme-eau-de-parfum-100-ml-gulf-orchid",
+              "philos-rosso-eau-de-parfum-100-ml-maison-alhambra",
+              "pina-colada-musk-eau-de-parfum-60-ml-gulf-orchid",
+              "oud-cachemire-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
+              "minya-coco-lush-eau-de-parfum-mixte-100-ml-paris-corner",
+              "khamrah-eau-de-parfum-mixte-100-ml"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
