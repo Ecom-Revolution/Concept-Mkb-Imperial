@@ -346,7 +346,7 @@
         "primary_color": "#5df878",
         "primary_color2": "#0abb29",
         "secondary_color": "#095e54",
-        "icon_size": 60,
+        "icon_size": 56,
         "button_text_size": 14,
         "btn_position": "ss-whatsapp-button-right",
         "btn_text": "Besoin d'aide ?",
