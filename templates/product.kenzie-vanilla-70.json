@@ -126,8 +126,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : vanille crémeuse accompagnée de fruits sucrés comme la poire et la pêche  <br/>Note de cœur : vanille renforcée, praliné gourmand et fleur d’oranger délicate  <br/>Note de fond : bois de santal crémeux, musc velouté et ambre chaleureux  </p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_CTe9C4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat., Parfum (Fragrance), Aqua, Linalool, Limonene, Hydroxycitronellal, Citral, Coumarin, Geraniol, Benzyl Benzoate, Eugenol, Cinnamal, Isoeugenol, etc.</p><p><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.  <br/></p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Description",
+            "content": "<p>Kenzie Vanilla 70 est une ode gourmande à la vanille, escaladée avec des fruits juteux, un cœur praliné floral et un fond oriental boisé musqué. Réconfortant, chaleureux et sophistiqué, ce parfum mixte offre un sillage enveloppant et une tenue longue durée.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,6 +184,7 @@
         "product_bundle_idfcGh",
         "complementary",
         "collapsible_tab_y8PbfF",
+        "collapsible_tab_CTe9C4",
         "collapsible_tab_3YEXVL",
         "liquid_tVajib",
         "liquid_ReTUhR"
