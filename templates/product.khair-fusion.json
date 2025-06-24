@@ -126,8 +126,19 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Notes du parfum",
+            "content": "<p>Note de tête : citron frais, feuilles de menthe<br/>Note de cœur : lavande apaisante, jasmin blanc<br/>Note de fond : bois de cèdre, musc chaud, ambre gris</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_TriCXT": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingrédients",
+            "content": "<p>Alcohol Denat (75 % vol), Parfum (Fragrance), Limonene, Linalool, Geraniol, Citral, Eugenol, Benzyl Alcohol, Hydroxycitronellal, Cinnamal…<br/><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -137,8 +148,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Collapsible row",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "heading": "Description",
+            "content": "<p>Khair Fusion mêle fraîcheur citronnée et douceur mentholée, révélant un cœur floral apaisant et un fond boisé chaleureux. Un parfum vibrant et équilibré, parfait pour accompagner vos journées avec énergie et élégance.</p>",
             "page": "",
             "liquid": "",
             "opened": false
@@ -173,6 +184,7 @@
         "product_bundle_idfcGh",
         "complementary",
         "collapsible_tab_y8PbfF",
+        "collapsible_tab_TriCXT",
         "collapsible_tab_3YEXVL",
         "liquid_tVajib",
         "liquid_ReTUhR"
