@@ -1,0 +1,660 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "text": "{{ product.vendor }}",
+            "text_size": "text-base"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "product-title-sm",
+            "title_size_mobile": "product-title-md",
+            "show_price": true,
+            "show_rating": true
+          }
+        },
+        "quantity_selector_kkNLPx": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "liquid_LDLVHz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(246, 248, 252, 1); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> 1 parfum acheté = 1 échantillon offert</strong>\n      </span>\n    </div>\n  </div>\n</div>"
+          }
+        },
+        "text_pNEyKT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_image": "shopify://shop_images/icons8-gift-50.png",
+            "icon_width": 80,
+            "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤUn parfum acheté = un échantillon offert",
+            "text_size": "text-base"
+          }
+        },
+        "text_EpbGTj": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_image": "shopify://shop_images/icons8-giveaway-100_1.png",
+            "icon_width": 120,
+            "text": "<strong>Cadeau OFFERT </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPour toute commande à partir de 150€ d'achats",
+            "text_size": "text-base"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up!",
+            "subheading": "Sale end in:",
+            "color_text": "#e11d48",
+            "color_background": "#fff1f2",
+            "gradient_background": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "color_swatch_type": "color",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_price": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true,
+            "enable_back_in_stock": false,
+            "show_back_in_stock_name": false,
+            "show_back_in_stock_phone": false
+          }
+        },
+        "sticky_buy_button": {
+          "type": "sticky_buy_button",
+          "settings": {}
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "product_bundle_idfcGh": {
+          "type": "product_bundle",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "heading": "Popular upgrades",
+            "products": [],
+            "metafield": "",
+            "opened": true
+          }
+        },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "heading": "Pairs well with",
+            "product_limit": 4,
+            "show_vendor": false,
+            "show_price": true
+          }
+        },
+        "collapsible_tab_y8PbfF": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Collapsible row",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "collapsible_tab_3YEXVL": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Collapsible row",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.</p><p>Ex: Shipping and return policies, size guides, and other common questions.</p>",
+            "page": "",
+            "liquid": "",
+            "opened": false
+          }
+        },
+        "liquid_tVajib": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"fretefundo shipping-p1 shipping-p2\">\n    <!-- Nouvelle image (boîte de livraison) -->\n    <img loading=\"lazy\" style=\"margin: -10px 5px -10px -8px\" src=\"https://cdn-icons-png.flaticon.com/512/5735/5735252.png\" alt=\"DHL\" width=\"65px\" height=\"65px\">\n    \n    <p class=\"ttl-frete\">\n        Livraison offerte\n        <span class=\"ip-frete\" id=\"custom-address\">Calcul de votre région...</span>\n    </p>\n    <p class=\"txt-frete\">Livraison gratuite</p>\n\n    <style>\n        .shipping-p1 {\n            border: none;\n            background: #f5f5f5;\n            padding: 10px; /* Réduit l'espace autour du contenu */\n            border-radius: 10px; /* Arrondir les coins */\n        }\n\n        .fretefundo {\n            display: flex;\n            flex-direction: row;\n            justify-content: space-between;\n            align-items: center;\n            border-radius: 10px; /* Arrondir les bords du conteneur */\n            overflow: hidden; /* Assure que les bords arrondis sont visibles */\n            padding: 5px; /* Réduit l'espace interne pour rendre le fond plus petit */\n        }\n\n        .ttl-frete {\n            flex-grow: 1;\n            font-size: 14px;\n            line-height: 1.6;\n            margin-bottom: 0;\n            color: var(--text-color);\n        }\n\n        .ip-frete {\n            display: block;\n            font-size: 12px;\n            font-weight: 400;\n            color: #000000; /* Couleur modifiée en noir */\n        }\n\n        .txt-frete {\n            font-size: 12px;\n            color: #000000; /* Couleur modifiée en noir */\n            font-weight: bold;\n            padding: 0;\n            margin: 0;\n        }\n\n        @media (max-width: 640px) {\n            .fretefundo > img {\n                height: 52px !important;\n                width: 52px !important;\n            }\n\n            .fretefundo > p > span {\n                font-size: 10px;\n            }\n\n            .txt-frete {\n                font-size: 10px;\n                margin-right: -5px !important;\n            }\n        }\n    </style>\n</div>\n\n<script>\n    // Script de géolocalisation par IP\n    fetch('https://ipapi.co/json/')\n        .then(response => response.json())\n        .then(data => {\n            // Vérifier si la réponse contient des informations de géolocalisation valides\n            if (data.city && data.region && data.country_name) {\n                // Afficher la ville, la région et le pays\n                document.getElementById('custom-address').innerHTML = `Envoyer à <b>${data.city}, ${data.region}, ${data.country_name}</b>`;\n            } else {\n                // Si les informations sont incomplètes, afficher un message générique\n                document.getElementById('custom-address').innerHTML = `Envoyer à votre région`;\n            }\n        })\n        .catch(error => {\n            console.error('Erreur lors de la récupération de la localisation :', error);\n            // En cas d'erreur, afficher un message générique\n            document.getElementById('custom-address').innerHTML = `Envoyer à votre région`;\n        });\n</script>"
+          }
+        },
+        "liquid_ReTUhR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(00, 00, 00, 0); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> Payement sécurisé avec :</strong>\n      </span>\n    </div>\n  </div>\n</div>"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "quantity_selector_kkNLPx",
+        "liquid_LDLVHz",
+        "text_pNEyKT",
+        "text_EpbGTj",
+        "countdown",
+        "variant_picker",
+        "buy_buttons",
+        "sticky_buy_button",
+        "pickup_availability",
+        "product_bundle_idfcGh",
+        "complementary",
+        "collapsible_tab_y8PbfF",
+        "collapsible_tab_3YEXVL",
+        "liquid_tVajib",
+        "liquid_ReTUhR"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": 66,
+        "gallery_layout": "scroll",
+        "thumbnail_position": "beside",
+        "image_ratio": "adapt_first",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_autoplay": true,
+        "enable_video_looping": true,
+        "mobile_layout": "full_width",
+        "image_ratio_mobile": "adapt_first",
+        "mobile_thumbnail": false,
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "divider": false,
+        "full_width": true,
+        "rounded": false
+      }
+    },
+    "payement_Hz7PGD": {
+      "type": "payement",
+      "blocks": {
+        "image_V6GpyU": {
+          "type": "image",
+          "settings": {
+            "alt_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_V6GpyU"
+      ],
+      "custom_css": [],
+      "name": "🚀SP - Payment Icons",
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+        "max_width": 999,
+        "icon_height": 30,
+        "icon_gap": 0,
+        "padding_top": -6,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "show_visa": true,
+        "show_mastercard": true,
+        "show_american_express": false,
+        "show_discover": false,
+        "show_paypal": true,
+        "show_apple_pay": true,
+        "show_google_pay": false,
+        "show_shop_pay": false
+      }
+    },
+    "custom_liquid_g88xiz": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "custom_css": [],
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {}
+    },
+    "featured_collections_BXQTfd": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_Xj6nUJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-florale-fraiche-🌸",
+            "products": [],
+            "title": "VOUS AIMEREZ AUSSI"
+          }
+        }
+      },
+      "block_order": [
+        "collection_Xj6nUJ"
+      ],
+      "name": "t:sections.featured-collections.presets.name",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<h2><strong>VOUS AIMEREZ AUSSI</strong></h2>",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "#ffffff",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "padding_top": 4,
+        "padding_bottom": 32,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "help-drawer": {
+      "type": "help-drawer",
+      "blocks": {
+        "content-1": {
+          "type": "content",
+          "settings": {
+            "icon": "rocket",
+            "heading": "Shipping Information",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#b45309",
+            "color_background": "#fffbeb",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-2": {
+          "type": "content",
+          "settings": {
+            "icon": "headphone",
+            "heading": "Customer Support",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#0369a1",
+            "color_background": "#f0f9ff",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-3": {
+          "type": "content",
+          "settings": {
+            "icon": "chat_bubble",
+            "heading": "FAQ’s",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#be123c",
+            "color_background": "#fff1f2",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        },
+        "content-4": {
+          "type": "content",
+          "settings": {
+            "icon": "phone",
+            "heading": "Contact Us",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle",
+            "color_text": "#4d7c0f",
+            "color_background": "#f7fee7",
+            "gradient_background": "",
+            "color_highlight": "#ffddbf",
+            "gradient_highlight": ""
+          }
+        }
+      },
+      "block_order": [
+        "content-1",
+        "content-2",
+        "content-3",
+        "content-4"
+      ],
+      "settings": {
+        "heading": "Need help?",
+        "description": "<p>If you have any questions, you are always welcome to contact us. We'll get back to you as soon as possible, within 24 hours on weekdays.</p>"
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
+            "image_ratio": "landscape",
+            "content_position": "md:items-end md:justify-center",
+            "text_alignment": "center",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-center",
+            "text_alignment_mobile": "center",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/A_photograph_showcases_a_Yara-branded_perfume_bott.png",
+            "image_ratio": "portrait",
+            "content_position": "md:items-end md:justify-start",
+            "text_alignment": "left",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-end justify-start",
+            "text_alignment_mobile": "left",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": false,
+            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
+            "image_ratio": "portrait",
+            "content_position": "md:items-start md:justify-end",
+            "text_alignment": "right",
+            "image_ratio_mobile": "portrait",
+            "content_position_mobile": "items-start justify-end",
+            "text_alignment_mobile": "right",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "subheading": "",
+            "heading": "",
+            "link": "",
+            "invert_subheading_heading": true,
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
+            "image_ratio": "landscape",
+            "content_position": "md:items-end md:justify-end",
+            "text_alignment": "right",
+            "image_ratio_mobile": "landscape",
+            "content_position_mobile": "items-end justify-end",
+            "text_alignment_mobile": "right",
+            "highlighted_text": "text",
+            "highlighted_scribble": "circle",
+            "color_text": "#ffffff",
+            "color_highlight": "#fde047",
+            "gradient_highlight": "",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4"
+      ],
+      "settings": {
+        "heading": "<strong>À propos de </strong><em><strong>MKB IMPÉRIAL</strong></em>",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>Chez <strong>MKB IMPÉRIAL</strong>, nous ne fabriquons pas les parfums — nous les sélectionnons. Avec soin, avec goût, comme si chaque flacon était destiné à notre propre usage.</p><p>Notre mission est simple : <strong>vous proposer des fragrances que nous aimons réellement porter nous-mêmes</strong>. Des senteurs venues des Émirats et du Golfe, choisies pour leur qualité, leur tenue, et leur capacité à marquer les esprits. Nous collaborons avec des marques reconnues comme <strong>Lattafa, Paris Corner, Gulf Orchid ou Loui Martin</strong>, en ne retenant que ce qui nous semble juste et digne d’être partagé.</p><p>Chaque parfum que vous trouverez ici a été testé, apprécié, et approuvé. Rien n’est choisi au hasard. Parce que pour nous, <strong>offrir un parfum, c’est offrir une émotion, un souvenir, une identité.</strong></p><p><strong>MKB IMPÉRIAL</strong>, c’est plus qu’une boutique : c’est un lien entre vous et une culture olfactive riche, chaleureuse et envoûtante.</p>",
+        "button_label": "Notre Histoire",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "scribble",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": false,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "reveal_image_with_text_overlay_x4wkV8": {
+      "type": "reveal-image-with-text-overlay",
+      "blocks": {
+        "subheading_4aANiR": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Ce que nous portons, nous vous l’offrons.",
+            "subheading_size": "subtitle-md",
+            "secondary_color": true
+          }
+        },
+        "heading_bFa4X8": {
+          "type": "heading",
+          "settings": {
+            "heading": "L’Essence du Golfe, Sélectionnée pour Vous.",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_DPGTBT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Découvrez une collection de parfums d’exception venus de Dubaï et du Moyen-Orient.<br/>Chez <strong>MKB IMPÉRIAL</strong>, chaque fragrance a été choisie avec soin, pour sublimer votre présence au quotidien.<br/></p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_4aANiR",
+        "heading_bFa4X8",
+        "text_DPGTBT"
+      ],
+      "name": "t:sections.reveal-image-with-text-overlay.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_32_32.png",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-start",
+        "text_alignment": "left",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 70,
+        "enable_parallax": true
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>MKB IMPÉRIAL</strong></em>",
+            "text_size": 160,
+            "text_font": "body",
+            "highlighted_text": "stencil",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 20,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Découvrez les parfums similaire",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": true
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "product_limit": 6,
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "Recently Viewed",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main-product",
+    "payement_Hz7PGD",
+    "custom_liquid_g88xiz",
+    "featured_collections_BXQTfd",
+    "help-drawer",
+    "collage",
+    "reveal_image_with_text_overlay_x4wkV8",
+    "scrolling-text",
+    "product-recommendations",
+    "recently-viewed"
+  ]
+}
