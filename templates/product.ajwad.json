@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "ameerat-al-arab-50-ml-asdaaf",
+              "yara-100-ml-par-lattafa-perfumes-eau-de-parfum",
+              "yara-candy-eau-de-parfum-100-ml",
+              "picky-rose",
+              "philos-rosso-eau-de-parfum-100-ml-maison-alhambra",
+              "khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
+              "bab-al-wardi-eau-de-parfum-100-ml-ard-al-zaafaran",
+              "fakhar-rose-eau-de-parfum-100-ml"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
