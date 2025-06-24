@@ -280,7 +280,7 @@
           "type": "text",
           "settings": {
             "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
-            "text_size": 58,
+            "text_size": 52,
             "text_font": "body",
             "highlighted_text": "stencil",
             "highlighted_scribble": "circle"
@@ -292,7 +292,7 @@
       ],
       "settings": {
         "direction": "left",
-        "speed": 26,
+        "speed": 29,
         "grid_horizontal": 70,
         "enable_twin": false,
         "enable_parallax": true,
