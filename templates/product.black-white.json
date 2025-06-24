@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "bellissima-gris-montaigne-eau-de-parfum-75-ml",
+              "blanc-imperial-extrait-de-parfum-75-ml-gris-montaigne",
+              "asad-zanzibar-eau-de-parfum-100ml-lattafa",
+              "mayar-natural-intense-eau-de-parfum-100-ml-lattafa",
+              "mid-day-swim-extrait-de-parfum-100-ml-loui-martin",
+              "oud-cachemire-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "pistachio-musk-eau-de-parfum-60-ml-gulf-orchid",
+              "lattafa-yara-blanc-eau-de-parfum-100ml"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
