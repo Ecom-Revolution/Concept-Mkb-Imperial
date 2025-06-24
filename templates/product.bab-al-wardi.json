@@ -127,7 +127,7 @@
           "settings": {
             "icon": "none",
             "heading": "Notes du parfum",
-            "content": "<p>Notes de Tête : cèdre, agrumes (bergamote), rose fraîche  <br/>Notes de Cœur : bouquet floral intense (rose, jasmin, fleurs blanches), oud, poivre rose, pamplemousse  <br/>Notes de Fond : oud profond, ambre, patchouli, bois de cèdre </p>",
+            "content": "<p>Note de Tête : cèdre, agrumes (bergamote), rose fraîche  <br/>Note de Cœur : bouquet floral intense (rose, jasmin, fleurs blanches), oud, poivre rose, pamplemousse  <br/>Note de Fond : oud profond, ambre, patchouli, bois de cèdre </p>",
             "page": "",
             "liquid": "",
             "opened": false
