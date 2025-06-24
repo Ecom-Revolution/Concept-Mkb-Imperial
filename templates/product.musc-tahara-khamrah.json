@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "ameerat-al-arab-50-ml-asdaaf",
+              "eau-de-parfum-yara-50-ml-lattafa",
+              "musc-tahara-khamrah-12-ml-dubai-flower",
+              "musc-tahara-yara-12-ml-dubai-flower",
+              "musc-tahara-vanilla-12-ml-dubai-flower",
+              "musc-tahara-coco-vanille-12-ml-dubai-flower",
+              "musc-tahara-ameerat-al-arab-12-ml-dubai-flower",
+              "echantillons"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
