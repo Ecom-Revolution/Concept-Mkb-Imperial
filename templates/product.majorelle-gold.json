@@ -138,7 +138,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingrédients",
-            "content": "<p>Alcool, eau, parfum, limonène, citronellol, linalol, coumarine, citral, géraniol, iso‑eugénol, eugénol<br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
+            "content": "<p>Alcool, eau, parfum, limonène, citronellol, linalol, coumarine, citral, géraniol, iso‑eugénol, eugénol</p><p><br/>Nous vous recommandons de vérifier la liste des ingrédients du produit directement sur son emballage en raison de changements potentiels.</p>",
             "page": "",
             "liquid": "",
             "opened": false
