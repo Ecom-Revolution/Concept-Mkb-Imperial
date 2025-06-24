@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "black-white-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "blanc-imperial-extrait-de-parfum-75-ml-gris-montaigne",
+              "bab-al-wardi-eau-de-parfum-100-ml-ard-al-zaafaran",
+              "toffee-musk-eau-de-parfum-60-ml-gulf-orchid",
+              "yara-100-ml-par-lattafa-perfumes-eau-de-parfum",
+              "rifaaqat-eau-de-parfum-85-ml-paris-corner",
+              "mysterious-tahara-eau-de-parfum-60-ml-gulf-orchid",
+              "minya-eau-de-parfum-100ml-paris-corner"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
