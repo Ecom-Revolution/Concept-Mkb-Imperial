@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "narissa-ruby-eau-de-parfum-100-ml-maison-alhambra",
+              "asad-zanzibar-eau-de-parfum-100ml-lattafa",
+              "black-white-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "khair-fusion-eau-de-parfum-mixte-100-ml-paris-corner",
+              "khamrah-eau-de-parfum-mixte-100-ml",
+              "khamrah-qahwa-eau-de-parfum-100ml",
+              "mid-day-swim-extrait-de-parfum-100-ml-loui-martin",
+              "minya-eau-de-parfum-100ml-paris-corner"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
