@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "bellissima-gris-montaigne-eau-de-parfum-75-ml",
+              "black-white-extrait-de-parfum-75-ml-gris-montaigne-paris",
+              "blanc-imperial-extrait-de-parfum-75-ml-gris-montaigne",
+              "majorelle-gold-extrait-de-parfum-75-ml-gris-montaigne",
+              "rifaaqat-eau-de-parfum-85-ml-paris-corner",
+              "lattafa-yara-blanc-eau-de-parfum-100ml",
+              "yara-orange-lattafa-eau-de-parfum-100ml",
+              "picky-rose"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
@@ -267,7 +276,7 @@
       ],
       "name": "t:sections.featured-collections.presets.name",
       "settings": {
-        "product_limit": 6,
+        "product_limit": 8,
         "columns": 4,
         "carousel_on_desktop": true,
         "show_view_all": false,
