@@ -256,8 +256,17 @@
         "collection_Xj6nUJ": {
           "type": "collection",
           "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "products": [],
+            "collection": "",
+            "products": [
+              "eau-de-parfum-cherry-buzz-80ml-fragrance-world",
+              "khair-confection-eau-de-parfum-mixte-100-ml-paris-corner",
+              "narissa-peach-eau-de-parfum-100-ml-maison-alhambra",
+              "philos-rosso-eau-de-parfum-100-ml-maison-alhambra",
+              "rifaaqat-eau-de-parfum-85-ml-paris-corner",
+              "yara-candy-eau-de-parfum-100-ml",
+              "yara-orange-lattafa-eau-de-parfum-100ml",
+              "mayar-natural-intense-eau-de-parfum-100-ml-lattafa"
+            ],
             "title": "VOUS AIMEREZ AUSSI"
           }
         }
