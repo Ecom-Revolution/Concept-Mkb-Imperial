@@ -82,7 +82,7 @@
       "settings": {
         "text_alignment": "left",
         "text_alignment_mobile": "left",
-        "heading": "Achetez 3 et gagne 30% de réduction",
+        "heading": "3 acheter = 1 musc + 1 échantillon offert",
         "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "large",
@@ -116,7 +116,7 @@
         "@media screen and (min-width: 1536px) {.product-bundle {flex: 0 0 25%; } .product-bundle__sidebar {width: 100%; }}"
       ],
       "settings": {
-        "collection": "",
+        "collection": "tous-les-produits",
         "products": [],
         "product_limit": 6,
         "columns": 3,
@@ -178,7 +178,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Économisez 30 € en achetant les 3 articles</p>",
+            "text": "<p>Pour 3 achetés, on vous gâte : 1 musc + 1 échantillon offerts</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -195,7 +195,12 @@
       ],
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "lattafa-yara-blanc-eau-de-parfum-100ml",
+          "yara-candy-eau-de-parfum-100-ml",
+          "yara-orange-lattafa-eau-de-parfum-100ml",
+          "yara-100-ml-par-lattafa-perfumes-eau-de-parfum"
+        ],
         "product_limit": 3,
         "image": "shopify://shop_images/yaraorange.webp",
         "image_height": "900px",
@@ -250,7 +255,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Économisez 30 $ en achetant les 3 articles</p>",
+            "text": "<p>Ajoutez 3 parfums à votre panier, recevez 1 musc et 1 échantillon gratuitement.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -267,7 +272,11 @@
       ],
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "khair-fusion-eau-de-parfum-mixte-100-ml-paris-corner",
+          "khair-felicity-eau-de-parfum-100-ml-paris-corner",
+          "khair-confection-eau-de-parfum-mixte-100-ml-paris-corner"
+        ],
         "product_limit": 3,
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_21_55_32.png",
         "layout": "text_first",
