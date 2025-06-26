@@ -337,14 +337,13 @@
     },
     "wathsapp_8wFnkY": {
       "type": "wathsapp",
-      "disabled": true,
       "custom_css": [
         "#ss-whatsapp-button svg {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}"
       ],
       "name": "SS - WhatsApp Chat Button",
       "settings": {
         "enable_section": true,
-        "whatsapp_number": "",
+        "whatsapp_number": "+33 6 78 34 76 33",
         "primary_color": "#5df878",
         "primary_color2": "#0abb29",
         "secondary_color": "#095e54",
