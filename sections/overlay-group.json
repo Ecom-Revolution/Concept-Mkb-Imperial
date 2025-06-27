@@ -23,7 +23,7 @@
         "free_shipping_minimum_amount": "150",
         "cart_recommendations_enabled": true,
         "cart_recommendations_heading": "VOUS AIMEREZ AUSSI",
-        "cart_recommendations_limit": 8,
+        "cart_recommendations_limit": 9,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
         "cart_recommendations_products": [
@@ -33,7 +33,8 @@
           "musc-tahara-khamrah-12-ml-dubai-flower",
           "musc-tahara-vanilla-12-ml-dubai-flower",
           "eau-de-parfum-yara-50-ml-lattafa",
-          "echantillons"
+          "echantillons",
+          "ameerat-al-arab-50-ml-asdaaf"
         ],
         "empty_cart_message": "<p>Vous ne savez pas par où commencer? Essayez ces collections :</p>",
         "empty_cart_collections": [
