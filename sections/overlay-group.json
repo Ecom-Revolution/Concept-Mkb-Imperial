@@ -22,7 +22,7 @@
         "show_free_shipping_bar": true,
         "free_shipping_minimum_amount": "150",
         "cart_recommendations_enabled": true,
-        "cart_recommendations_heading": "Vous aimerez aussi",
+        "cart_recommendations_heading": "VOUS AIMEREZ AUSSI",
         "cart_recommendations_limit": 8,
         "show_cart_recommendations_vendor": false,
         "show_cart_recommendations_price": true,
