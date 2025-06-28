@@ -230,6 +230,14 @@
     "featured_collections_BfjTGW": {
       "type": "featured-collections",
       "blocks": {
+        "collection_z4FQJt": {
+          "type": "collection",
+          "settings": {
+            "collection": "tous-les-produits",
+            "products": [],
+            "title": "COUPS DE COEUR"
+          }
+        },
         "collection_8qwmte": {
           "type": "collection",
           "settings": {
@@ -240,6 +248,7 @@
         }
       },
       "block_order": [
+        "collection_z4FQJt",
         "collection_8qwmte"
       ],
       "name": "t:sections.featured-collections.presets.name",
@@ -255,21 +264,129 @@
         "heading_alignment": "text-center md:items-center",
         "heading_tag": "h2",
         "subheading": "",
-        "description": "<h5><strong>NOS BEST SELLER</strong></h5>",
+        "description": "",
         "highlighted_text": "text",
         "highlighted_scribble": "squiggle-underline",
-        "color_text": "",
-        "color_background": "",
+        "color_text": "#171717",
+        "color_background": "#ffffff",
         "gradient_background": "",
         "color_highlight": "#e9bb79",
         "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
+        "color_button_text": "#ffffff",
+        "color_button_background": "#171717",
         "color_button_gradient": "",
         "padding_top": 24,
         "padding_bottom": 20,
         "divider": false,
         "full_width": true,
+        "rounded": false
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "nos-best-seller",
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
+            "title": "Trouvez votre parfum à travers nos 4 univers olfactifs.",
+            "description": "",
+            "overlay_content": true,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 17
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-florale-fraiche-🌸",
+            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
+            "title": "Collection Florale & Fraîche 🌸",
+            "description": "Des parfums à base de rose, fleurs blanches, jasmin, musc frais.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-gourmande-sucree-🍭",
+            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
+            "title": "Collection Gourmande & Sucrée 🍭",
+            "description": "Parfums crémeux, fruités, vanillés, confiserie.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-ambree-orientale🔥",
+            "image": "shopify://shop_images/IMG_1280.jpg",
+            "title": "Collection Ambrée & Orientale 🔥",
+            "description": "Chaleur, bois, épices, vanille foncée, encens.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        },
+        "collection-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "collection-fraiche-aquatique-🌊",
+            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_22_26_49.png",
+            "title": "Collection Fraîche & Aquatique 🌊",
+            "description": "Parfums frais, marins, hespéridés ou très légers.",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection-3",
+        "collection-4",
+        "collection-5"
+      ],
+      "settings": {
+        "columns": 4,
+        "carousel_on_desktop": true,
+        "image_type": "collection",
+        "image_ratio": "square",
+        "show_products_count": false,
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "divider": false,
+        "full_width": false,
         "rounded": false
       }
     },
@@ -554,114 +671,6 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "divider": false,
-        "rounded": false
-      }
-    },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "nos-best-seller",
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_18_13_30.png",
-            "title": "Trouvez votre parfum à travers nos 4 univers olfactifs.",
-            "description": "",
-            "overlay_content": true,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 17
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-florale-fraiche-🌸",
-            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
-            "title": "Collection Florale & Fraîche 🌸",
-            "description": "Des parfums à base de rose, fleurs blanches, jasmin, musc frais.",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-gourmande-sucree-🍭",
-            "image": "shopify://shop_images/IMG_1279_c9fc34f0-9300-4ac6-b8c0-20e67c7b367d.jpg",
-            "title": "Collection Gourmande & Sucrée 🍭",
-            "description": "Parfums crémeux, fruités, vanillés, confiserie.",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-ambree-orientale🔥",
-            "image": "shopify://shop_images/IMG_1280.jpg",
-            "title": "Collection Ambrée & Orientale 🔥",
-            "description": "Chaleur, bois, épices, vanille foncée, encens.",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "collection-fraiche-aquatique-🌊",
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_22_26_49.png",
-            "title": "Collection Fraîche & Aquatique 🌊",
-            "description": "Parfums frais, marins, hespéridés ou très légers.",
-            "overlay_content": false,
-            "color_text": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5"
-      ],
-      "settings": {
-        "columns": 4,
-        "carousel_on_desktop": true,
-        "image_type": "collection",
-        "image_ratio": "square",
-        "show_products_count": false,
-        "show_view_all": true,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "heading": "",
-        "heading_size": "title-md",
-        "heading_alignment": "text-left md:items-end md:flex-row",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "highlighted_text": "none",
-        "highlighted_scribble": "circle",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 32,
-        "padding_bottom": 32,
-        "divider": false,
-        "full_width": false,
         "rounded": false
       }
     },
@@ -1714,12 +1723,12 @@
     "video_hero_gT6J8R",
     "slider_PXBqTx",
     "featured_collections_BfjTGW",
+    "collection-list",
     "scrolling-text-1",
     "reveal_testimonials_Gg4ApB",
     "images_with_text_overlay_jEkfTF",
     "number_counter_QAh8Tg",
     "scrolling-text-2",
-    "collection-list",
     "featured_collection_GbaQ84",
     "featured_collection_FBfnCH",
     "featured_collection_hJz8Wb",
