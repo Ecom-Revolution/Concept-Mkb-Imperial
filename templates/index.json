@@ -390,153 +390,76 @@
         "rounded": false
       }
     },
-    "scrolling-text-1": {
-      "type": "scrolling-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
-            "text_size": 52,
-            "text_font": "body",
-            "highlighted_text": "stencil",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 29,
-        "grid_horizontal": 70,
-        "enable_twin": false,
-        "enable_parallax": true,
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "padding_top": 8,
-        "padding_bottom": 0,
-        "divider": false,
-        "rounded": false
-      }
-    },
-    "reveal_testimonials_Gg4ApB": {
-      "type": "reveal-testimonials",
-      "blocks": {
-        "testimonial_UnVYAd": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "none",
-            "text": "<h3>ㅤㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️</h3><p><strong>“C’est ma 4e commande chez MKB IMPÉRIAL. La qualité est toujours au rendez-vous, les parfums tiennent toute la journée. Je ne porte que ça !”</strong></p><p>— Maya<em> K. </em>Toulon</p>",
-            "author": "",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_n3tRYx": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<h3>ㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️⭐️</h3><p>“Service rapide, emballage très soigné, et le parfum... incroyable ! J’ai pris Khamrah, c’est mon coup de cœur absolu.”</p><p>— Maël<em> R. </em>Nantes</p>",
-            "author": "",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "testimonial_F6zNjW": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "quote",
-            "text": "<h3>ㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️⭐️</h3><p><strong>“J’ai reçu mon parfum Cherry Buzz en 48h, et wow… il sent exactement comme l’original. On me complimente à chaque fois que je le porte.”</strong></p><p>— Éva B. Lyon</p>",
-            "author": "",
-            "author_info": "",
-            "author_url": "",
-            "image_ratio": "rounded",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_UnVYAd",
-        "testimonial_n3tRYx",
-        "testimonial_F6zNjW"
-      ],
-      "name": "t:sections.reveal-testimonials.presets.name",
-      "settings": {
-        "heading": "",
-        "heading_size": "title-sm",
-        "heading_tag": "h2",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 32,
-        "padding_bottom": 4,
-        "divider": false,
-        "rounded": false
-      }
-    },
-    "images_with_text_overlay_jEkfTF": {
+    "images_with_text_overlay_Ui9jC7": {
       "type": "images-with-text-overlay",
       "blocks": {
-        "subheading_NGnDVW": {
+        "subheading_ENB6pG": {
           "type": "subheading",
           "settings": {
-            "subheading": "Nos maisons partenaires",
-            "subheading_size": "subtitle-lg",
+            "subheading": "MKB IMPÉRIAL",
+            "subheading_size": "subtitle-md",
             "secondary_color": true
           }
         },
-        "heading_6EcEpc": {
+        "heading_fxMmCC": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Des marques sélectionnées pour leur excellence et leur authenticité.</strong>",
+            "heading": "<strong>Le parfum, symbole de présence.</strong>",
             "heading_size": "title-sm",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
+          }
+        },
+        "text_zVJ9zf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez <strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "button_8qXA3F": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPOSER MON PACKS",
+            "button_link": "shopify://pages/cree-votre-offrd",
+            "button_style": "primary",
+            "button_size": "md",
+            "button_external": false,
+            "button_icon": true
           }
         }
       },
       "block_order": [
-        "subheading_NGnDVW",
-        "heading_6EcEpc"
+        "subheading_ENB6pG",
+        "heading_fxMmCC",
+        "text_zVJ9zf",
+        "button_8qXA3F"
       ],
-      "name": "t:sections.images-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": false,
-        "image_height": "750px",
+        "image_height": "650px",
         "content_width": "small",
-        "content_position": "md:items-center md:justify-start",
+        "content_position": "md:items-end md:justify-start",
         "text_alignment": "left",
-        "image_1": "shopify://shop_images/Lattafa.png",
-        "image_2": "shopify://shop_images/Frame_76_3.webp",
-        "image_3": "shopify://shop_images/91.png",
-        "image_4": "shopify://shop_images/Logo-Gris-Montaigne-Black-01.png",
-        "image_5": "shopify://shop_images/329-medium_default.png",
+        "image_1": "shopify://shop_images/pixelcut-export_51_351fbfd9-ca39-4f51-88b4-c279081c3bc4.png",
+        "image_2": "shopify://shop_images/pixelcut-export_49_5863814b-b218-4c86-af10-001c8b8d3913.png",
+        "image_3": "shopify://shop_images/pixelcut-export_57.png",
+        "image_4": "shopify://shop_images/pixelcut-export_56.png",
+        "image_5": "shopify://shop_images/pixelcut-export_50.png",
         "image_height_mobile": "auto",
-        "content_position_mobile": "items-center justify-start",
+        "content_position_mobile": "items-end justify-start",
         "text_alignment_mobile": "left",
         "color_text": "#171717",
         "color_highlight": "#e0a580",
         "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#e9bb79",
+        "color_button_text": "#ffffff",
+        "color_button_background": "#171717",
         "color_button_gradient": "",
         "color_overlay": "#fafafa",
         "overlay_opacity": 100,
@@ -546,132 +469,6 @@
         "full_width": true,
         "rounded": false,
         "enable_parallax": true
-      }
-    },
-    "number_counter_QAh8Tg": {
-      "type": "number-counter",
-      "blocks": {
-        "counter_AYJ7jr": {
-          "type": "counter",
-          "settings": {
-            "title": "AUTHENTIQUES",
-            "number": "100",
-            "unit": "%",
-            "duration": 2
-          }
-        },
-        "counter_aGUtTC": {
-          "type": "counter",
-          "settings": {
-            "title": "Nous garantissons l'origine et la qualité de chaque parfum que nous proposons.",
-            "number": "",
-            "unit": "",
-            "duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "counter_AYJ7jr",
-        "counter_aGUtTC"
-      ],
-      "name": "t:sections.number-counter.presets.name",
-      "settings": {
-        "gap": "small",
-        "columns": 2,
-        "text_alignment": "center",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "text_alignment_mobile": "center",
-        "color_text": "#849493",
-        "color_background": "#fafafa",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "padding_top": 0,
-        "padding_bottom": 32,
-        "divider": false,
-        "full_width": false,
-        "rounded": false
-      }
-    },
-    "scrolling-text-2": {
-      "type": "scrolling-text",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-5": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-6": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        },
-        "image-7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/logo_seulement.png",
-            "height": 60
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2",
-        "image-3",
-        "image-4",
-        "image-5",
-        "image-6",
-        "image-7"
-      ],
-      "disabled": true,
-      "settings": {
-        "direction": "right",
-        "speed": 5,
-        "grid_horizontal": 140,
-        "enable_twin": true,
-        "enable_parallax": true,
-        "color_text": "",
-        "color_background": "#171717",
-        "gradient_background": "",
-        "color_highlight": "",
-        "gradient_highlight": "",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "divider": false,
-        "rounded": false
       }
     },
     "featured_collection_GbaQ84": {
@@ -814,6 +611,290 @@
         "rounded": false
       }
     },
+    "number_counter_QAh8Tg": {
+      "type": "number-counter",
+      "blocks": {
+        "counter_AYJ7jr": {
+          "type": "counter",
+          "settings": {
+            "title": "AUTHENTIQUES",
+            "number": "100",
+            "unit": "%",
+            "duration": 2
+          }
+        },
+        "counter_aGUtTC": {
+          "type": "counter",
+          "settings": {
+            "title": "Nous garantissons l'origine et la qualité de chaque parfum que nous proposons.",
+            "number": "",
+            "unit": "",
+            "duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "counter_AYJ7jr",
+        "counter_aGUtTC"
+      ],
+      "name": "t:sections.number-counter.presets.name",
+      "settings": {
+        "gap": "small",
+        "columns": 2,
+        "text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "text_alignment_mobile": "center",
+        "color_text": "#171717",
+        "color_background": "#fafafa",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 0,
+        "padding_bottom": 32,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "scrolling-text-1": {
+      "type": "scrolling-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<em><strong>ILS NE PEUVENT PLUS CE PASSER DE NOUS !</strong></em>",
+            "text_size": 52,
+            "text_font": "body",
+            "highlighted_text": "stencil",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 29,
+        "grid_horizontal": 70,
+        "enable_twin": false,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 8,
+        "padding_bottom": 0,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "reveal_testimonials_Gg4ApB": {
+      "type": "reveal-testimonials",
+      "blocks": {
+        "testimonial_UnVYAd": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "none",
+            "text": "<h3>ㅤㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️</h3><p><strong>“C’est ma 4e commande chez MKB IMPÉRIAL. La qualité est toujours au rendez-vous, les parfums tiennent toute la journée. Je ne porte que ça !”</strong></p><p>— Maya<em> K. </em>Toulon</p>",
+            "author": "",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_n3tRYx": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<h3>ㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️⭐️</h3><p>“Service rapide, emballage très soigné, et le parfum... incroyable ! J’ai pris Khamrah, c’est mon coup de cœur absolu.”</p><p>— Maël<em> R. </em>Nantes</p>",
+            "author": "",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "testimonial_F6zNjW": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<h3>ㅤㅤㅤㅤㅤ⭐️⭐️⭐️⭐️⭐️</h3><p><strong>“J’ai reçu mon parfum Cherry Buzz en 48h, et wow… il sent exactement comme l’original. On me complimente à chaque fois que je le porte.”</strong></p><p>— Éva B. Lyon</p>",
+            "author": "",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_UnVYAd",
+        "testimonial_n3tRYx",
+        "testimonial_F6zNjW"
+      ],
+      "name": "t:sections.reveal-testimonials.presets.name",
+      "settings": {
+        "heading": "",
+        "heading_size": "title-sm",
+        "heading_tag": "h2",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 32,
+        "padding_bottom": 4,
+        "divider": false,
+        "rounded": false
+      }
+    },
+    "images_with_text_overlay_jEkfTF": {
+      "type": "images-with-text-overlay",
+      "blocks": {
+        "subheading_NGnDVW": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Nos maisons partenaires",
+            "subheading_size": "subtitle-lg",
+            "secondary_color": true
+          }
+        },
+        "heading_6EcEpc": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Des marques sélectionnées pour leur excellence et leur authenticité.</strong>",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NGnDVW",
+        "heading_6EcEpc"
+      ],
+      "name": "t:sections.images-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image_height": "750px",
+        "content_width": "small",
+        "content_position": "md:items-end md:justify-center",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/Lattafa.png",
+        "image_2": "shopify://shop_images/Frame_76_3.webp",
+        "image_3": "shopify://shop_images/91.png",
+        "image_4": "shopify://shop_images/Logo-Gris-Montaigne-Black-01.png",
+        "image_5": "shopify://shop_images/329-medium_default.png",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-center",
+        "text_alignment_mobile": "left",
+        "color_text": "#171717",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#e9bb79",
+        "color_button_gradient": "",
+        "color_overlay": "#fafafa",
+        "overlay_opacity": 100,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": true
+      }
+    },
+    "scrolling-text-2": {
+      "type": "scrolling-text",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        },
+        "image-7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/logo_seulement.png",
+            "height": 60
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-2",
+        "image-3",
+        "image-4",
+        "image-5",
+        "image-6",
+        "image-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "direction": "right",
+        "speed": 5,
+        "grid_horizontal": 140,
+        "enable_twin": true,
+        "enable_parallax": true,
+        "color_text": "",
+        "color_background": "#171717",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "divider": false,
+        "rounded": false
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -934,87 +1015,6 @@
         "rounded": true
       }
     },
-    "images_with_text_overlay_Ui9jC7": {
-      "type": "images-with-text-overlay",
-      "blocks": {
-        "subheading_ENB6pG": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "MKB IMPÉRIAL",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_fxMmCC": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Le parfum, symbole de présence.</strong>",
-            "heading_size": "title-sm",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_zVJ9zf": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Chaque fragrance que nous proposons a été choisie avec attention.<br/>Chez <strong>MKB IMPÉRIAL</strong>, nous croyons que le parfum est un art — celui de se distinguer sans dire un mot.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "button_8qXA3F": {
-          "type": "button",
-          "settings": {
-            "button_label": "COMPOSER MON PACKS",
-            "button_link": "shopify://pages/cree-votre-offrd",
-            "button_style": "primary",
-            "button_size": "md",
-            "button_external": false,
-            "button_icon": true
-          }
-        }
-      },
-      "block_order": [
-        "subheading_ENB6pG",
-        "heading_fxMmCC",
-        "text_zVJ9zf",
-        "button_8qXA3F"
-      ],
-      "settings": {
-        "transparent_header": false,
-        "image_height": "650px",
-        "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_1": "shopify://shop_images/pixelcut-export_51_351fbfd9-ca39-4f51-88b4-c279081c3bc4.png",
-        "image_2": "shopify://shop_images/pixelcut-export_49_5863814b-b218-4c86-af10-001c8b8d3913.png",
-        "image_3": "shopify://shop_images/pixelcut-export_57.png",
-        "image_4": "shopify://shop_images/pixelcut-export_56.png",
-        "image_5": "shopify://shop_images/pixelcut-export_50.png",
-        "image_height_mobile": "auto",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
-        "color_text": "#171717",
-        "color_highlight": "#e0a580",
-        "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#e9bb79",
-        "color_button_gradient": "",
-        "color_overlay": "#fafafa",
-        "overlay_opacity": 100,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "divider": false,
-        "full_width": true,
-        "rounded": false,
-        "enable_parallax": true
-      }
-    },
     "reveal_image_with_text_overlay_jDWK4Q": {
       "type": "reveal-image-with-text-overlay",
       "blocks": {
@@ -1072,56 +1072,6 @@
         "color_overlay": "#171717",
         "overlay_opacity": 70,
         "enable_parallax": true
-      }
-    },
-    "rich-text-1": {
-      "type": "rich-text",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
-      "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
-        "heading_size": "title-sm",
-        "heading_alignment": "text-center md:items-center",
-        "heading_width": "small",
-        "heading_tag": "h2",
-        "subheading": "",
-        "description": "",
-        "button_label": "Notre Histoire",
-        "button_link": "shopify://pages/a-propos-de-nous",
-        "button_external": false,
-        "button_icon": true,
-        "highlighted_text": "text",
-        "highlighted_scribble": "basic-underline",
-        "color_text": "",
-        "color_background": "",
-        "gradient_background": "",
-        "color_highlight": "#e9bb79",
-        "gradient_highlight": "",
-        "color_button_text": "",
-        "color_button_background": "",
-        "color_button_gradient": "",
-        "padding_top": 28,
-        "padding_bottom": 8,
-        "divider": false,
-        "narrow": false,
-        "rounded": false
       }
     },
     "shop-the-feed": {
@@ -1557,6 +1507,56 @@
         "parallax_direction": "vertical"
       }
     },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Un monde, des paysages, des émotions... Votre voyage olfactif commence ici !</strong></p><p>Découvrez l’univers envoûtant des parfums d'exception. Chaque fragrance, soigneusement choisie, raconte une émotion, une histoire. </p><p>Plus qu’un parfum, c’est une expérience qui vous accompagne partout et laisse, sur son passage, une empreinte inoubliable.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "<strong>À propos de </strong><em><strong> MKB IMPÉRIAL</strong></em>",
+        "heading_size": "title-sm",
+        "heading_alignment": "text-center md:items-center",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "Notre Histoire",
+        "button_link": "shopify://pages/a-propos-de-nous",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "text",
+        "highlighted_scribble": "basic-underline",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "#e9bb79",
+        "gradient_highlight": "",
+        "color_button_text": "#ffffff",
+        "color_button_background": "#171717",
+        "color_button_gradient": "",
+        "padding_top": 28,
+        "padding_bottom": 8,
+        "divider": false,
+        "narrow": false,
+        "rounded": false
+      }
+    },
     "slideshow_F6BqHJ": {
       "type": "slideshow",
       "blocks": {
@@ -1724,23 +1724,23 @@
     "slider_PXBqTx",
     "featured_collections_BfjTGW",
     "collection-list",
-    "scrolling-text-1",
-    "reveal_testimonials_Gg4ApB",
-    "images_with_text_overlay_jEkfTF",
-    "number_counter_QAh8Tg",
-    "scrolling-text-2",
+    "images_with_text_overlay_Ui9jC7",
     "featured_collection_GbaQ84",
     "featured_collection_FBfnCH",
     "featured_collection_hJz8Wb",
     "featured_collection_3cKneH",
+    "number_counter_QAh8Tg",
+    "scrolling-text-1",
+    "reveal_testimonials_Gg4ApB",
+    "images_with_text_overlay_jEkfTF",
+    "scrolling-text-2",
     "featured-product",
-    "images_with_text_overlay_Ui9jC7",
     "reveal_image_with_text_overlay_jDWK4Q",
-    "rich-text-1",
     "shop-the-feed",
     "countdown-timer",
     "shop-the-look",
     "floating_product_bundle_yxjpiE",
+    "rich-text-1",
     "slideshow_F6BqHJ",
     "testimonials-banner"
   ]
