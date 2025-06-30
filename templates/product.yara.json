@@ -240,6 +240,116 @@
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {}
     },
+    "rich_text_miPjyn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KUUxFj": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Associez les senteurs best-sellers de Dubaï</strong>",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_MxDeab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Offrez-vous la collection Yara complète et révélez votre signature olfactive orientale.</p><p>Cherry, Candy, Orange, Blanc : quatre fragrances iconiques, audacieuses, pensées pour celles et ceux qui veulent sublimer chaque instant avec une note unique.</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KUUxFj",
+        "text_MxDeab"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "text_alignment_mobile": "left",
+        "heading": "",
+        "heading_size": "title-md",
+        "heading_alignment": "text-left md:items-end md:flex-row",
+        "heading_width": "small",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_external": false,
+        "button_icon": true,
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 28,
+        "padding_bottom": 0,
+        "divider": false,
+        "narrow": true,
+        "rounded": false
+      }
+    },
+    "product_bundle_tiqfUX": {
+      "type": "product-bundle",
+      "name": "t:sections.product-bundle.presets.name",
+      "settings": {
+        "collection": "",
+        "products": [
+          "yara-100-ml-par-lattafa-perfumes-eau-de-parfum",
+          "yara-orange-lattafa-eau-de-parfum-100ml",
+          "yara-candy-eau-de-parfum-100-ml",
+          "lattafa-yara-blanc-eau-de-parfum-100ml"
+        ],
+        "product_limit": 4,
+        "columns": 4,
+        "columns_mobile": "2",
+        "minimum_quantity": 3,
+        "maximum_quantity": 3,
+        "prevent_duplicate_products": true,
+        "allow_quantity_change": true,
+        "quantity_increment": "1",
+        "quantity_minimum": "1",
+        "quantity_maximum": "",
+        "show_variant_labels": true,
+        "picker_type": "button",
+        "enable_color_swatches": true,
+        "color_swatch_type": "color",
+        "heading": "L'Expérience Yara : votre pack exclusif",
+        "heading_size": "lg:text-3xl text-2xl",
+        "heading_alignment": "text-left",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "<p>En choisissant le pack, bénéficiez d’un prix exclusif et d’une livraison prioritaire.</p>",
+        "highlighted_text": "none",
+        "highlighted_scribble": "circle",
+        "color_text": "",
+        "color_background": "",
+        "gradient_background": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
     "featured_collections_BXQTfd": {
       "type": "featured-collections",
       "blocks": {
@@ -663,6 +773,8 @@
     "main-product",
     "payement_Hz7PGD",
     "custom_liquid_g88xiz",
+    "rich_text_miPjyn",
+    "product_bundle_tiqfUX",
     "featured_collections_BXQTfd",
     "help-drawer",
     "collage",
