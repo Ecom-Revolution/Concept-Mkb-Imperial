@@ -12,6 +12,12 @@
     "main-product": {
       "type": "main-product",
       "blocks": {
+        "liquid_yB9RLd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product__content--block\" style=\"margin-bottom: 1.6rem;\">\n              <div class=\"progress-bar-stock\">\n  <div class=\"progress-bar-container\">\n    <div class=\"progress-bar-fill\"></div>\n  </div>\n  <div class=\"progress-bar-text-row\">\n    <span class=\"left-text\"><strong>9% du stock restant</strong></span>\n    <span class=\"right-text\"><strong>L'offre se termine bientôt</strong></span>\n  </div>\n</div>\n\n<style>\n.progress-bar-stock {\n  margin-top: 20px;\n  font-family: Arial, sans-serif;\n}\n\n.progress-bar-container {\n  width: 100%;\n  max-width: 400px;\n  height: 12px;\n  background-color: #ffffff;\n  border: 1px solid #ccc;\n  border-radius: 20px;\n  margin: 0 auto;\n  overflow: hidden;\n  position: relative;\n}\n\n.progress-bar-fill {\n  height: 100%;\n  width: 10%;\n  background: linear-gradient(90deg, #ff0055, #ff55aa);\n  border-radius: 20px 0 0 20px;\n  animation: barAnimation 1.2s ease-out;\n}\n\n@keyframes barAnimation {\n  from { width: 0%; }\n  to { width: 10%; }\n}\n\n.progress-bar-text-row {\n  display: flex;\n  justify-content: space-between;\n  max-width: 400px;\n  margin: 6px auto 0;\n  font-size: 11px;\n  color: #222;\n}\n</style>\n            </div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -161,6 +167,7 @@
         }
       },
       "block_order": [
+        "liquid_yB9RLd",
         "title",
         "quantity_selector_kkNLPx",
         "liquid_LDLVHz",
