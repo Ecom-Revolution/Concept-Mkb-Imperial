@@ -286,7 +286,7 @@
         "color_highlight": "",
         "gradient_highlight": "",
         "color_button_text": "#ffffff",
-        "color_button_background": "#ffffff",
+        "color_button_background": "#171717",
         "color_button_gradient": "",
         "padding_top": 4,
         "padding_bottom": 32,
@@ -472,6 +472,7 @@
         "image-3",
         "image-4"
       ],
+      "disabled": true,
       "settings": {
         "heading": "<strong>À propos de </strong><em><strong>MKB IMPÉRIAL</strong></em>",
         "heading_size": "title-md",
@@ -540,6 +541,7 @@
         "heading_bFa4X8",
         "text_DPGTBT"
       ],
+      "disabled": true,
       "name": "t:sections.reveal-image-with-text-overlay.presets.name",
       "settings": {
         "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_12_32_32.png",
