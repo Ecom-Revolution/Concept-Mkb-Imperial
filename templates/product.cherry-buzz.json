@@ -87,7 +87,7 @@
           "settings": {
             "show_quantity_selector": true,
             "show_price": false,
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true,
             "enable_back_in_stock": false,
             "show_back_in_stock_name": false,
@@ -195,7 +195,7 @@
         "gallery_layout": "scroll",
         "thumbnail_position": "beside",
         "image_ratio": "adapt_first",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "hide_variants": false,
         "enable_video_autoplay": true,
         "enable_video_looping": true,
