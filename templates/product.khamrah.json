@@ -227,9 +227,9 @@
         "show_mastercard": true,
         "show_american_express": false,
         "show_discover": false,
-        "show_paypal": true,
+        "show_paypal": false,
         "show_apple_pay": true,
-        "show_google_pay": false,
+        "show_google_pay": true,
         "show_shop_pay": false
       }
     },
