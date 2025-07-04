@@ -374,7 +374,7 @@
         "table_heading_active_color": "#ffffff",
         "table_heading_bg_active_color": "#171717",
         "table_column_active_bg_color": "#ffffff",
-        "table_column_active_border_color": "#d4af37",
+        "table_column_active_border_color": "#171717",
         "table_row_border_color": "#ffffff",
         "table_row_heading_color": "#2f1718",
         "table_row_text_color": "#2f1718",
