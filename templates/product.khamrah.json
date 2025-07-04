@@ -31,28 +31,6 @@
             "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(246, 248, 252, 1); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> 1 parfum acheté = 1 échantillon offert</strong>\n      </span>\n    </div>\n  </div>\n</div>"
           }
         },
-        "text_pNEyKT": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_image": "shopify://shop_images/icons8-gift-50.png",
-            "icon_width": 80,
-            "text": "<strong>Sentez, testez, choisissez </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤUn parfum acheté = un échantillon offert",
-            "text_size": "text-base"
-          }
-        },
-        "text_EpbGTj": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_image": "shopify://shop_images/icons8-giveaway-100_1.png",
-            "icon_width": 120,
-            "text": "<strong>Cadeau OFFERT </strong>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤPour toute commande à partir de 150€ d'achats",
-            "text_size": "text-base"
-          }
-        },
         "countdown": {
           "type": "countdown",
           "settings": {
@@ -163,8 +141,6 @@
         "title",
         "quantity_selector_kkNLPx",
         "liquid_LDLVHz",
-        "text_pNEyKT",
-        "text_EpbGTj",
         "countdown",
         "variant_picker",
         "buy_buttons",
