@@ -89,6 +89,12 @@
           "type": "sticky_buy_button",
           "settings": {}
         },
+        "liquid_tVajib": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"13\" viewBox=\"0 0 14 13\" fill=\"none\">\n    <path d=\"M8.60809 0.914506L13.2956 3.49263C13.3613 3.52876 13.416 3.58186 13.4542 3.64639C13.4924 3.71091 13.5125 3.78449 13.5125 3.85945V9.95319C13.5125 10.0282 13.4924 10.1017 13.4542 10.1663C13.416 10.2308 13.3613 10.2839 13.2956 10.32L8.6081 12.8981C8.54626 12.9322 8.47683 12.95 8.40626 12.95C8.33568 12.95 8.26625 12.9322 8.20442 12.8981L6.13043 11.7574L6.53408 11.0242L7.91341 11.7829V6.7146L3.51693 4.22627C3.45128 4.19012 3.39653 4.13702 3.3584 4.07249C3.32027 4.00797 3.30015 3.9344 3.30015 3.85945C3.30015 3.7845 3.32027 3.71092 3.3584 3.6464C3.39653 3.58188 3.45128 3.52877 3.51693 3.49262L8.20442 0.914508C8.26625 0.880489 8.33568 0.862653 8.40626 0.862653C8.47683 0.862653 8.54626 0.880489 8.60809 0.914506Z\" fill=\"black\" stroke=\"#E9E9E9\" stroke-width=\"0.1\"/>\n    <path d=\"M4.0625 6.78131H0.5625V6.09381H4.0625V6.78131ZM5 10.5313H1.5V9.84381H5V10.5313ZM5.9375 8.65631H2.4375V7.96881H5.9375V8.65631Z\" fill=\"black\" stroke=\"#FBFAF9\" stroke-width=\"0.25\"/>\n  </svg>\n  <p style=\"margin: 0;\">\n    Commandez maintenant et recevez le <strong>lundi</strong> <strong>7 juillet</strong>\n  </p>\n</div>"
+          }
+        },
         "pickup_availability": {
           "type": "pickup_availability",
           "settings": {}
@@ -146,12 +152,6 @@
             "opened": false
           }
         },
-        "liquid_tVajib": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; gap: 6px;\">\n  <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"13\" viewBox=\"0 0 14 13\" fill=\"none\">\n    <path d=\"M8.60809 0.914506L13.2956 3.49263C13.3613 3.52876 13.416 3.58186 13.4542 3.64639C13.4924 3.71091 13.5125 3.78449 13.5125 3.85945V9.95319C13.5125 10.0282 13.4924 10.1017 13.4542 10.1663C13.416 10.2308 13.3613 10.2839 13.2956 10.32L8.6081 12.8981C8.54626 12.9322 8.47683 12.95 8.40626 12.95C8.33568 12.95 8.26625 12.9322 8.20442 12.8981L6.13043 11.7574L6.53408 11.0242L7.91341 11.7829V6.7146L3.51693 4.22627C3.45128 4.19012 3.39653 4.13702 3.3584 4.07249C3.32027 4.00797 3.30015 3.9344 3.30015 3.85945C3.30015 3.7845 3.32027 3.71092 3.3584 3.6464C3.39653 3.58188 3.45128 3.52877 3.51693 3.49262L8.20442 0.914508C8.26625 0.880489 8.33568 0.862653 8.40626 0.862653C8.47683 0.862653 8.54626 0.880489 8.60809 0.914506Z\" fill=\"black\" stroke=\"#E9E9E9\" stroke-width=\"0.1\"/>\n    <path d=\"M4.0625 6.78131H0.5625V6.09381H4.0625V6.78131ZM5 10.5313H1.5V9.84381H5V10.5313ZM5.9375 8.65631H2.4375V7.96881H5.9375V8.65631Z\" fill=\"black\" stroke=\"#FBFAF9\" stroke-width=\"0.25\"/>\n  </svg>\n  <p style=\"margin: 0;\">\n    Commandez maintenant et recevez le <strong>lundi</strong> <strong>7 juillet</strong>\n  </p>\n</div>"
-          }
-        },
         "liquid_ReTUhR": {
           "type": "liquid",
           "settings": {
@@ -169,13 +169,13 @@
         "variant_picker",
         "buy_buttons",
         "sticky_buy_button",
+        "liquid_tVajib",
         "pickup_availability",
         "product_bundle_idfcGh",
         "complementary",
         "collapsible_tab_y8PbfF",
         "collapsible_tab_L4ighk",
         "collapsible_tab_3YEXVL",
-        "liquid_tVajib",
         "liquid_ReTUhR"
       ],
       "settings": {
