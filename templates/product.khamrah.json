@@ -154,6 +154,7 @@
         },
         "liquid_ReTUhR": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(00, 00, 00, 0); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> Payement sécurisé avec :</strong>\n      </span>\n    </div>\n  </div>\n</div>"
           }
@@ -197,40 +198,6 @@
         "divider": false,
         "full_width": true,
         "rounded": false
-      }
-    },
-    "payement_Hz7PGD": {
-      "type": "payement",
-      "blocks": {
-        "image_V6GpyU": {
-          "type": "image",
-          "settings": {
-            "alt_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_V6GpyU"
-      ],
-      "custom_css": [],
-      "name": "🚀SP - Payment Icons",
-      "settings": {
-        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
-        "max_width": 999,
-        "icon_height": 30,
-        "icon_gap": 0,
-        "padding_top": -6,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "show_visa": true,
-        "show_mastercard": true,
-        "show_american_express": false,
-        "show_discover": false,
-        "show_paypal": false,
-        "show_apple_pay": true,
-        "show_google_pay": true,
-        "show_shop_pay": false
       }
     },
     "custom_liquid_g88xiz": {
@@ -397,8 +364,8 @@
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 72,
-        "padding_bottom": 72,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": false,
@@ -637,7 +604,6 @@
   },
   "order": [
     "main-product",
-    "payement_Hz7PGD",
     "custom_liquid_g88xiz",
     "comparaison_aBzYJB",
     "featured_collections_BXQTfd",
