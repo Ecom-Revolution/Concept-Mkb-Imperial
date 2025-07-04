@@ -373,75 +373,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "heading": "",
-            "link": "",
-            "invert_subheading_heading": false,
-            "image": "shopify://shop_images/ChatGPT_Image_27_mai_2025_a_14_14_36.png",
-            "image_ratio": "landscape",
-            "content_position": "md:items-end md:justify-center",
-            "text_alignment": "center",
-            "image_ratio_mobile": "landscape",
-            "content_position_mobile": "items-end justify-center",
-            "text_alignment_mobile": "center",
-            "highlighted_text": "text",
-            "highlighted_scribble": "circle",
-            "color_text": "#ffffff",
-            "color_highlight": "#fde047",
-            "gradient_highlight": "",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "heading": "",
-            "link": "",
-            "invert_subheading_heading": false,
-            "image": "shopify://shop_images/A_photograph_showcases_a_Yara-branded_perfume_bott.png",
-            "image_ratio": "portrait",
-            "content_position": "md:items-end md:justify-start",
-            "text_alignment": "left",
-            "image_ratio_mobile": "portrait",
-            "content_position_mobile": "items-end justify-start",
-            "text_alignment_mobile": "left",
-            "highlighted_text": "text",
-            "highlighted_scribble": "circle",
-            "color_text": "#ffffff",
-            "color_highlight": "#fde047",
-            "gradient_highlight": "",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
-        "image-3": {
-          "type": "image",
-          "settings": {
-            "subheading": "",
-            "heading": "",
-            "link": "",
-            "invert_subheading_heading": false,
-            "image": "shopify://shop_images/IMG_1278_c7aca57d-99a1-4e23-9d9d-646182237c13.jpg",
-            "image_ratio": "portrait",
-            "content_position": "md:items-start md:justify-end",
-            "text_alignment": "right",
-            "image_ratio_mobile": "portrait",
-            "content_position_mobile": "items-start justify-end",
-            "text_alignment_mobile": "right",
-            "highlighted_text": "text",
-            "highlighted_scribble": "circle",
-            "color_text": "#ffffff",
-            "color_highlight": "#fde047",
-            "gradient_highlight": "",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
-        },
         "image-4": {
           "type": "image",
           "settings": {
@@ -467,9 +398,6 @@
         }
       },
       "block_order": [
-        "image-1",
-        "image-2",
-        "image-3",
         "image-4"
       ],
       "settings": {
