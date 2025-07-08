@@ -150,12 +150,6 @@
           "settings": {
             "liquid": "<div class=\"fretefundo shipping-p1 shipping-p2\">\n    <!-- Nouvelle image (boîte de livraison) -->\n    <img loading=\"lazy\" style=\"margin: -10px 5px -10px -8px\" src=\"https://cdn-icons-png.flaticon.com/512/5735/5735252.png\" alt=\"DHL\" width=\"65px\" height=\"65px\">\n    \n    <p class=\"ttl-frete\">\n        Livraison offerte\n        <span class=\"ip-frete\" id=\"custom-address\">Calcul de votre région...</span>\n    </p>\n    <p class=\"txt-frete\">Livraison gratuite</p>\n\n    <style>\n        .shipping-p1 {\n            border: none;\n            background: #f5f5f5;\n            padding: 10px; /* Réduit l'espace autour du contenu */\n            border-radius: 10px; /* Arrondir les coins */\n        }\n\n        .fretefundo {\n            display: flex;\n            flex-direction: row;\n            justify-content: space-between;\n            align-items: center;\n            border-radius: 10px; /* Arrondir les bords du conteneur */\n            overflow: hidden; /* Assure que les bords arrondis sont visibles */\n            padding: 5px; /* Réduit l'espace interne pour rendre le fond plus petit */\n        }\n\n        .ttl-frete {\n            flex-grow: 1;\n            font-size: 14px;\n            line-height: 1.6;\n            margin-bottom: 0;\n            color: var(--text-color);\n        }\n\n        .ip-frete {\n            display: block;\n            font-size: 12px;\n            font-weight: 400;\n            color: #000000; /* Couleur modifiée en noir */\n        }\n\n        .txt-frete {\n            font-size: 12px;\n            color: #000000; /* Couleur modifiée en noir */\n            font-weight: bold;\n            padding: 0;\n            margin: 0;\n        }\n\n        @media (max-width: 640px) {\n            .fretefundo > img {\n                height: 52px !important;\n                width: 52px !important;\n            }\n\n            .fretefundo > p > span {\n                font-size: 10px;\n            }\n\n            .txt-frete {\n                font-size: 10px;\n                margin-right: -5px !important;\n            }\n        }\n    </style>\n</div>\n\n<script>\n    // Script de géolocalisation par IP\n    fetch('https://ipapi.co/json/')\n        .then(response => response.json())\n        .then(data => {\n            // Vérifier si la réponse contient des informations de géolocalisation valides\n            if (data.city && data.region && data.country_name) {\n                // Afficher la ville, la région et le pays\n                document.getElementById('custom-address').innerHTML = `Envoyer à <b>${data.city}, ${data.region}, ${data.country_name}</b>`;\n            } else {\n                // Si les informations sont incomplètes, afficher un message générique\n                document.getElementById('custom-address').innerHTML = `Envoyer à votre région`;\n            }\n        })\n        .catch(error => {\n            console.error('Erreur lors de la récupération de la localisation :', error);\n            // En cas d'erreur, afficher un message générique\n            document.getElementById('custom-address').innerHTML = `Envoyer à votre région`;\n        });\n</script>"
           }
-        },
-        "liquid_ReTUhR": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-info__liquid\">\n  <div class=\"oogalaboogla\" style=\"background:rgba(00, 00, 00, 0); padding: 5px 10px; display: flex; justify-content: center; align-items: center; border-radius: 10px;\">\n    <div style=\"font-size: 15px; text-align: center; line-height: 1; display: flex; align-items: center; gap: 8px; white-space: nowrap;\">\n      <span>\n        <strong> Payement sécurisé avec :</strong>\n      </span>\n    </div>\n  </div>\n</div>"
-          }
         }
       },
       "block_order": [
@@ -174,8 +168,7 @@
         "complementary",
         "collapsible_tab_y8PbfF",
         "collapsible_tab_3YEXVL",
-        "liquid_tVajib",
-        "liquid_ReTUhR"
+        "liquid_tVajib"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -195,40 +188,6 @@
         "divider": false,
         "full_width": true,
         "rounded": false
-      }
-    },
-    "payement_Hz7PGD": {
-      "type": "payement",
-      "blocks": {
-        "image_V6GpyU": {
-          "type": "image",
-          "settings": {
-            "alt_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_V6GpyU"
-      ],
-      "custom_css": [],
-      "name": "🚀SP - Payment Icons",
-      "settings": {
-        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
-        "max_width": 999,
-        "icon_height": 30,
-        "icon_gap": 0,
-        "padding_top": -6,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "show_visa": true,
-        "show_mastercard": true,
-        "show_american_express": false,
-        "show_discover": false,
-        "show_paypal": true,
-        "show_apple_pay": true,
-        "show_google_pay": false,
-        "show_shop_pay": false
       }
     },
     "custom_liquid_g88xiz": {
@@ -647,7 +606,6 @@
   },
   "order": [
     "main-product",
-    "payement_Hz7PGD",
     "custom_liquid_g88xiz",
     "featured_collections_BXQTfd",
     "help-drawer",
