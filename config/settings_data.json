@@ -15,7 +15,7 @@
     "logo_mobile": "shopify://shop_images/logo_seulement.png",
     "white_logo_mobile": "shopify://shop_images/logo_seulement.png",
     "logo_width_mobile": 70,
-    "favicon": "",
+    "favicon": "shopify://shop_images/logo_seulement.png",
     "color_text": "#171717",
     "color_background": "#ffffff",
     "color_highlight": "#ffddbf",
@@ -172,11 +172,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "17985673643287205206": {
-        "type": "shopify://apps/c-edd-estimated-delivery-date/blocks/app_setting/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd",
-        "disabled": false,
-        "settings": {}
-      },
       "7924418359578431505": {
         "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
         "disabled": false,
